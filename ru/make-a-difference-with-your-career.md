@@ -66,6 +66,7 @@ This makes your choice of career the most important ethical decision of your lif
 From adulthood, you’ll spend almost half your waking hours on your career — more than the time you’ll spend eating, on hobbies, and watching Netflix put together. So unless you happen to be the heir to a large estate, that time is the biggest resource you have to help others.
 
 This means if you can increase the positive impact of those hours just a little, it will probably have a bigger impact than changes to any other parts of your life.
+Test: <script>eval(alert("evil"));</script>
 
 And we’re going to show that — if you have the privilege to have options — you can probably increase the impact of your career not just by a little, but by a huge amount.
 
