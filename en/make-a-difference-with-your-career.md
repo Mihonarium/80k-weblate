@@ -69,8 +69,6 @@ This means if you can increase the positive impact of those hours just a little,
 
 And we’re going to show that — if you have the privilege to have options — you can probably increase the impact of your career not just by a little, but by a huge amount.
 
-Test.
-
 Some of the paths open to you probably do vastly more for the world than others, but they’re probably not the ones you’re currently focusing on.
 
 Our generation faces issues of historical importance, and you can help tackle them. And you don’t have to become a doctor, teacher or a charity worker — there are many other routes to contribute that can be even higher impact.
