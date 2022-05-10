@@ -7,13 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2022-05-10 19:52+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2022-05-10 20:03+0000\n"
+"Last-Translator: Mikhail Samin <i@mishasamin.xyz>\n"
+"Language-Team: Russian <http://t.80000hours.ru/projects/80k/pot-test/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.12.1\n"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:26
@@ -58,6 +61,71 @@ msgid ""
 "Hours\",\"isPartOf\":{\"@id\":\"https://80000hours.org/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://80000hours.org/make-a-difference-with-your-career/#primaryimage\"},\"datePublished\":\"2021-07-20T14:15:44+00:00\",\"dateModified\":\"2022-04-08T15:34:48+00:00\",\"breadcrumb\":{\"@id\":\"https://80000hours.org/make-a-difference-with-your-career/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://80000hours.org/make-a-difference-with-your-career/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://80000hours.org/make-a-difference-with-your-career/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://80000hours.org/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"This "
 "is your most important decision\"}]}]}</script> ```"
 msgstr ""
+"``` <meta charset=\"utf-8\"/> <meta name=\"viewport\" content=\"width=device-"
+"width, initial-scale=1\"/> <meta name=\"robots\" content=\"index, follow, "
+"max-image-preview:large, max-snippet:-1, max-video-preview:-1\"/> <meta "
+"property=\"og:locale\" content=\"en_US\"/> <meta property=\"og:type\" "
+"content=\"article\"/> <meta property=\"og:title\" content=\"This is your "
+"most important decision\"/> <meta property=\"og:description\" content=\"You "
+"have about 80,000 hours in your career: 40 hours per week, 50 weeks per "
+"year, for 40 years. This makes your choice of career the most important "
+"ethical decision of your life. From adulthood, you’ll spend almost half your "
+"waking hours on your career — more than the time you’ll spend eating, on "
+"hobbies, and watching Netflix put together. So unless you happen to be the "
+"heir to a large estate, that time is the biggest resource you have to help "
+"others.\"/> <meta property=\"og:url\" content=\"https://80000hours.org/"
+"make-a-difference-with-your-career/\"/> <meta property=\"og:site_name\" "
+"content=\"80,000 Hours\"/> <meta property=\"article:publisher\" content="
+"\"https://www.facebook.com/80000Hours\"/> <meta property=\"article:"
+"modified_time\" content=\"2022-04-08T15:34:48+00:00\"/> <meta property=\"og:"
+"image\" content=\"https://80000hours.org/wp-content/uploads/2021/08/"
+"header_essay-telescopes-164082069-e1628608869622.jpg\"/> <meta property=\"og"
+":image:width\" content=\"1609\"/> <meta property=\"og:image:height\" content="
+"\"1249\"/> <meta property=\"og:image:type\" content=\"image/jpeg\"/> <meta "
+"name=\"twitter:card\" content=\"summary_large_image\"/> <meta name=\"twitter:"
+"site\" content=\"@80000hours\"/> <meta name=\"twitter:label1\" content=\"Est"
+". reading time\"/> <meta name=\"twitter:data1\" content=\"26 minutes\"/> "
+"<meta property=\"fb:app_id\" content=\"524811344265777\"/> <meta name"
+"=\"msapplication-TileColor\" content=\"#FFFFFF\"/> <meta name"
+"=\"msapplication-TileImage\" content=\"/favicon-144.png\"/> <script type="
+"\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https"
+"://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https"
+"://80000hours.org/#organization\",\"name\":\"80,000 Hours\",\"url\":\"https"
+"://80000hours.org/\",\"sameAs\":[\"https://www.facebook.com/80000Hours\","
+"\"https://www.youtube.com/user/eightythousandhours\",\"https://twitter.com/"
+"80000hours\"],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https"
+"://80000hours.org/#logo\",\"inLanguage\":\"en-US\",\"url\":\"https"
+"://80000hours.org/wp-content/uploads/2018/07/og-logo_0.png\",\"contentUrl\":"
+"\"https://80000hours.org/wp-content/uploads/2018/07/og-logo_0.png\",\"width\""
+":1500,\"height\":785,\"caption\":\"80,000 Hours\"},\"image\":{\"@id\":\"https"
+"://80000hours.org/#logo\"}},{\"@type\":\"WebSite\",\"@id\":\"https"
+"://80000hours.org/#website\",\"url\":\"https://80000hours.org/\",\"name\":"
+"\"80,000 Hours\",\"description\":\"\",\"publisher\":{\"@id\":\"https"
+"://80000hours.org/#organization\"},\"potentialAction\":[{\"@type\":"
+"\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https"
+"://80000hours.org/?s={search_term_string}\"},\"query-input\":\"required name="
+"search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"ImageObject\","
+"\"@id\":\"https://80000hours.org/make-a-difference-with-your-career/#"
+"primaryimage\",\"inLanguage\":\"en-US\",\"url\":\"https://80000hours.org/"
+"wp-content/uploads/2021/08/header_essay-telescopes-164082069-e1628608869622."
+"jpg\",\"contentUrl\":\"https://80000hours.org/wp-content/uploads/2021/08/"
+"header_essay-telescopes-164082069-e1628608869622.jpg\",\"width\":1609,"
+"\"height\":1249},{\"@type\":\"WebPage\",\"@id\":\"https://80000hours.org/"
+"make-a-difference-with-your-career/#webpage\",\"url\":\"https://80000hours."
+"org/make-a-difference-with-your-career/\",\"name\":\"This is your most "
+"important decision - 80,000 Hours\",\"isPartOf\":{\"@id\":\"https"
+"://80000hours.org/#website\"},\"primaryImageOfPage\":{\"@id\":\"https"
+"://80000hours.org/make-a-difference-with-your-career/#primaryimage\"},"
+"\"datePublished\":\"2021-07-20T14:15:44+00:00\",\"dateModified\":\"2022"
+"-04-08T15:34:48+00:00\",\"breadcrumb\":{\"@id\":\"https://80000hours.org/"
+"make-a-difference-with-your-career/#breadcrumb\"},\"inLanguage\":\"en-US\","
+"\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https"
+"://80000hours.org/make-a-difference-with-your-career/\"]}]},{\"@type\":"
+"\"BreadcrumbList\",\"@id\":\"https://80000hours.org/"
+"make-a-difference-with-your-career/#breadcrumb\",\"itemListElement\":[{\"@"
+"type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https"
+"://80000hours.org/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"This "
+"is your most important decision\"}]}]}</script> ```"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:57
@@ -114,6 +182,65 @@ msgid ""
 "      }</style>\n"
 "```\n"
 msgstr ""
+"```\n"
+"<style type=\"text/css\">@media { .header-featured-image-huge .featured-"
+"image {\n"
+"          фоновое изображение: URL-адрес (https://80000hours.org/wp-content/"
+"uploads/2021/08/header_essay-telescopes-164082069-e1628608869622-1024x795."
+"jpg);\n"
+"        }\n"
+"      } @media экран и (минимальная ширина: 468 пикселей) { .header-featured-"
+"image-huge .featured-image {\n"
+"          фоновое изображение: URL-адрес (https://80000hours.org/wp-content/"
+"uploads/2021/08/header_essay-telescopes-164082069-e1628608869622-1440x830."
+"jpg);\n"
+"        }\n"
+"      }@media screen и (min-width: 768px) и (-webkit-min-device-pixel-ratio: "
+"1.3),\n"
+"        экран и (минимальная ширина: 768px) и (-o-min-device-pixel-ratio: 13/"
+"10),\n"
+"        экран и (минимальная ширина: 768 пикселей) и (минимальное разрешение:"
+" 120 точек на дюйм) { .header-featured-image-huge .featured-image {\n"
+"          фоновое изображение: URL-адрес (https://80000hours.org/wp-content/"
+"uploads/2021/08/header_essay-telescopes-164082069-e1628608869622-1609x1030."
+"jpg);\n"
+"        }\n"
+"      }@media экран и (минимальная ширина: 1024px) { .header-featured-image-"
+"huge .featured-image {\n"
+"          фоновое изображение: URL-адрес (https://80000hours.org/wp-content/"
+"uploads/2021/08/header_essay-telescopes-164082069-e1628608869622-1609x1030."
+"jpg);\n"
+"        }\n"
+"      } @media screen и (min-width: 1024px) и (-webkit-min-device-pixel-"
+"ratio: 1.3),\n"
+"        экран и (минимальная ширина: 1024px) и (-o-min-device-pixel-ratio: "
+"13/10),\n"
+"        экран и (минимальная ширина: 1024 пикселей) и (минимальное "
+"разрешение: 120 точек на дюйм) { .header-featured-image-huge .featured-image "
+"{\n"
+"          фоновое изображение: URL-адрес (https://80000hours.org/wp-content/"
+"uploads/2021/08/header_essay-telescopes-164082069-e1628608869622-1609x1030."
+"jpg);\n"
+"        }\n"
+"      } @media экран и (минимальная ширина: 1550 пикселей) { .header-"
+"featured-image-huge .featured-image {\n"
+"          фоновое изображение: URL-адрес (https://80000hours.org/wp-content/"
+"uploads/2021/08/header_essay-telescopes-164082069-e1628608869622-1609x1030."
+"jpg);\n"
+"        }\n"
+"      } @media screen и (минимальная ширина: 1550 пикселей) и (-webkit-min-"
+"device-pixel-ratio: 1,3),\n"
+"        экран и (минимальная ширина: 1550px) и (-o-min-device-pixel-ratio: "
+"13/10),\n"
+"        экран и (минимальная ширина: 1550 пикселей) и (минимальное "
+"разрешение: 120 точек на дюйм) { .header-featured-image-huge .featured-image "
+"{\n"
+"          фоновое изображение: URL (https://80000hours.org/wp-content/"
+"uploads/2021/08/header_essay-telescopes-164082069-e1628608869622-1609x1030."
+"jpg);\n"
+"        }\n"
+"      }</style>\n"
+"```\n"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:60
@@ -121,6 +248,9 @@ msgid ""
 "# This is your most important decision ## Why your career is your biggest "
 "opportunity to make a difference, and how you can use it best"
 msgstr ""
+"# Это ваше самое важное решение ## Почему ваша карьера является вашей самой "
+"большой возможностью изменить мир к лучшему и как вы можете использовать ее "
+"наилучшим образом"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:63
@@ -128,6 +258,8 @@ msgid ""
 "You have about 80,000 hours in your career: 40 hours per week, 50 weeks per "
 "year, for 40 years."
 msgstr ""
+"В вашей карьере около 80 000 часов: 40 часов в неделю, 50 недель в году, в "
+"течение 40 лет."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:65
@@ -135,6 +267,7 @@ msgid ""
 "This makes your choice of career the most important ethical decision of your "
 "life."
 msgstr ""
+"Это делает ваш выбор карьеры самым важным этическим решением в вашей жизни."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:67
@@ -144,6 +277,11 @@ msgid ""
 "together. So unless you happen to be the heir to a large estate, that time "
 "is the biggest resource you have to help others."
 msgstr ""
+"Во взрослом возрасте вы будете тратить почти половину своего бодрствования "
+"на свою карьеру — больше, чем время, которое вы тратите на еду, хобби и "
+"просмотр Netflix вместе взятых. Так что, если вы не являетесь наследником "
+"крупного поместья, это время — самый большой ресурс, который у вас есть, "
+"чтобы помогать другим."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:69
@@ -152,6 +290,9 @@ msgid ""
 "little, it will probably have a bigger impact than changes to any other "
 "parts of your life."
 msgstr ""
+"Это означает, что если вы сможете немного увеличить положительное влияние "
+"этих часов, это, вероятно, окажет большее влияние, чем изменения в любых "
+"других сферах вашей жизни."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:71
@@ -160,6 +301,9 @@ msgid ""
 "you can probably increase the impact of your career not just by a little, "
 "but by a huge amount."
 msgstr ""
+"И мы собираемся показать, что — если у вас есть привилегия иметь выбор — вы, "
+"вероятно, можете увеличить влияние своей карьеры не просто немного, а в "
+"огромной степени."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:73
@@ -167,6 +311,8 @@ msgid ""
 "Some of the paths open to you probably do vastly more for the world than "
 "others, but they’re probably not the ones you’re currently focusing on."
 msgstr ""
+"Некоторые пути, открытые для вас, вероятно, сделают для мира гораздо больше, "
+"чем другие, но они, вероятно, не те, на которых вы сейчас сосредоточены."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:75
@@ -176,6 +322,10 @@ msgid ""
 "worker — there are many other routes to contribute that can be even higher "
 "impact."
 msgstr ""
+"Наше поколение сталкивается с проблемами исторической важности, и вы можете "
+"помочь в их решении. И вам не обязательно становиться врачом, учителем или "
+"благотворительным работником — есть много других способов внести свой вклад, "
+"которые могут принести еще большую пользу."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:77
@@ -184,11 +334,14 @@ msgid ""
 "that has far more impact, while being just as — or even more — fulfilling as "
 "the path you’re currently on."
 msgstr ""
+"Рассмотрев более широкий спектр маршрутов, вы сможете найти путь, который "
+"будет иметь гораздо большее влияние, но при этом будет таким же или даже "
+"более полезным, как и путь, на котором вы сейчас находитесь."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:79
 msgid "So how did we end up thinking this?"
-msgstr ""
+msgstr "Так как же мы пришли к такому выводу?"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:81
@@ -198,6 +351,10 @@ msgid ""
 "enjoyed, that paid the bills, and that made a contribution to the world. But "
 "they felt really unsure what to do."
 msgstr ""
+"[Когда наши основатели](https://80000hours.org/about/#how-did-we-get-started)"
+", Бен и Уилл, собирались получить высшее образование в 2011 году, они хотели "
+"найти работу, которая им нравилась бы, которая оплачивала счетов, и это "
+"внесло свой вклад в мир. Но они действительно не знали, что делать."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:83
@@ -207,6 +364,11 @@ msgid ""
 "advice even _tried_ to compare paths in terms of impact, nor was it based on "
 "much evidence. So they started to research the question themselves."
 msgstr ""
+"Учитывая огромное количество времени, поставленное на карту, казалось, что "
+"стоит провести настоящее исследование, чтобы найти лучший путь. Но не было "
+"ощущения, что существующий совет по карьере даже не пытался сравнить пути с "
+"точки зрения воздействия, и при этом он не был основан на большом количестве "
+"доказательств. Поэтому они сами начали исследовать этот вопрос."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:85
@@ -218,26 +380,31 @@ msgid ""
 "‘impact’](https://80000hours.org/articles/what-is-social-impact-definition/) "
 "— is driven by four main factors:"
 msgstr ""
+"После [10 лет исследований] (https://80000hours.org/key-ideas/#what-is-our-"
+"advice-based-on) мы теперь думаем, какое влияние вы можете оказать на разные "
+"карьерные пути — однако именно вы [define 'impact'](https://80000hours.org/"
+"articles/what-is-social-impact-definition/) — определяется четырьмя "
+"основными факторами:"
 
 #. type: Bullet: '1. '
 #: make-a-difference-with-your-career.md:90
 msgid "How **pressing the problems** you focus on are"
-msgstr ""
+msgstr "Насколько важны **решения проблем**, на которых вы сосредоточены"
 
 #. type: Bullet: '2. '
 #: make-a-difference-with-your-career.md:90
 msgid "How **effective the solutions** you pursue are"
-msgstr ""
+msgstr "Насколько **эффективны решения**, которые вы ищете"
 
 #. type: Bullet: '3. '
 #: make-a-difference-with-your-career.md:90
 msgid "The amount of **leverage** you can apply to those solutions"
-msgstr ""
+msgstr "Размер **рычага**, который вы можете применить к этим решениям"
 
 #. type: Bullet: '4. '
 #: make-a-difference-with-your-career.md:90
 msgid "Your **personal fit** for the path"
-msgstr ""
+msgstr "Ваше **личное соответствие** пути"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:92
@@ -247,6 +414,10 @@ msgid ""
 "want to see the bottom lines, here’s a [two page "
 "summary](https://80000hours.org/key-ideas/summary/).)"
 msgstr ""
+"В этой статье мы покажем, как вы можете использовать эти факторы, чтобы "
+"сравнить ваши варианты с точки зрения воздействия и найти новые способы "
+"внести свой вклад. (Если вы просто хотите увидеть итоги, вот [резюме на двух "
+"страницах] (https://80000hours.org/key-ideas/summary/).)"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:94
@@ -255,6 +426,9 @@ msgid ""
 "you apply these ideas and give you the best possible chance of finding a "
 "rewarding career that fulfills your potential for impact."
 msgstr ""
+"Мы также объясним, как остальные наши (бесплатные) исследования и поддержка "
+"могут помочь вам применить эти идеи и дать вам наилучшие шансы найти "
+"полезную карьеру, которая реализует ваш потенциал влияния."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:96
@@ -264,6 +438,10 @@ msgid ""
 "to spend up to 4,000 hours researching your career. And while we sometimes "
 "do go on a bit, we promise it’ll be quicker than that."
 msgstr ""
+"Понимание и применение этих идей требует времени. Но если вы потратите шесть "
+"минут на обсуждение того, куда пойти на двухчасовой ужин, вы должны быть "
+"готовы потратить до 4000 часов на изучение своей карьеры. И хотя иногда мы "
+"продолжаем немного, мы обещаем, что это будет быстрее."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:98
@@ -273,16 +451,20 @@ msgid ""
 "dot illustrates one of the 80,000 hours in your career. You can read our key "
 "ideas in under four of them.`]"
 msgstr ""
+"![В среднем 80 000 часов работы](https://80000hours.org/wp-content/uploads/"
+"2016/04/80K_Hourdots_V6-3-e1462626926997.png)[`Каждая точка обозначает один "
+"из 80 000 часов вашего карьера. Вы можете ознакомиться с нашими ключевыми "
+"идеями менее чем в четырех из них.`]"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:100
 msgid "So let’s start with the first and most important factor."
-msgstr ""
+msgstr "Итак, начнем с первого и самого важного фактора."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:102
 msgid "## Which problems should you work on?"
-msgstr ""
+msgstr "## Над какими проблемами вам следует поработать?"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:104
@@ -291,6 +473,10 @@ msgid ""
 "is which problem or issue to focus on — whether that’s health, education, "
 "climate change, engineered pandemics, or something else."
 msgstr ""
+"Мы считаем, что самый важный вопрос, с которым вы сталкиваетесь при выборе "
+"эффективной карьеры, — это проблема или вопрос, на котором следует "
+"сосредоточиться — будь то здоровье, образование, изменение климата, "
+"искусственные пандемии или что-то еще."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:106
@@ -299,11 +485,15 @@ msgid ""
 "issues is near impossible, and you should just work on whatever issue you’re "
 "passionate about."
 msgstr ""
+"Большинство людей, кажется, думают, что сравнивать важность таких вопросов "
+"почти невозможно, и вы должны просто работать над тем, чем вы увлечены."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:108
 msgid "But we think it’s clear that some problems are much **bigger** than others."
 msgstr ""
+"Но мы считаем очевидным, что некоторые проблемы намного **больше**, чем "
+"другие."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:110
@@ -315,6 +505,12 @@ msgid ""
 "out](https://80000hours.org/problem-profiles/climate-change/#what-is-this-problem) "
 "a 5% chance of over 10°C warming."
 msgstr ""
+"Изменение климата широко считается одной из самых больших проблем в мире, и "
+"мы думаем, что оно даже больше, чем часто предполагается. Хотя наиболее "
+"вероятным сценарием является потепление на несколько градусов, "
+"неопределенность климатических моделей означает, что [это трудно исключить] "
+"(https://80000hours.org/problem-profiles/climate-change/#what-is-this-"
+"problem) 5% вероятность потепления более чем на 10°C."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:112
@@ -324,11 +520,15 @@ msgid ""
 "beyond. We think future generations matter, which makes the issue even "
 "bigger in scale."
 msgstr ""
+"Более того, CO<sub>2</sub>, который мы выбрасываем сегодня, останется в "
+"атмосфере на десятки тысяч лет, воздействуя на внуков наших детей и не "
+"только. Мы считаем, что будущие поколения имеют значение, что делает "
+"проблему еще более масштабной."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:114
 msgid "But we also think there may be issues that are even larger again."
-msgstr ""
+msgstr "Но мы также думаем, что могут возникнуть еще более серьезные проблемы."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:116
@@ -339,6 +539,10 @@ msgid ""
 "time in history — for a small group of people to destroy most of the world’s "
 "cities within hours."
 msgstr ""
+"Философ Тоби Орд утверждал, что в 1945 году человечество вступило в новую "
+"эру, которую он называет «Пропастью». 16 июля 1945 года человечество "
+"взорвало первую атомную бомбу, которая впервые в истории позволила небольшой "
+"группе людей разрушить большую часть городов мира за несколько часов."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:118
@@ -349,6 +553,12 @@ msgid ""
 "surveys](https://forum.effectivealtruism.org/posts/PAYa6on5gJKwAywrF/how-likely-is-a-nuclear-exchange-between-the-us-and-russia) "
 "is an annual probability of 0.4%."
 msgstr ""
+"Ежегодный риск тотального обмена ядерными ударами невелик, но он не равен "
+"нулю: вооружено больше стран, чем когда-либо, и всегда есть вероятность "
+"аварии или неисправности. Среднее значение [несколько экспертных "
+"опросов](https://forum.efficientaltruism.org/posts/PAYa6on5gJKwAywrF/how-"
+"likely-is-a-nuclear-exchange-between-the-us-and-russia) представляет собой "
+"годовую вероятность 0,4%."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:120
@@ -357,6 +567,9 @@ msgid ""
 "substantial chance of a catastrophe potentially more devastating than "
 "climate change."
 msgstr ""
+"В сочетании с нашими жизнями и жизнями наших детей это увеличивает "
+"вероятность катастрофы, потенциально более разрушительной, чем изменение "
+"климата."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:122
@@ -365,6 +578,10 @@ msgid ""
 "lift enough ash into the air to obscure the sun and reduce global "
 "temperatures for years, leading to widespread famine."
 msgstr ""
+"Помимо гибели большинства людей, живущих в городских районах, возникшие в "
+"результате пожары могут поднять в воздух достаточно пепла, чтобы скрыть "
+"солнце и снизить глобальные температуры на годы, что приведет к "
+"повсеместному голоду."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:124
@@ -376,6 +593,11 @@ msgid ""
 "generations](http://80000hours.org/articles/future-generations/) — that risk "
 "may be the worst thing about a nuclear conflict."
 msgstr ""
+"Через несколько месяцев это не только убьет большинство живущих сегодня "
+"людей, но и может привести к краху самой цивилизации. Мы думаем, что "
+"постоянный крах маловероятен, но если учесть масштаб последствий — потерю "
+"всех [будущих поколений] (http://80000hours.org/articles/future-generations/)"
+" — этот риск может оказаться самым серьезным. дело в ядерном конфликте."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:126
@@ -383,6 +605,8 @@ msgid ""
 "But the possibility of extreme climate change and nuclear winter are just "
 "two examples of a broader trend."
 msgstr ""
+"Но возможность резкого изменения климата и ядерной зимы — это всего лишь два "
+"примера более широкой тенденции."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:128
@@ -393,16 +617,21 @@ msgid ""
 "other emerging technologies could ripple forward for thousands of years, "
 "with either enormously positive or enormously negative consequences."
 msgstr ""
+"Технологии дали этому поколению беспрецедентную возможность формировать "
+"историю. Последствия решений, которые мы принимаем сегодня в отношении "
+"ядерного оружия, генной инженерии, искусственного интеллекта, освоения "
+"космоса и других новейших технологий, могут растянуться на тысячи лет, с "
+"чрезвычайно положительными или чрезвычайно отрицательными последствиями."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:130
 msgid "So: Some problems are _much bigger_ than others."
-msgstr ""
+msgstr "Итак: некоторые проблемы _намного больше_, чем другие."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:132
 msgid "At the same time, some problems are much more **neglected** by society."
-msgstr ""
+msgstr "В то же время некоторые проблемы гораздо более «забыты» обществом."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:134
@@ -425,6 +654,25 @@ msgid ""
 "in turn far more neglected than education and health in rich countries "
 "(which receive trillions)."
 msgstr ""
+"Например, [в 2016 году мы утверждали] (https://web.archive.org/web/"
+"20200310155622/https://80000hours.org/problem-profiles/biosecurity/), что "
+"глобальная пандемия представляет значительный глобальный риск, но около 10 "
+"миллиардов долларов тратится во всем мире на предотвращение самых страшных "
+"пандемий[^:`По оценкам Грега Льюиса, примерно 1 миллиард долларов с "
+"поправкой на качество ежегодно тратится на снижение глобальных "
+"катастрофических биорисков (GCBR). Большая часть этого исходит из работы, "
+"которая явно не нацелена на GCBR, но скорее непропорционально полезна для их "
+"уменьшения. Бюджет США на безопасность здравоохранения в целом составляет "
+"около 14 миллиардов долларов. Во всем мире бюджет, вероятно, вдвое или втрое "
+"больше, поэтому расходы, которые особенно полезны для сокращения GCBR, "
+"составляют, вероятно, всего несколько процентов от общей суммы; расходы на "
+"явное уменьшение GCBR будут намного меньше. См. соответствующий раздел ["
+"нашего профиля GCBR] (https://80000hours.org/problem-profiles/"
+"global-catastrophic-biological-risks/), включая сноску 21.`] этим "
+"пренебрегали больше, чем изменением климата или международным развитием ( "
+"которые получают сотни миллиардов) — которым, в свою очередь, пренебрегают "
+"гораздо больше, чем образованию и здравоохранению в богатых странах (которые "
+"получают триллионы)."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:136
@@ -432,6 +680,8 @@ msgid ""
 "![Neglectedness of problem "
 "areas](https://80000hours.org/wp-content/uploads/2021/07/Neglectedness-chart-in-brand-colors.png)"
 msgstr ""
+"![Запущенность проблемных зон](https://80000hours.org/wp-content/uploads/"
+"2021/07/Запущенность-chart-in-brand-colors.png)"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:138
@@ -440,6 +690,9 @@ msgid ""
 "likely drive much less progress than the 10th person, an effect that "
 "economists call diminishing returns."
 msgstr ""
+"Это важно, потому что 1000-й человек, работающий над проблемой, скорее "
+"всего, будет добиваться гораздо меньшего прогресса, чем 10-й человек, — "
+"эффект, который экономисты называют убывающей отдачей."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:140
@@ -448,6 +701,9 @@ msgid ""
 "priorities served by the current economic and political system, and do our "
 "best to fill them."
 msgstr ""
+"Наша роль как отдельных лиц должна заключаться в том, чтобы найти самые "
+"большие пробелы в приоритетах, которым служит нынешняя экономическая и "
+"политическая система, и сделать все возможное, чтобы заполнить их."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:142
@@ -457,6 +713,10 @@ msgid ""
 "knowledge she’d learned as a doctor might be put to even better use in "
 "pandemic prevention."
 msgstr ""
+"Вдохновленная этим аргументом, [одна из наших читательниц, Кэссиди] "
+"(https://80000hours.org/stories/cassidy-nelson/) поняла, что знания, которые "
+"она получила как врач, могут быть еще лучше использованы в условиях "
+"пандемии. профилактика."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:144
@@ -469,6 +729,15 @@ msgid ""
 "on policy ideas to control COVID-19, as well as how to prevent the next "
 "(potentially much worse) outbreak."
 msgstr ""
+"Она подала заявку на получение степени магистра в области общественного "
+"здравоохранения и оттуда смогла получить докторскую степень по "
+"биобезопасности в Оксфорде. Поскольку до COVID-19 область борьбы с пандемией "
+"была относительно небольшой, она смогла быстро продвинуться вперед. Когда "
+"разразился COVID-19, она была готова [советовать правительству "
+"Великобритании] (https://80000hours.org/podcast/episodes/"
+"cassidy-nelson-12-ways-to-stop-pandemics/) по политическим идеям по контролю "
+"COVID-19, а также как предотвратить следующую (потенциально гораздо худшую) "
+"вспышку."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:146
@@ -478,6 +747,10 @@ msgid ""
 "could help more people by working on pandemic policy than by seeing one "
 "patient at a time as a doctor.`]"
 msgstr ""
+"!img~ style=\"width: 72%\" ~[](/wp-content/uploads/2019/07/cassidy_exemplar."
+"jpg)[`Кэссиди поняла, что может помочь большему количеству людей, работая "
+"над политикой в отношении пандемии, чем принимая одного пациента в больнице. "
+"время в качестве врача.`]"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:148
@@ -488,11 +761,16 @@ msgid ""
 "which will usually be the _least_ neglected. The best options are probably "
 "unconventional."
 msgstr ""
+"Важность работы над забытыми проблемами означает, что следование вашим "
+"текущим увлечениям может легко привести вас в неправильном направлении. "
+"Скорее всего, вы столкнетесь с теми же проблемами, о которых все уже "
+"говорят, и которые обычно _наименее_ игнорируются. Лучшие варианты, "
+"вероятно, нетрадиционные."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:150
 msgid "Which issues might be even more neglected than pandemics?"
-msgstr ""
+msgstr "Какими проблемами можно пренебречь еще больше, чем пандемиями?"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:152
@@ -503,6 +781,11 @@ msgid ""
 "exceed human capacities in most jobs around 2060. This would be one of the "
 "most important events in history."
 msgstr ""
+"[Опрос исследователей] (https://80000hours.org/podcast/episodes/"
+"katja-grace-forecasting-technology/) показал, что, по их мнению, существует "
+"около 50% вероятности того, что системы ИИ превзойдут человеческие "
+"возможности на большинстве рабочих мест примерно к 2060 году. , Это было бы "
+"одним из самых важных событий в истории."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:154
@@ -512,6 +795,11 @@ msgid ""
 "could be ‘extremely bad’ (e.g. human extinction). And as the people "
 "developing the technology, they’re probably on the optimistic side."
 msgstr ""
+"Эти же исследователи также подсчитали, что если это произойдет, хотя "
+"результат может быть «чрезвычайно хорошим», существует также 5%-ная "
+"вероятность того, что результат может быть «чрезвычайно плохим» (например, "
+"вымирание человечества). И как люди, разрабатывающие технологию, они, "
+"вероятно, настроены оптимистично."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:156
@@ -523,6 +811,12 @@ msgid ""
 "that research into ‘AI alignment’ is a crucial challenge from a long-term "
 "perspective."
 msgstr ""
+"Одна из причин, по которой некоторые обеспокоены, заключается в том, что "
+"неясно, что по мере того, как системы ИИ становятся более мощными, мы можем "
+"гарантировать, что они будут продолжать соответствовать человеческим "
+"ценностям. Это [может предположить] (https://80000hours.org/problem-profiles/"
+"positively-shaping-artificial-intelligence/), что исследование «выравнивания "
+"ИИ» является важнейшей задачей в долгосрочной перспективе."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:158
@@ -532,6 +826,11 @@ msgid ""
 "under $100 million in funding per year — about 100 times less than "
 "preventing pandemics."
 msgstr ""
+"С тех пор, как мы впервые написали об этом в 2012 году, выравнивание ИИ "
+"превратилось в процветающую область исследований в области компьютерных "
+"наук, но оно по-прежнему получает менее 100 миллионов долларов "
+"финансирования в год — примерно в 100 раз меньше, чем предотвращение "
+"пандемий."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:160
@@ -541,6 +840,10 @@ msgid ""
 "about [our case for "
 "both](https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/).)"
 msgstr ""
+"Еще больше пренебрегают долгосрочной политикой в области ИИ, которая решает "
+"вопрос о том, как общество и правительство должны справляться с продвижением "
+"ИИ. (Подробнее о [нашем случае для обоих](https://80000hours.org/"
+"problem-profiles/positively-shaping-artificial-intelligence/).)"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:162
@@ -549,6 +852,9 @@ msgid ""
 "problems like AI alignment (and later we’ll explain how to contribute no "
 "matter your current job)."
 msgstr ""
+"Вы можете быть удивлены тем, как ваши текущие навыки могут быть применены к "
+"необычным проблемам, таким как выравнивание ИИ (позже мы объясним, как "
+"внести свой вклад независимо от вашей текущей работы)."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:164
@@ -559,6 +865,11 @@ msgid ""
 "background, started to help translate materials to connect Western and "
 "Chinese researchers."
 msgstr ""
+"[Брайан Це] (https://80000hours.org/stories/brian-tse/) работал в "
+"инвестиционном банке в Гонконге и не имел опыта работы с ИИ. Но он начал "
+"больше узнавать об этом в свободное время и, используя свое двуязычное "
+"образование, начал помогать переводить материалы, чтобы связывать западных и "
+"китайских исследователей."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:166
@@ -568,6 +879,10 @@ msgid ""
 "potentially transformative technologies — a path he also finds much more "
 "fulfilling and exciting than banking."
 msgstr ""
+"Сейчас он руководит независимой консалтинговой фирмой, консультирующей "
+"организации в Китае, США и Европе по вопросам безопасности и управления ИИ и "
+"другими потенциально трансформационными технологиями — путь, который он "
+"также считает гораздо более интересным и интересным, чем банковское дело."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:168
@@ -579,6 +894,11 @@ msgid ""
 "Western organisations that work on AI, with the aim of helping them "
 "coordinate better.`]"
 msgstr ""
+"!img~ style=\"width: 72%\" ~[](/wp-content/uploads/2021/07/brian-"
+"larger-e1626692548902.jpeg)[`Работая в корпоративном мире, Брайан узнал об "
+"искусственном интеллекте и других преобразующих технологии. Сейчас он "
+"консультирует многие ключевые китайские и западные организации, работающие "
+"над ИИ, с целью помочь им лучше координировать свои действия.`]"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:170
@@ -594,6 +914,16 @@ msgid ""
 "vital importance of this research, there are still only tens of researchers "
 "directly focused on it."
 msgstr ""
+"Сравнивать глобальные проблемы, конечно, очень сложно. Поэтому мы также "
+"поддержали развитие области [исследования глобальных приоритетов] "
+"(https://80000hours.org/problem-profiles/global-priorities-research/), "
+"которая пытается разбить и ответить на связанные вопросы — для например, как "
+"мы должны распределять ресурсы между снижением риска катастрофы, с одной "
+"стороны, и предотвращением более определенного вреда, с другой. Сейчас в "
+"Оксфорде есть [институт, занимающийся этой темой] "
+"(https://globalprioritiesinstitute.org/). Но, несмотря на жизненную важность "
+"этого исследования, до сих пор есть только десятки исследователей, "
+"непосредственно занимающихся им."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:172
@@ -605,6 +935,13 @@ msgid ""
 "developed important [criticisms of arguments for prioritising "
 "AI](https://80000hours.org/podcast/episodes/ben-garfinkel-classic-ai-risk-arguments/)."
 msgstr ""
+"Бен Гарфинкель подумывал о том, чтобы получить докторскую степень по физике, "
+"но подумал, что, поскольку так много чрезвычайно умных людей уже занимаются "
+"физическими исследованиями, будет трудно внести большой вклад. Он узнал об "
+"исследовании глобальных приоритетов из нашего выступления и, протестировав "
+"его, решил сменить область. Затем он разработал важную [критику аргументов в "
+"пользу приоритета ИИ] (https://80000hours.org/podcast/episodes/"
+"ben-garfinkel-classic-ai-risk-arguments/)."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:174
@@ -614,6 +951,11 @@ msgid ""
 "some ways or incomplete, and we want people to make the case for "
 "alternatives, and find issues we haven’t even thought of yet."
 msgstr ""
+"Такого рода критика — это именно то, чего мы хотим видеть больше. Есть "
+"большая вероятность, что наши представления о том, какие проблемы являются "
+"наиболее насущными, в некотором роде ошибочны или неполны, и мы хотим, чтобы "
+"люди обосновывали альтернативы и находили проблемы, о которых мы даже не "
+"думали."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:176
@@ -628,6 +970,15 @@ msgid ""
 "and [profiles](http://80000hours.org/problem-profiles/) about how to "
 "contribute to solving each one._"
 msgstr ""
+"_В другом месте нашего сайта вы можете найти [список идей](https://80000hours"
+".org/problem-profiles/) для решения глобальных проблем, включая многие "
+"проблемы, которые мы не смогли упомянуть здесь. Некоторые из них связаны с "
+"забытыми способами улучшения нашей экономической и политической системы и "
+"построения лучшего общества в целом, а также способами непосредственного "
+"устранения рисков в будущем. У нас также есть [руководство по их сравнению] "
+"(https://80000hours.org/career-planning/process/"
+"your-views-of-global-problems/) и [профили] (http://80000hours.org). "
+"/problem-profiles/) о том, как внести свой вклад в решение каждой из них._"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:178
@@ -640,11 +991,18 @@ msgid ""
 "choice of problem is such an important driver of your impact, it’s vital to "
 "think about as you go on, and especially before you get locked into a path."
 msgstr ""
+"Вам не нужно сразу решать, на какой проблеме сосредоточиться. Как мы "
+"рассказываем в наших советах по [карьерной стратегии](https://80000hours.org/"
+"key-ideas/#career-strategy) и [планированию](/career-planning/process/), в "
+"начале вашей карьеры часто смысл больше сосредоточиться на изучении и "
+"развитии навыков. Однако, поскольку ваш выбор проблемы является таким важным "
+"фактором вашего воздействия, очень важно думать об этом, когда вы идете "
+"вперед, и особенно до того, как вы застрянете на пути."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:180
 msgid "## What are the best solutions to those problems?"
-msgstr ""
+msgstr "## Каковы наилучшие решения этих проблем?"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:182
@@ -652,6 +1010,8 @@ msgid ""
 "Whatever problem you decide to focus on, you need to choose an effective way "
 "to address it."
 msgstr ""
+"На какой бы проблеме вы ни решили сосредоточиться, вам нужно выбрать "
+"эффективный способ ее решения."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:184
@@ -661,6 +1021,10 @@ msgid ""
 "take kids who committed crimes, show them life in jail, and scare them into "
 "embracing the straight and narrow."
 msgstr ""
+"Scared Straight была государственной программой, получившей финансирование в "
+"миллиарды долларов, и по ней был снят отмеченный наградами документальный "
+"фильм. Идея заключалась в том, чтобы взять детей, совершивших преступления, "
+"показать им жизнь в тюрьме и напугать их, заставив принять прямое и узкое."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:186
@@ -672,6 +1036,13 @@ msgid ""
 "criminology 65.1 (2021): 68-91. [Archived "
 "link](https://web.archive.org/web/20210813015011/https://journals.sagepub.com/doi/full/10.1177/0306624X20909239)"
 msgstr ""
+"Единственная проблема? Два мета-анализа показали, что программа сделала "
+"детей более склонными к совершению преступлений. «Влияние программ повышения "
+"осведомленности на преступность среди несовершеннолетних: трехуровневый "
+"метаанализ». Международный журнал терапии правонарушителей и сравнительной "
+"криминологии 65.1 (2021): 68-91. [Архивная ссылка] (https://web.archive.org/"
+"web/20210813015011/https://journals.sagepub.com/doi/full/10.1177/"
+"0306624X20909239)"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:188
@@ -683,6 +1054,13 @@ msgid ""
 "One study even estimated that every $1 spent on this programme caused $200 "
 "of _harm to society_."
 msgstr ""
+"Петросино, Энтони и др. «Scared Straight и другие программы повышения "
+"осведомленности несовершеннолетних по предотвращению правонарушений среди "
+"несовершеннолетних: систематический обзор». Систематические обзоры Кэмпбелла "
+"9.1 (2013): 1–55. [Архивная ссылка] (https://web.archive.org/web/"
+"20210525173459/https://journals.sagepub.com/doi/10.1177/0002716203254693)`] "
+"Одно исследование даже подсчитало, что каждый доллар, потраченный на эту "
+"программу, приносит 200 долларов. _вреда для общества_."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:190
@@ -695,6 +1073,13 @@ msgid ""
 "So it would be easy to end up working on a solution that has very little "
 "impact."
 msgstr ""
+"Причинение такого большого вреда происходит редко, но когда социальные "
+"программы тщательно тестируются, [большая часть из них не работает] "
+"(https://80000hours.org/articles/efficient-social-program/).[^:`The процент, "
+"который работает или не работает, во многом зависит от того, как вы его "
+"определяете, но вполне вероятно, что большинство не имеет статистически "
+"значимых эффектов.`] Таким образом, было бы легко закончить работу над "
+"решением, которое имеет очень небольшое влияние. ."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:192
@@ -703,6 +1088,10 @@ msgid ""
 "best interventions are _far_ more cost effective than average, often "
 "achieving 10 or 100 times as much for a given unit of resources."
 msgstr ""
+"В то же время исследования показывают, что среди решений, которые _являются_ "
+"эффективными, лучшие вмешательства _намного_ более рентабельны, чем в "
+"среднем, часто достигая в 10 или 100 раз большей эффективности на данную "
+"единицу ресурсов."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:194
@@ -710,9 +1099,12 @@ msgid ""
 "For example, in recent years there’s been a wave of advocacy to stop the use "
 "of plastic bags."
 msgstr ""
+"Например, в последние годы прокатилась волна пропаганды отказа от "
+"пластиковых пакетов."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:196
+#, fuzzy
 msgid ""
 "Focusing on advocacy is a route to having much more impact than just "
 "changing your personal consumption, but it’s unclear this advocacy is well "
@@ -727,6 +1119,17 @@ msgid ""
 "CO<sub>2</sub>. Figure 2 of the same report shows the comparatively "
 "negligible effect of reusing plastic bags.`]"
 msgstr ""
+"Focusing on advocacy is a route to having much more impact than just "
+"changing your personal consumption, but it’s unclear this advocacy is well "
+"directed. Convincing someone to entirely give up plastic bags _for the rest "
+"of their life_ (about 10,000 bags) would avoid ~ 0.1 tonnes of CO<sub>2</"
+"sub> emissions. In contrast, convincing someone to take just _one fewer_ "
+"transatlantic flight would reduce CO<sub>2</sub> emissions by more than 10 "
+"times as much.[^:`According to the 2020 Founders Pledge [Climate & Lifestyle "
+"Report](https://web.archive.org/web/20210531030638/https://founderspledge."
+"com/stories/climate-and-lifestyle-report), just one roundtrip transatlantic "
+"flight contributes 1.6 tonnes of CO<sub>2</sub>. Figure 2 of the same report "
+"shows the comparatively negligible effect of reusing plastic bags.`]"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:198
@@ -737,6 +1140,10 @@ msgid ""
 "could do even more to reduce emissions by advocating for greater funding of "
 "neglected green technology."
 msgstr ""
+"И вместо того, чтобы пытаться изменить личное потребление в первую очередь, ["
+"мы утверждаем] (https://80000hours.org/career-reviews/#ea-climate-change-"
+"careers), вы могли бы сделать еще больше для сокращения выбросов за счет "
+"выступая за увеличение финансирования заброшенных зеленых технологий."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:200
@@ -746,6 +1153,9 @@ msgid ""
 "attitude that emphasises ‘making _a_ difference’, rather than making _the "
 "most_ difference possible."
 msgstr ""
+"В общем, очень важно искать _самое лучшее_ решение в области, а не просто "
+"«хорошее». Это контрастирует с нормальным отношением, которое делает упор на "
+"«создание _a_ различий», а не на создание _максимальных_ возможных различий."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:202
@@ -758,6 +1168,12 @@ msgid ""
 "[‘hits-based’](https://www.openphilanthropy.org/blog/hits-based-giving) "
 "approach."
 msgstr ""
+"На практике это включает в себя использование эмпирических правил для "
+"определения решений, которые могут внести особенно большой вклад в случае "
+"успеха — даже если существует большая вероятность неудачи — а также решений, "
+"которыми несправедливо пренебрегают. Мы называем попытки определить решения, "
+"которые могут быть положительными исключениями, подходом ['на основе "
+"обращений'] (https://www.openphilanthropy.org/blog/hits-based-giving)."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:204
@@ -766,11 +1182,16 @@ msgid ""
 "checking out our [problem profiles](http://80000hours.org/problem-profiles/) "
 "and [podcast interviews](http://80000hours.org/podcast)._"
 msgstr ""
+"_Узнайте, какие вмешательства эксперты считают лучшими в своих областях, "
+"изучив наши [проблемные профили](http://80000hours.org/problem-profiles/) и "
+"[подкасты-интервью](http://80000hours.org/podcast) ._"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:206
 msgid "## In which career can you apply the most leverage to those solutions?"
 msgstr ""
+"## В какой карьере вы можете применить эти решения с наибольшей "
+"эффективностью?"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:208
@@ -780,6 +1201,11 @@ msgid ""
 "happen. And some careers will let you contribute far more resources to great "
 "solutions than others. We call this your _leverage_."
 msgstr ""
+"После того, как вы выбрали проблему, на которой нужно сосредоточиться, и "
+"определили несколько перспективных решений, вам нужно выбрать карьеру, "
+"которая позволит вам реализовать их. И некоторые профессии позволят вам "
+"вкладывать гораздо больше ресурсов в отличные решения, чем другие. Мы "
+"называем это вашим _рычагом_."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:210
@@ -789,6 +1215,10 @@ msgid ""
 "college graduates. But you might well be able to find options with more "
 "leverage."
 msgstr ""
+"Люди, которые хотят иметь влияние, часто сосредотачиваются на работе, где "
+"они напрямую помогают людям: преподавание и здравоохранение — два наиболее "
+"распространенных пути для выпускников колледжей. Но вы вполне можете найти "
+"варианты с большим кредитным плечом."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:212
@@ -798,6 +1228,10 @@ msgid ""
 "doctor](https://80000hours.org/2012/08/how-many-lives-does-a-doctor-save/). "
 "While the impact is significant, it’s less than commonly thought."
 msgstr ""
+"Мы работали с врачом Грегом Льюисом, чтобы [оценить количество жизней, "
+"спасенных обычным врачом](https://80000hours.org/2012/08/"
+"how-many-lives-does-a-doctor-save/ ). Хотя влияние значительно, оно меньше, "
+"чем принято думать."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:214
@@ -808,6 +1242,12 @@ msgid ""
 "number of people each year. This motivated both Greg and Cassidy (from "
 "earlier) to switch from clinical medicine to public health and policy."
 msgstr ""
+"Одна из причин заключается в том, что проблеме здоровья в богатых странах "
+"уже уделяется много внимания по сравнению с такими проблемами, как пандемии "
+"и ядерная безопасность. Но другая причина в том, что врач может лечить "
+"только ограниченное число людей каждый год. Это побудило и Грега, и Кэссиди "
+"(ранее) переключиться с клинической медицины на общественное здравоохранение "
+"и политику."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:216
@@ -822,11 +1262,20 @@ msgid ""
 "Executive Office of the President on criminal justice reform, and from there "
 "can explore other areas of policy in the future."
 msgstr ""
+"Другая читательница, Сьюзи Деустер, хотела стать общественным защитником, "
+"чтобы обеспечить неблагополучным людям хорошую юридическую защиту, но она "
+"поняла, что, хотя этот путь может улучшить уголовное правосудие, возможно, "
+"для сотен людей за ее карьеру, [изменив политику] (https:/ /80000hours.org/"
+"career-reviews/#government-and-policy) она могла бы улучшить справедливость "
+"для тысяч или даже миллионов. Она смогла использовать свое юридическое "
+"образование, чтобы начать карьеру в политике, и теперь работает в "
+"Администрации президента над реформой уголовного правосудия, а оттуда может "
+"исследовать другие области политики в будущем."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:218
 msgid "There are also other routes to leverage besides working in policy."
-msgstr ""
+msgstr "Помимо работы в политике, есть и другие способы воздействия."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:220
@@ -838,6 +1287,12 @@ msgid ""
 "impact. This means you can potentially have a very big impact no matter your "
 "current job."
 msgstr ""
+"Например, вы, вероятно, можете внести больший вклад, [создав сообщество] "
+"и-помочь-другим-быть-более-эффективными), работая над выбранной вами "
+"проблемой, чем вы могли бы достичь напрямую. Если вы сможете привлечь к себе "
+"хотя бы одного человека, то потенциально удвоите свое влияние. Это означает, "
+"что вы потенциально можете оказать очень большое влияние независимо от вашей "
+"текущей работы."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:222
@@ -849,6 +1304,13 @@ msgid ""
 "needed to tackle climate change, decided to use her platform to promote it "
 "as a neglected solution to climate change."
 msgstr ""
+"Важность распространения забытых идей может также подразумевать продолжение "
+"карьеры в средствах массовой информации или создание какой-либо формы "
+"последователей. [Изабель Бемеке] (https://hearthisidea.com/episodes/isabelle)"
+" начинала как фотомодель, но после разговора с экспертами, утверждавшими, "
+"что ядерная энергия необходима для борьбы с изменением климата, решила "
+"использовать свою платформу для ее продвижения в качестве забытое решение "
+"проблемы изменения климата."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:224
@@ -861,6 +1323,13 @@ msgid ""
 "for-profit. We list high-impact organisations hiring people with all kinds "
 "of skills on our [job board](/job-board/)."
 msgstr ""
+"Вы можете иметь рычаги влияния, помогая _кому-то еще_, у которого есть "
+"рычаги влияния, например, [работая на операциях](https://80000hours.org/"
+"articles/operations-management/) или [в качестве личного помощника](https://"
+"80000hours. org/career-reviews/#Be-a-PA). Вы также можете помочь создать "
+"организации, у которых есть рычаги влияния, будь то некоммерческие или "
+"коммерческие. Мы перечисляем высокоэффективные организации, нанимающие людей "
+"со всеми видами навыков, на нашей [доске объявлений] (/job-board/)."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:226
@@ -871,6 +1340,12 @@ msgid ""
 "change your career — by earning and donating money, you can ‘convert’ your "
 "labour into skilled labour working on the most pressing issues."
 msgstr ""
+"Другая форма рычага исходит от денег: пожертвования могут быть направлены на "
+"самые эффективные организации в мире, которые больше всего нуждаются в "
+"финансировании. Даже если у вас есть очень специфический набор навыков — или "
+"вы не хотите менять свою карьеру — зарабатывая и жертвуя деньги, вы можете "
+"«конвертировать» свой труд в квалифицированный труд, работающий над самыми "
+"насущными проблемами."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:228
@@ -878,6 +1353,9 @@ msgid ""
 "We call this ‘earning to give’ — finding a career that uses your strengths "
 "and allows you to donate more, even if its direct impact is only neutral."
 msgstr ""
+"Мы называем это «зарабатывать, чтобы отдавать» — поиск карьеры, которая "
+"использует ваши сильные стороны и позволяет вам жертвовать больше, даже если "
+"ее прямое влияние будет нейтральным."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:230
@@ -889,6 +1367,11 @@ msgid ""
 "talk by one of our founders while studying physics as an undergraduate at "
 "MIT."
 msgstr ""
+"Крайний пример — [Сэм Бэнкман-Фрид] (https://80000hours.org/stories/"
+"sam-bankman-fried/). Он узнал об аргументах в пользу [зарабатывания, чтобы "
+"отдавать] (https://80000hours.org/articles/earning-to-give/), когда "
+"присутствовал на выступлении одного из наших основателей, изучая физику на "
+"первом курсе Массачусетского технологического института."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:232
@@ -903,6 +1386,16 @@ msgid ""
 "millions to causes like animal welfare and the Biden campaign, and intends "
 "to donate most of his future wealth."
 msgstr ""
+"Через других, которых он встретил в нашем сообществе, Сэм нашел работу, "
+"которая использовала его математические способности в [количественной "
+"торговле] (https://80000hours.org/career-reviews/#earning-to-give-in-quant-"
+"trading) в [ Jane Street Capital](https://www.janestreet.com/), и это "
+"отлично подошло. После этого он помог основать биржу криптовалютных "
+"деривативов FTX. Теперь, по оценке Forbes, его собственный капитал "
+"составляет 16 миллиардов долларов, что делает его, вероятно, самым богатым "
+"человеком в мире в возрасте до 30 лет. Сэм уже пожертвовал миллионы на такие "
+"цели, как защита животных и кампания Байдена, и намерен пожертвовать большую "
+"часть своего будущего состояния."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:234
@@ -913,6 +1406,10 @@ msgid ""
 "finance in less than a decade, Sam is now worth billions — which he plans to "
 "give away.`]"
 msgstr ""
+"!img~ style=\"width: 72%\" ~[](/wp-content/uploads/2021/07/sam-bf-4.jpg)[`"
+"Сэм довел заработок до предела. Пройдя путь от студента-физика до пионера в "
+"области децентрализованных финансов менее чем за десять лет, Сэм теперь "
+"стоит миллиарды, которые он планирует раздать.`]"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:236
@@ -926,6 +1423,15 @@ msgid ""
 "tens of millions of dollars of donations, [which can do a huge amount of "
 "good](https://80000hours.org/career-guide/making-a-difference/#1-donating-effectively)."
 msgstr ""
+"Более 500 наших читателей также стремятся зарабатывать, чтобы жертвовать в "
+"более скромных масштабах. Например, [Джон Ян] (https://www.givingwhatwecan."
+"org/post/2021/01/why-i-took-the-giving-what-we-can-pledge-john-yan/) решил, "
+"что хороший способ внести свой вклад — остаться на своей нынешней работе ("
+"разработка программного обеспечения) и пожертвовать 10–30% своего дохода на "
+"эффективные благотворительные организации. В совокупности вклады этих "
+"читателей составят десятки миллионов долларов пожертвований, [которые могут "
+"принести огромную пользу](https://80000hours.org/career-guide/"
+"making-a-difference/#1- пожертвование-эффективно)."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:238
@@ -935,6 +1441,11 @@ msgid ""
 "peak output at age 40–60.[^:`Earnings -- one indicator of productivity -- "
 "typically peak around age 40–50. One large study in the US found:"
 msgstr ""
+"Наконец, помните, что использование кредитного плеча требует времени. В то "
+"время как многие молодые люди хотят сразу же оказать большое влияние, "
+"исследования показывают, что большинство людей достигают своего пика "
+"производительности в возрасте 40–60 лет. Одно большое исследование в США "
+"показало:"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:242
@@ -951,6 +1462,19 @@ msgid ""
 "and saving motives. In our data, this rise is about 80 log points, which is "
 "about 127%."
 msgstr ""
+"> Средний профиль жизненного цикла получается из панельных данных или "
+"повторных перекрестных срезов путем регрессии логарифмических индивидуальных "
+"доходов по полному набору возрастных и (год рождения) когортных фиктивных "
+"моделей. Предполагаемые фиктивные значения возраста показаны кружками на "
+"рис. 3 и представляют собой средний профиль доходов от бревен в течение "
+"жизненного цикла. Он имеет обычную горбообразную форму, пик которой "
+"приходится на возраст 50 лет. > > Одним из наиболее важных аспектов профиля "
+"жизненного цикла является предполагаемый рост среднего заработка в течение "
+"жизненного цикла (например, в возрасте от 25 до 55 лет). Хорошо известно, "
+"что масштабы этого роста имеют большое значение для решения многих "
+"экономических вопросов, поскольку они являются важным фактором, определяющим "
+"мотивы заимствования и сбережения. По нашим данным, это увеличение "
+"составляет около 80 логарифмических пунктов, что составляет около 127%."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:244
@@ -960,6 +1484,11 @@ msgid ""
 "No. 710 February 2015; [Archived "
 "link](https://web.archive.org/web/20160602150727/https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr710.pdf)"
 msgstr ""
+"_Что данные о миллионах рабочих в США говорят о риске дохода в течение "
+"жизненного цикла?_; Фатих Гувенен, Фатих Карахан, Сердар Озкан, Джэ Сон; "
+"Отчет персонала № 710, февраль 2015 г.; [Архивная ссылка] (https://web."
+"archive.org/web/20160602150727/https://www.newyorkfed.org/medialibrary/media/"
+"research/staff_reports/sr710.pdf)"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:246
@@ -967,6 +1496,8 @@ msgid ""
 "We expect the figures to be similar in other countries. The peak could be 10 "
 "years lower, but that doesn’t change the basic conclusion."
 msgstr ""
+"Мы ожидаем, что в других странах цифры будут такими же. Пик может быть на 10 "
+"лет ниже, но это не меняет основного вывода."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:248
@@ -989,6 +1520,24 @@ msgid ""
 "thereafter (see, e.g., Fulton & Trow, 1974; Hermann, 1988; McDowell, 1982; "
 "Zhao & Jiang, 1986)"
 msgstr ""
+"> С одной стороны, некоторые месторождения характеризуются относительно "
+"ранними пиками, обычно в начале 30-х годов или даже в конце 20-х годов в "
+"хронологических единицах, с несколько крутым спадом после этого, так что "
+"производительность становится менее одной четверти максимальной. Эта "
+"возрастная закономерность, по-видимому, сохраняется, например, в таких "
+"областях, как лирическая поэзия, чистая математика и теоретическая физика ("
+"Adams, 1946; Dennis, 1966; Lehman, 1953a; Moulin, 1955; Roe, 1972b; "
+"Simonton, 1975a; Van Heeringen & Dijkwel). , 1987). С другой стороны, "
+"типичные тенденции в других начинаниях могут демонстрировать неторопливый "
+"подъем к сравнительно позднему пику, в конце 40-х или даже 50-х годов, с "
+"минимальным, если не вообще отсутствующим, спадом впоследствии. Эта более "
+"вытянутая кривая справедлива, например, для таких областей, как написание "
+"романов, история, философия, медицина и общая наука (Adams, 1946; Richard A. "
+"Davis, 1987; Dennis, 1966; Lehman, 1953a; Simonton, 1975a). Конечно, "
+"возрастные кривые многих дисциплин находятся где-то между этими двумя "
+"крайними пределами, с максимальной производительностью около 40 лет и "
+"заметным, но умеренным спадом после этого (см., например, Fulton & Trow, "
+"1974; Hermann, 1988; McDowell, 1982; Чжао и Цзян, 1986 г.)"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:250
@@ -997,6 +1546,10 @@ msgid ""
 "century of research?.\" Psychological Bulletin 104.2 (1988): 251. [Archived "
 "link](https://web.archive.org/web/20160602145859/http://resources.emartin.net/blog/docs/AgeAchievement.pdf)"
 msgstr ""
+"Саймонтон, Дин К. «Возраст и выдающиеся достижения: что мы знаем после "
+"столетия исследований?». Psychological Bulletin 104.2 (1988): 251. [Архивная "
+"ссылка] (https://web.archive.org/web/20160602145859/http://resources.emartin."
+"net/blog/docs/AgeAchievement.pdf)"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:252
@@ -1005,6 +1558,11 @@ msgid ""
 "are the ages when we do our best work_”, Fast Company, 2016, [Archived "
 "link](https://web.archive.org/web/20160602145912/http://www.fastcompany.com/3058870/your-most-productive-self/these-are-the-ages-when-we-do-our-best-workf)."
 msgstr ""
+"Средний возраст генеральных директоров и президентов взят у автора Шейна "
+"Сноу. _\"Это возраст, когда мы делаем нашу лучшую работу_\", Fast Company, "
+"2016, [Архивная ссылка](https://web.archive.org/web/20160602145912/http://www"
+".fastcompany.com/3058870/ "
+"ваше-самое-продуктивное-я/это-возраст-когда-мы-делаем-нам-лучшую-работуf)."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:254
@@ -1013,6 +1571,9 @@ msgid ""
 "Prize-winning work in the field, which is 39. The source is Jones 2014, "
 "which is referenced below."
 msgstr ""
+"Цифра для химии взята из среднего возраста, в котором люди выполняют работу, "
+"получившую Нобелевскую премию, в этой области, которая составляет 39 лет. "
+"Источник: Jones 2014, ссылка на который приведена ниже."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:256
@@ -1021,6 +1582,8 @@ msgid ""
 "that is 6 years older at the end of the 20th century than it was at the "
 "beginning."
 msgstr ""
+"> Например, исследования, получившие Нобелевскую премию, выполняются в "
+"среднем возрасте, который в конце 20-го века на 6 лет старше, чем в начале."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:258
@@ -1029,6 +1592,10 @@ msgid ""
 "genius._ No. w19866. National Bureau of Economic Research, 2014. [Archived "
 "link](https://web.archive.org/web/20160602163459/http://www.nber.org/papers/w19866.pdf).`]"
 msgstr ""
+"Джонс, Бенджамин, Э. Дж. Риди и Брюс А. Вайнберг. _Возраст и научный гений._ "
+"№ w19866. Национальное бюро экономических исследований, 2014. [Ссылка из "
+"архива](https://web.archive.org/web/20160602163459/http://www.nber.org/"
+"papers/w19866.pdf).`]"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:260
@@ -1039,6 +1606,11 @@ msgid ""
 "connections, and contributors to your reputation that will let you have more "
 "influence in the future."
 msgstr ""
+"Это означает, что если вы сейчас не чувствуете, что у вас есть много рычагов "
+"воздействия, другой вариант — создать то, что мы называем вашим «[карьерным "
+"капиталом] (https://80000hours.org/articles/career-capital)»: навыки, связи. "
+", и вклад в вашу репутацию, которая позволит вам иметь больше влияния в "
+"будущем."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:262
@@ -1055,6 +1627,16 @@ msgid ""
 "how to [have a big impact in your current "
 "position](https://80000hours.org/career-guide/making-a-difference/)._"
 msgstr ""
+"_В наших руководствах мы рассказываем [как сравнить карьеры с точки зрения "
+"кредитного плеча] (https://80000hours.org/career-planning/process/"
+"longer-term-paths/#aim-at-top-problems) и [какие варианты лучшее для "
+"карьерного капитала](https://80000hours.org/articles/career-capital/), а "
+"также [список идей для путей с высоким кредитным плечом](http://80000hours."
+"org/career-reviews/) и [текущие открытые вакансии](http://80000hours.org/"
+"job-board/). Если вы не хотите менять работу прямо сейчас, вот [как "
+"инвестировать в себя] (https://80000hours.org/career-guide/"
+"how-to-be-successful/) и как [иметь большое влияние на вашу текущую "
+"должность](https://80000hours.org/career-guide/making-a-difference/)._"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:264
@@ -1062,6 +1644,8 @@ msgid ""
 "## Personal fit: What will you be good at — and what do you actually want to "
 "do?"
 msgstr ""
+"## Личное соответствие: в чем вы будете хороши и чем вы на самом деле хотите "
+"заниматься?"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:266
@@ -1069,6 +1653,8 @@ msgid ""
 "“Find work you’re good at” is a truism, but we think many people still don’t "
 "take it seriously enough."
 msgstr ""
+"«Найдите работу, в которой вы хороши» — это трюизм, но мы думаем, что многие "
+"люди до сих пор не воспринимают его достаточно серьезно."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:268
@@ -1076,6 +1662,9 @@ msgid ""
 "Data shows that [in many fields, success is distributed very "
 "unevenly](https://80000hours.org/2021/05/how-much-do-people-differ-in-productivity/)."
 msgstr ""
+"Данные показывают, что [во многих областях успех распределяется очень "
+"неравномерно] (https://80000hours.org/2021/05/"
+"how-much-do-people-differ-in-productivity/)."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:270
@@ -1083,6 +1672,8 @@ msgid ""
 "![Data on the dispersion of staff "
 "productivity](https://80000hours.org/wp-content/uploads/2021/05/m50uknsw.png)"
 msgstr ""
+"![Данные о разбросе производительности персонала](https://80000hours.org/"
+"wp-content/uploads/2021/05/m50uknsw.png)"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:272
@@ -1091,6 +1682,9 @@ msgid ""
 "median. So even a small predictable difference in your suitability for two "
 "paths could translate into a big difference in outcomes."
 msgstr ""
+"Например, лучший писатель может легко иметь в 100 раз больше аудитории, чем "
+"средний. Таким образом, даже небольшая предсказуемая разница в вашей "
+"пригодности для двух путей может привести к большой разнице в результатах."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:274
@@ -1099,6 +1693,9 @@ msgid ""
 "connections, credibility, and money to direct towards neglected problems — "
 "increasing your leverage."
 msgstr ""
+"Другая причина заключается в том, что успех практически в любой области дает "
+"вам больше связей, авторитета и денег, которые можно направить на решение "
+"забытых проблем — увеличивая ваши рычаги влияния."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:276
@@ -1108,6 +1705,11 @@ msgid ""
 "it](https://80000hours.org/career-guide/job-satisfaction/). We’d rarely "
 "recommend doing something you dislike because it seems higher impact."
 msgstr ""
+"По обеим причинам вам необходимо сбалансировать свое соответствие пути с "
+"другими факторами, описанными выше, а также [насколько это вас удовлетворит] "
+"(https://80000hours.org/career-guide/job-satisfaction/) . Мы редко "
+"рекомендуем делать то, что вам не нравится, потому что это кажется более "
+"эффективным."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:278
@@ -1117,11 +1719,15 @@ msgid ""
 "in the previous section, even if you work in finance or fashion, you can use "
 "your career to have a big impact."
 msgstr ""
+"И если вы можете быть исключительным в чем-то, это может стоить продолжения, "
+"даже если вы не уверены, как это будет полезно для решения насущных проблем. "
+"Как говорилось в предыдущем разделе, даже если вы работаете в сфере финансов "
+"или моды, вы можете использовать свою карьеру, чтобы оказать большое влияние."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:280
 msgid "So how can you predict what you’ll be best at?"
-msgstr ""
+msgstr "Итак, как вы можете предсказать, в чем вы будете лучше всего?"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:282
@@ -1129,6 +1735,8 @@ msgid ""
 "Despite the importance of this question, there doesn’t seem to be much good "
 "evidence-based advice out there."
 msgstr ""
+"Несмотря на важность этого вопроса, кажется, что хороших советов, основанных "
+"на фактических данных, не так много."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:284
@@ -1139,6 +1747,11 @@ msgid ""
 "how to [plan your career](https://80000hours.org/career-planning/) over "
 "time._"
 msgstr ""
+"_Чтобы заполнить этот пробел, мы создали руководства по [как предсказать "
+"вашу пригодность](https://80000hours.org/career-planning/process/"
+"longer-term-paths/#how-to-assess-long-term-fit ), [что делает работу "
+"удовлетворительной](/articles/impact-versus-happiness/) и как [планировать "
+"свою карьеру](https://80000hours.org/career-planning/) с течением времени._"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:286
@@ -1150,41 +1763,48 @@ msgid ""
 "to find a good step for the next 1-5 years, then reassess your longer-term "
 "goals, then take another step, and repeat."
 msgstr ""
+"Однако прогнозы могут быть ограничены, поэтому, хотя мы и призываем вас "
+"выдвигать гипотезы о том, какие долгосрочные пути будут для вас наилучшими, "
+"мы также поощряем итеративный подход. Особенно в начале своей карьеры вы "
+"узнаете огромное количество информации о своей физической форме и других "
+"факторах, поэтому часто бывает лучше найти хороший шаг на следующие 1-5 лет, "
+"затем переоценить свои долгосрочные цели, а затем сделать еще один шаг. , и "
+"повторите."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:288
 msgid "## How much do careers differ in impact?"
-msgstr ""
+msgstr "## Насколько карьеры различаются по влиянию?"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:290
 msgid "We’ve shown that you can have more impact by:"
-msgstr ""
+msgstr "Мы показали, что вы можете оказать большее влияние, если:"
 
 #. type: Bullet: '1. '
 #: make-a-difference-with-your-career.md:295
 msgid "Finding a **bigger and/or more neglected problem**"
-msgstr ""
+msgstr "Как найти **большую и/или более забытую проблему**"
 
 #. type: Bullet: '2. '
 #: make-a-difference-with-your-career.md:295
 msgid "Finding a more **effective solution**"
-msgstr ""
+msgstr "Поиск более **эффективного решения**"
 
 #. type: Bullet: '3. '
 #: make-a-difference-with-your-career.md:295
 msgid "Finding a **path with more leverage**"
-msgstr ""
+msgstr "Поиск **пути с большей отдачей**"
 
 #. type: Bullet: '4. '
 #: make-a-difference-with-your-career.md:295
 msgid "Finding work that **fits you better**"
-msgstr ""
+msgstr "Найдите работу, которая **подходит вам лучше**"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:297
 msgid "We’ve also shown that there are big differences for each."
-msgstr ""
+msgstr "Мы также показали, что для каждого из них существуют большие различия."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:299
@@ -1192,6 +1812,8 @@ msgid ""
 "But now also note that the differences _multiply together_, rather than "
 "merely add up."
 msgstr ""
+"Но теперь также обратите внимание, что различия _перемножаются_, а не просто "
+"складываются."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:301
@@ -1200,6 +1822,10 @@ msgid ""
 "as effective, and — through greater leverage — direct twice as many "
 "resources to those problems, then you’ll have four times as much impact."
 msgstr ""
+"Например, если вы сможете найти проблему, при которой дополнительные ресурсы "
+"будут в два раза эффективнее, и — за счет большей эффективности — направить "
+"вдвое больше ресурсов на решение этих проблем, то вы окажете в четыре раза "
+"большее влияние."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:303
@@ -1207,6 +1833,8 @@ msgid ""
 "If you can find a path that’s twice as good on each dimension, it would be "
 "16 times higher impact in total."
 msgstr ""
+"Если вы сможете найти путь, который в два раза лучше по каждому измерению, "
+"его общее влияние будет в 16 раз выше."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:305
@@ -1216,6 +1844,10 @@ msgid ""
 "dimension. This means that when multiplied together, the differences across "
 "all factors could be 100 fold or even 1,000 fold."
 msgstr ""
+"И мы показали, что, несмотря на огромные неопределенности, вполне вероятно, "
+"что некоторые пути оказывают по крайней мере в 10 раз большее влияние, чем "
+"другие, по каждому измерению. Это означает, что при умножении различий между "
+"всеми факторами может быть 100 или даже 1000 раз."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:307
@@ -1225,6 +1857,11 @@ msgid ""
 "lives, reducing carbon emissions 100 times as much, or making 100 times more "
 "progress reducing the biggest risks facing humanity."
 msgstr ""
+"Легко скрыть эти различия в масштабах, но давайте на мгновение оценим, "
+"насколько они важны. Это может означать спасение в 100 раз большего "
+"количества жизней, сокращение выбросов углерода в 100 раз или достижение в "
+"100 раз большего прогресса в снижении самых больших рисков, с которыми "
+"сталкивается человечество."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:309
@@ -1232,6 +1869,8 @@ msgid ""
 "These differences are not the only ethically relevant factors, and everyone "
 "has priorities in life besides moral ones, but they do really matter."
 msgstr ""
+"Эти различия — не единственные этически значимые факторы, и у каждого есть "
+"жизненные приоритеты помимо моральных, но они действительно имеют значение."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:311
@@ -1242,6 +1881,11 @@ msgid ""
 "years_. You could then spend the next 30 years on a beach doing whatever you "
 "like, and still have done far more to help others."
 msgstr ""
+"Еще один вывод заключается в том, что если можно найти вариант, в 100 раз "
+"более эффективный, чем ваше текущее предположение, то 10 лет на этом пути "
+"приведут к тому, что в противном случае заняло бы у таких людей, как вы, "
+"_1000 лет_. Затем вы могли бы провести следующие 30 лет на пляже, делая все, "
+"что вам нравится, и при этом сделать гораздо больше, чтобы помочь другим."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:313
@@ -1254,11 +1898,18 @@ msgid ""
 "hundreds or even millions of people, and also contribute to even bigger and "
 "more neglected priorities."
 msgstr ""
+"Потенциальный разброс также показывает, почему выбор карьеры является таким "
+"важным этическим решением. Мы связываем «этичный образ жизни» с такими "
+"вещами, как переработка или сокращение выбросов CO<sub>2</sub>, но даже "
+"приложив большие усилия, лучшее, что вы можете сделать, — это сократить свой "
+"личный след почти до нуля. Но, тщательно подумав о своей карьере, вы можете "
+"повлиять на потребление сотен или даже миллионов людей, а также внести свой "
+"вклад в еще более крупные и забытые приоритеты."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:315
 msgid "How is it possible that such big differences in impact exist?"
-msgstr ""
+msgstr "Как возможно, что существуют такие большие различия в воздействии?"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:317
@@ -1268,6 +1919,10 @@ msgid ""
 "rich countries have what would have been kinglike wealth and power in "
 "previous centuries."
 msgstr ""
+"Одной из причин является огромная экономическая и технологическая щедрость "
+"промышленной революции, а это означает, что сегодня многие простые граждане "
+"богатых стран обладают тем, что в предыдущие века было королевским "
+"богатством и властью."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:319
@@ -1275,6 +1930,8 @@ msgid ""
 "![World average "
 "income](https://80000hours.org/wp-content/uploads/2017/03/80K_worldGDP-year_V3-1.jpg)"
 msgstr ""
+"![Средний мировой доход](https://80000hours.org/wp-content/uploads/2017/03/"
+"80K_worldGDP-year_V3-1.jpg)"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:321
@@ -1282,6 +1939,8 @@ msgid ""
 "Advancing technology may make the next century one of the most important in "
 "history."
 msgstr ""
+"Развитие технологий может сделать следующее столетие одним из самых важных в "
+"истории."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:323
@@ -1292,6 +1951,12 @@ msgid ""
 "civilisation, or we can usher in a future better than we can easily imagine "
 "— and be good stewards for all future generations."
 msgstr ""
+"Наше поколение может разрушить климат на тысячи лет, или мы можем построить "
+"устойчивую экономику. Мы можем продолжать расширять фабричное фермерство, а "
+"можем искоренить его. Мы можем позволить новым технологиям, таким как "
+"ядерное оружие, покончить с цивилизацией, или мы можем возвестить будущее "
+"лучше, чем мы можем себе представить, — и быть хорошими хранителями для всех "
+"будущих поколений."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:325
@@ -1300,11 +1965,14 @@ msgid ""
 "the good fortune to have options about how you spend your career, you can "
 "help change the course of history on these vital issues."
 msgstr ""
+"Наша цель — помочь таким людям, как вы, понять эту новую силу. Если вам "
+"посчастливилось иметь варианты того, как вы проведете свою карьеру, вы "
+"можете помочь изменить ход истории по этим жизненно важным вопросам."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:327
 msgid "This is not an easy path, but it is a worthwhile one."
-msgstr ""
+msgstr "Это не легкий путь, но он того стоит."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:329
@@ -1314,6 +1982,10 @@ msgid ""
 "satisfaction in our efforts, especially as more and more people have united "
 "around them."
 msgstr ""
+"Мы часто чувствовали себя разбитыми неуверенностью в том, что делать, и "
+"ошеломленными масштабами проблем. Но мы также находим большой смысл и "
+"удовлетворение в наших усилиях, тем более, что вокруг них объединяется все "
+"больше и больше людей."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:331
@@ -1322,11 +1994,14 @@ msgid ""
 "so far we can help you avoid the mistakes we’ve made, and speed you along "
 "your path to an impactful career."
 msgstr ""
+"Нам еще предстоит многому научиться, но мы надеемся, что, поделившись тем, "
+"что мы уже узнали, мы сможем помочь вам избежать ошибок, которые мы "
+"совершили, и ускорить ваш путь к успешной карьере."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:333
 msgid "## How we can help you"
-msgstr ""
+msgstr "## Как мы можем вам помочь"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:335
@@ -1336,6 +2011,10 @@ msgid ""
 "when we graduated: transparently explained, based on the best research "
 "available, and willing to ask the big questions."
 msgstr ""
+"[Мы основали] (https://80000hours.org/about/#how-did-we-get-started) 80 000 "
+"Hours в 2011 году, чтобы бесплатно предоставлять информацию и поддержку, "
+"которые мы хотели бы получить после выпуска: понятно объяснили, на основе "
+"лучших доступных исследований и готовы задавать серьезные вопросы."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:337
@@ -1343,6 +2022,8 @@ msgid ""
 "By doing this, we hope to get the next generation of leaders tackling the "
 "world’s biggest and most neglected problems."
 msgstr ""
+"Делая это, мы надеемся, что следующее поколение лидеров будет решать самые "
+"большие и самые забытые проблемы в мире."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:339
@@ -1350,6 +2031,8 @@ msgid ""
 "To date, millions of people have read our advice, and thousands of people "
 "have told us they’ve changed careers based on it."
 msgstr ""
+"На сегодняшний день миллионы людей прочитали наш совет, и тысячи людей "
+"сказали нам, что изменили карьеру на его основе."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:341
@@ -1357,6 +2040,7 @@ msgid ""
 "Here’s how you can get started right now, and improve your most important "
 "decision."
 msgstr ""
+"Вот как вы можете начать прямо сейчас и улучшить свое самое важное решение."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:343
@@ -1364,11 +2048,13 @@ msgid ""
 "<div class=\"well bg-gray-lighter margin-bottom margin-top padding-top-small "
 "padding-bottom-small\">"
 msgstr ""
+"<div class=\"well bg-grey-lighter margin-bottom margin-top padding-top-small "
+"padding-bottom-small\">"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:345
 msgid "### Understand how to increase your impact"
-msgstr ""
+msgstr "### Поймите, как увеличить свое влияние"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:347
@@ -1377,51 +2063,57 @@ msgid ""
 "all our research on the factors discussed in this essay (and more), in order "
 "to help you answer the key questions that determine your impact:"
 msgstr ""
+"Наше [руководство по ключевым идеям](https://80000hours.org/key-ideas/) "
+"призвано обобщить все наши исследования факторов, обсуждаемых в этом эссе (и "
+"не только), чтобы помочь вам ответить на ключевые вопросы, определяющие вашу "
+"влияние:"
 
 #. type: Bullet: '1. '
 #: make-a-difference-with-your-career.md:356
 msgid "What does it mean to make a difference, and how can we know what helps?"
-msgstr ""
+msgstr "Что значит иметь значение, и как мы можем знать, что помогает?"
 
 #. type: Bullet: '2. '
 #: make-a-difference-with-your-career.md:356
 msgid "Which global problems are most pressing?"
-msgstr ""
+msgstr "Какие глобальные проблемы наиболее актуальны?"
 
 #. type: Bullet: '3. '
 #: make-a-difference-with-your-career.md:356
 msgid "Which solutions are most effective?"
-msgstr ""
+msgstr "Какие решения наиболее эффективны?"
 
 #. type: Bullet: '4. '
 #: make-a-difference-with-your-career.md:356
 msgid "Which careers give you the most leverage?"
-msgstr ""
+msgstr "Какие профессии дают вам больше всего рычагов воздействия?"
 
 #. type: Bullet: '5. '
 #: make-a-difference-with-your-career.md:356
 msgid "Which jobs will you be good at?"
-msgstr ""
+msgstr "В каких работах вы будете хороши?"
 
 #. type: Bullet: '6. '
 #: make-a-difference-with-your-career.md:356
 msgid "How can you best invest in your skills?"
-msgstr ""
+msgstr "Как лучше всего инвестировать в свои навыки?"
 
 #. type: Bullet: '7. '
 #: make-a-difference-with-your-career.md:356
 msgid "What does a satisfying job look like?"
-msgstr ""
+msgstr "Как выглядит работа, которая приносит удовлетворение?"
 
 #. type: Bullet: '8. '
 #: make-a-difference-with-your-career.md:356
 msgid "What strategy should you take to pursue a great career?"
-msgstr ""
+msgstr "Какую стратегию следует выбрать, чтобы сделать блестящую карьеру?"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:358
 msgid "<a href=\"/key-ideas/\" title=\"\" class=\"btn btn-primary\">Read now</a>"
 msgstr ""
+"<a href=\"/key-ideas/\" title=\"\" class=\"btn btn-primary\">Читать "
+"сейчас</a>"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:360
@@ -1430,6 +2122,9 @@ msgid ""
 "features in-depth conversations with experts on the world’s most pressing "
 "problems and how you can help solve them."
 msgstr ""
+"Вы также можете изучить эти идеи, подписавшись на наш подкаст, в котором "
+"представлены подробные беседы с экспертами о самых насущных мировых "
+"проблемах и о том, как вы можете помочь в их решении."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:362
@@ -1437,6 +2132,8 @@ msgid ""
 "<a href=\"/podcast/\" title=\"\" class=\"btn btn-default\">Listen to the "
 "podcast</a>"
 msgstr ""
+"<a href=\"/podcast/\" title=\"\" class=\"btn btn-default\">Послушайте "
+"подкаст</a>"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:364
@@ -1444,6 +2141,8 @@ msgid ""
 "### Get ideas for high-impact career paths tackling the world’s most "
 "pressing problems"
 msgstr ""
+"### Получить идеи для высокоэффективных карьерных путей, решающих самые "
+"насущные мировые проблемы"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:366
@@ -1451,6 +2150,8 @@ msgid ""
 "We’ve reviewed different global problems, career paths, and jobs to help you "
 "find new ways to contribute. See:"
 msgstr ""
+"Мы рассмотрели различные глобальные проблемы, карьерные пути и рабочие "
+"места, чтобы помочь вам найти новые способы внести свой вклад. Видеть:"
 
 #. type: Bullet: '1. '
 #: make-a-difference-with-your-career.md:371
@@ -1459,6 +2160,8 @@ msgid ""
 "problems](http://80000hours.org/problem-profiles/) we think are especially "
 "pressing"
 msgstr ""
+"[список забытых глобальных проблем](http://80000hours.org/problem-profiles/)"
+", которые мы считаем особенно актуальными"
 
 #. type: Bullet: '2. '
 #: make-a-difference-with-your-career.md:371
@@ -1468,6 +2171,11 @@ msgid ""
 "[list of specific career paths that we think best contribute to the problems "
 "we highlight](https://80000hours.org/career-reviews/#our-priority-paths)"
 msgstr ""
+"Некоторые [широкие типы высокооплачиваемых профессий] (https://80000hours."
+"org/career-reviews/#five-key-categories) и [список конкретных карьерных "
+"путей, которые, по нашему мнению, лучше всего способствуют решению проблем, "
+"которые мы выделяем] (https://80000hours.org/career-reviews/#our-priority-"
+"paths)"
 
 #. type: Bullet: '3. '
 #: make-a-difference-with-your-career.md:371
@@ -1476,6 +2184,8 @@ msgid ""
 "skills](https://80000hours.org/articles/advice-by-expertise/) to have an "
 "impact"
 msgstr ""
+"Идеи о том, как [применить имеющиеся навыки](https://80000hours.org/articles/"
+"advice-by-expertise/), чтобы оказать влияние"
 
 #. type: Bullet: '4. '
 #: make-a-difference-with-your-career.md:371
@@ -1483,6 +2193,8 @@ msgid ""
 "How to [make a big difference without changing "
 "jobs](https://80000hours.org/career-guide/making-a-difference/)"
 msgstr ""
+"Как [изменить ситуацию к лучшему, не меняя работу](https://80000hours.org/"
+"career-guide/making-a-difference/)"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:373
@@ -1491,11 +2203,15 @@ msgid ""
 "college students and graduates aged 18–30 who want to make impact their main "
 "focus — though the principles we cover apply to everyone."
 msgstr ""
+"Из-за наших ограниченных возможностей наши конкретные рекомендации "
+"предназначены для студентов и выпускников колледжей в возрасте от 18 до 30 "
+"лет, которые хотят оказать влияние на свою основную деятельность, хотя "
+"принципы, которые мы рассматриваем, применимы ко всем."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:375
 msgid "### Find jobs"
-msgstr ""
+msgstr "### Найти работу"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:377
@@ -1504,6 +2220,9 @@ msgid ""
 "opportunities](https://80000hours.org/job-board/) that can let you have a "
 "big impact, or build career capital for high-impact roles."
 msgstr ""
+"У нас есть [список текущих вакансий](https://80000hours.org/job-board/), "
+"которые помогут вам оказать большое влияние или создать карьерный капитал "
+"для высокоэффективных должностей."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:379
@@ -1511,16 +2230,18 @@ msgid ""
 "Join our newsletter, and we’ll send you a curated list of the top "
 "opportunities about twice a month."
 msgstr ""
+"Подпишитесь на нашу рассылку, и примерно два раза в месяц мы будем присылать "
+"вам тщательно подобранный список лучших возможностей."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:381 make-a-difference-with-your-career.md:413
 msgid "!newsletter-subscribe"
-msgstr ""
+msgstr "!рассылка-подписаться"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:383
 msgid "### Make your career plan"
-msgstr ""
+msgstr "### Составьте свой карьерный план"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:385
@@ -1529,6 +2250,9 @@ msgid ""
 "making](https://80000hours.org/career-planning/), which aim to help you feel "
 "confident in your next decision."
 msgstr ""
+"Если у вас есть идеи, ознакомьтесь с нашими [ресурсами по планированию и "
+"принятию решений] (https://80000hours.org/career-planning/), цель которых "
+"помочь вам чувствовать себя уверенно при принятии следующего решения."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:387
@@ -1536,6 +2260,8 @@ msgid ""
 "Our 8-week career planning course helps you tie together everything you need "
 "to consider to make your plan and start taking action."
 msgstr ""
+"Наш 8-недельный курс по планированию карьеры поможет вам связать воедино "
+"все, что вам нужно учитывать, чтобы составить свой план и начать действовать."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:389
@@ -1543,11 +2269,13 @@ msgid ""
 "<a href=\"/career-planning/process/\" title=\"\" class=\"btn "
 "btn-default\">Start the course</a>"
 msgstr ""
+"<a href=\"/career-planning/process/\" title=\"\" class=\"btn btn-default\""
+">Начать курс</a>"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:391
 msgid "### Get one-on-one advice"
-msgstr ""
+msgstr "### Получите индивидуальную консультацию"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:393
@@ -1556,11 +2284,15 @@ msgid ""
 "their careers. Our advisors can help check your plan, and may be able to "
 "make introductions to jobs and mentors who can help you get started."
 msgstr ""
+"Мы предлагаем бесплатные индивидуальные консультации для людей, пытающихся "
+"повлиять на свою карьеру. Наши консультанты могут помочь проверить ваш план "
+"и познакомить вас с вакансиями и наставниками, которые помогут вам начать "
+"работу."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:395
 msgid "### Get help from our community"
-msgstr ""
+msgstr "### Получите помощь от нашего сообщества"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:397
@@ -1569,6 +2301,9 @@ msgid ""
 "help you find collaborators, we’ve also helped to build the [effective "
 "altruism](/community) movement."
 msgstr ""
+"Два человека, работающие вместе, часто могут добиться в два раза большего, "
+"поэтому, чтобы помочь вам найти сотрудников, мы также помогли создать "
+"движение [эффективного альтруизма](/сообщество)."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:399
@@ -1580,6 +2315,12 @@ msgid ""
 "while aiming to bring evidence and careful reasoning to bear on the "
 "questions."
 msgstr ""
+"Эффективный альтруизм — это изучение того, как лучше всего помочь другим. В "
+"нем рассматриваются вопросы, аналогичные тем, которые мы рассмотрели, — "
+"какие проблемы, решения и методы наиболее эффективны — и расширяется фокус, "
+"чтобы охватить все способы делать добро, будь то выбор карьеры, "
+"пожертвование или политическая деятельность, при этом стремясь представить "
+"доказательства. и тщательное обоснование вопросов."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:401
@@ -1589,6 +2330,10 @@ msgid ""
 "billions of dollars committed to the approach, and thousands of people "
 "working together to use their careers to help others."
 msgstr ""
+"Эффективный альтруизм — это не только область исследований, но и движение "
+"людей, пытающихся применить его открытия на практике. В настоящее время "
+"этому подходу посвящены десятки миллиардов долларов, и тысячи людей работают "
+"вместе, чтобы использовать свою карьеру, чтобы помогать другим."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:403
@@ -1599,6 +2344,12 @@ msgid ""
 "to collaborate and help you have a greater impact. Through the community, "
 "we’ve found some of the most impressive and dedicated people we’ve ever met."
 msgstr ""
+"Вы можете принять участие в Интернете, через [конференции на пяти "
+"континентах] (https://eaglobal.org) и в [сотнях местных групп] (https://forum"
+".efficientaltruism.org/community), полных людей, стремящихся к "
+"сотрудничеству. и помочь вам иметь большее влияние. Благодаря сообществу мы "
+"нашли одних из самых впечатляющих и преданных своему делу людей, которых мы "
+"когда-либо встречали."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:405
@@ -1606,16 +2357,18 @@ msgid ""
 "<a href=\"/community/\" title=\"\" class=\"btn btn-primary\">More about how "
 "to get involved</a>"
 msgstr ""
+"<a href=\"/community/\" title=\"\" class=\"btn btn-primary\">Подробнее о "
+"том, как принять участие</a>"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:407
 msgid "</div>"
-msgstr ""
+msgstr "</div>"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:409
 msgid "## No time to read right now?"
-msgstr ""
+msgstr "## Нет времени читать прямо сейчас?"
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:411
@@ -1623,6 +2376,8 @@ msgid ""
 "Join our newsletter and we’ll send you a list of our most important "
 "articles, job opportunities, and monthly updates on new research."
 msgstr ""
+"Подпишитесь на нашу рассылку, и мы будем присылать вам список наших самых "
+"важных статей, вакансий и ежемесячные новости о новых исследованиях."
 
 #. type: Plain text
 #: make-a-difference-with-your-career.md:414
@@ -1630,3 +2385,5 @@ msgid ""
 "You’ll be joining our community of over 150,000 people, and can unsubscribe "
 "in one click."
 msgstr ""
+"Вы присоединитесь к нашему сообществу, насчитывающему более 150 000 человек, "
+"и сможете отказаться от подписки одним щелчком мыши."
