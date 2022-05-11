@@ -77,6 +77,8 @@ By considering a broader range of routes, you may be able to find a path that ha
 
 So how did we end up thinking this?
 
+Тест
+
 [When our founders](https://80000hours.org/about/#how-did-we-get-started), Ben and Will, were about to graduate in 2011, they wanted to find work they enjoyed, that paid the bills, and that made a contribution to the world. But they felt really unsure what to do.
 
 Given the huge amount of time at stake, it seemed worth doing some real research to find the best path. But it didn’t feel like the existing careers advice even _tried_ to compare paths in terms of impact, nor was it based on much evidence. So they started to research the question themselves.
