@@ -342,7 +342,7 @@ Effective altruism is the study of how best to help others. It tackles similar q
 
 Besides being a field of research, effective altruism is also a movement of people trying to put its findings into practice. There are now tens of billions of dollars committed to the approach, and thousands of people working together to use their careers to help others.
 
-You can get involved online (e.g. through [courses and reading groups](https://www.effectivealtruism.org/virtual-programs)), through [conferences in five continents](https://eaglobal.org), and in [hundreds of local groups](https://forum.effectivealtruism.org/community) full of people keen to collaborate and help you have a greater impact. Through the community, we’ve found some of the most impressive and dedicated people we’ve ever met.
+You can get involved online, through [conferences in five continents](https://eaglobal.org), and in [hundreds of local groups](https://forum.effectivealtruism.org/community) full of people keen to collaborate and help you have a greater impact. Through the community, we’ve found some of the most impressive and dedicated people we’ve ever met.
 
 <a href="/community/" title="" class="btn btn-primary">More about how to get involved</a>
 

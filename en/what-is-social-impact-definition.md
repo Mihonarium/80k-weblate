@@ -298,7 +298,7 @@ In short, if you have the extraordinary privilege to be a college graduate in a 
 ### <a class="tw--text-off-black hover:tw--text-off-black hover:tw--no-underline focus:tw--text-off-black" href="https://80000hours.org/articles/future-generations/"> <small>Read next: </small> Longtermism: the moral significance of future generations </a>
 
 <div class="tw--grid xs:tw--grid-flow-col tw--gap-3"><div class="xs:tw--order-last tw--pt-1">
-[!img~ width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2017/10/hubble_friday_03112016-720x448.jpg)](https://80000hours.org/articles/future-generations/)
+[![](https://80000hours.org/wp-content/uploads/2017/10/hubble_friday_03112016-720x448.jpg)](https://80000hours.org/articles/future-generations/)
 </div>
 
 <div><div class="tw--pb-3">

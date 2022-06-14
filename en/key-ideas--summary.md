@@ -61,7 +61,7 @@ Now, you can read the [full key ideas series](/key-ideas/) to learn more about e
 ### <a class="tw--text-off-black hover:tw--text-off-black hover:tw--no-underline focus:tw--text-off-black" href="https://80000hours.org/articles/what-is-social-impact-definition/"> <small>Read next: </small> What is social impact? A definition </a>
 
 <div class="tw--grid xs:tw--grid-flow-col tw--gap-3"><div class="xs:tw--order-last tw--pt-1">
-[!img~ width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2014/10/David_-_The_Death_of_Socrates-720x448.jpg)](https://80000hours.org/articles/what-is-social-impact-definition/)
+[![](https://80000hours.org/wp-content/uploads/2014/10/David_-_The_Death_of_Socrates-720x448.jpg)](https://80000hours.org/articles/what-is-social-impact-definition/)
 </div>
 
 <div><div class="tw--pb-3">
