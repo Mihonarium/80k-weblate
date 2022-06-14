@@ -31,7 +31,7 @@ We’ll also send you updates on our latest research, opportunities to work on e
 
 !newsletter-subscribe
 
-If you’re already on our newsletter, email us at [book.giveaway@80000hours.org](/cdn-cgi/l/email-protection#64060b0b0f4a030d12010513051d42070b090905105f5c545454540c0b1116174a0b1603) to get a copy.
+If you’re already on our newsletter, email us at [book.giveaway@80000hours.org](/cdn-cgi/l/email-protection#0e6c616165206967786b6f796f77286d6163636f7a35363e3e3e3e66617b7c7d20617c69) to get a copy.
 
 </div>
 
