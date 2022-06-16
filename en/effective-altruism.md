@@ -115,7 +115,7 @@ You can also read [_Doing Good Better_](https://www.effectivealtruism.org/doing-
 ### <a class="tw--text-off-black hover:tw--text-off-black hover:tw--no-underline focus:tw--text-off-black" href="https://80000hours.org/articles/your-choice-of-problem-is-crucial/"> <small>Read next: </small> Why the problem you work on is the biggest driver of your impact </a>
 
 <div class="tw--grid xs:tw--grid-flow-col tw--gap-3"><div class="xs:tw--order-last tw--pt-1">
-[![](https://80000hours.org/wp-content/uploads/2021/10/joshua-earle-87JyMb9ZfU-unsplash-720x448.jpg)](https://80000hours.org/articles/your-choice-of-problem-is-crucial/)
+[!img~ width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2021/10/joshua-earle-87JyMb9ZfU-unsplash-720x448.jpg)](https://80000hours.org/articles/your-choice-of-problem-is-crucial/)
 </div>
 
 <div><div class="tw--pb-3">
