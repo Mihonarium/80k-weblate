@@ -31,7 +31,7 @@ We’ll also send you updates on our latest research, opportunities to work on e
 
 !newsletter-subscribe
 
-If you’re already on our newsletter, email us at [book.giveaway@80000hours.org](/cdn-cgi/l/email-protection#0e6c616165206967786b6f796f77286d6163636f7a35363e3e3e3e66617b7c7d20617c69) to get a copy.
+If you’re already on our newsletter, email us at [book.giveaway@80000hours.org](/cdn-cgi/l/email-protection#f1939e9e9adf9698879490869088d7929e9c9c9085cac9c1c1c1c1999e848382df9e8396) to get a copy.
 
 </div>
 
@@ -47,7 +47,7 @@ If you prefer to start with a video, this presentation by Joseph Carlsmith is al
 
 The average mammalian species lasts for about one million years. Homo sapiens have been around for only 200,000. With the benefit of technology and foresight, civilisation could, in principle, survive for at least as long as the earth is habitable — probably around 600–800 million years more.[^:`And if humanity finds a way to flourish outside of Earth, civilisation could last far longer still.`]
 
-Given that we can’t rule out this possibility, this means that there will, [in expectation](https://80000hours.org/articles/expected-value/), be a huge number of [future generations](/future-generations/). There could also be a much larger number of people in each future generation, and their lives could be much better than ours.
+Given that we can’t rule out this possibility, this means that there will, [in expectation](https://80000hours.org/articles/expected-value/), be a huge number of future generations. There could also be a much larger number of people in each future generation, and their lives could be much better than ours.
 
 We think future generations clearly matter, and impartial concern most likely implies their interests matter as much as anyone’s.[^:`Technically, another claim is needed to complete this argument. We must say that others' interests matter regardless of their 'modal status' -- roughly whether an individual would exist 'no matter what we do' or 'might exist or might not exist depending on our actions.'
 
@@ -267,7 +267,7 @@ We’ve helped hundreds of people choose an area to focus, make connections, and
 
 </div>
 
-## Further reading:
+## Further reading
 
 - [Moral uncertainty: how to act when you’re uncertain about what’s good](https://80000hours.org/articles/moral-uncertainty/)
 - Chapters 1-4 [_On the Overwhelming Importance of Shaping the Far Future_](https://80000hours.org/wp-content/uploads/2022/01/Beckstead-Nick-On-the-Overwhelming-Importance-of-Shaping-the-Far-Future-better-formatting.pdf) by Nick Beckstead. This thesis builds upon a seminal paper by Nick Bostrom, [_Astronomical Waste_](https://nickbostrom.com/astronomical/waste.html), which makes the argument that the future has overwhelming value for [utilitarians](https://www.utilitarianism.net/), as well as [_Existential Risk Prevention as a Global Priority_](http://www.existential-risk.org/concept.html).
@@ -283,13 +283,15 @@ We’ve helped hundreds of people choose an area to focus, make connections, and
 - [Fifty-one policy and research ideas](https://80000hours.org/2020/04/longtermist-policy-ideas/) for reducing existential risk
 - [Carl Shulman on the common-sense case for existential risk work and its practical implications](https://80000hours.org/podcast/episodes/carl-shulman-common-sense-case-existential-risks/)
 - An alternative [introduction to longtermism](https://www.effectivealtruism.org/articles/longtermism/), which goes through somewhat different objections and reasoning
+- Introductory overviews on longtermism from the [Forethought Foundation for Global Priorities Research](https://www.forethought.org/longtermism), [Our World In Data](https://ourworldindata.org/longtermism), [Wikipedia](https://en.wikipedia.org/wiki/Longtermism), and [1000 Word Philosophy](https://1000wordphilosophy.com/2021/09/17/longtermism/).
+- Podcast: [Will MacAskill on balancing frugality with ambition, whether you need longtermism, and mental health under pressure](https://80000hours.org/podcast/episodes/will-macaskill-ambition-longtermism-mental-health/)
 
 <div class="tw--mt-6 tw--p-3 tw--pt-2 tw--bg-gray-lighter tw--rounded-md ">
 
 ### <a class="tw--text-off-black hover:tw--text-off-black hover:tw--no-underline focus:tw--text-off-black" href="https://80000hours.org/articles/effective-altruism/"> <small>Read next: </small> Effective altruism </a>
 
 <div class="tw--grid xs:tw--grid-flow-col tw--gap-3"><div class="xs:tw--order-last tw--pt-1">
-[![](https://80000hours.org/wp-content/uploads/2017/03/cost-effectiveness-of-health-interventionsV1-01-e1489184505545-720x448.png)](https://80000hours.org/articles/effective-altruism/)
+[!img~ width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2017/03/cost-effectiveness-of-health-interventionsV1-01-e1489184505545-720x448.png)](https://80000hours.org/articles/effective-altruism/)
 </div>
 
 <div><div class="tw--pb-3">
