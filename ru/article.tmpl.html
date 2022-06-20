@@ -812,7 +812,7 @@
                     </div>
                 </div>
             </header>
-            {{if .HasHeaders }} <div id="positioned-sidebar-toc">
+             <div id="positioned-sidebar-toc">{{if .HasHeaders }}
                 <div class="sidebar-toc__open-button-wrap no-print">
                     <button class="sidebar-toc__open-button hidden-md hidden-lg ">
                         <svg width="27px" height="27px" stroke="currentColor" viewBox="0 0 24 24" fill="none">
@@ -852,7 +852,7 @@
                             </ul>
                         </div>
                     </div>
-                </div>{{end}}
+                </div>
                 <script data-cfasync="false" src="https://80000hours.org/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="ae7c1d784b3a92c472ac7d72-text/javascript">$('#sidebar-toc__contents').on('click', 'a', function() {
                      // Stop header showing if the scroll direction is upwards.
                      if(this.hash !== '#top') {
@@ -979,7 +979,7 @@
                        }
                      })
                      });
-                  </script>
+                  </script>{{end}}
             </div>
             <div class="container container--default">
                 <div class="row margin-top">
