@@ -1233,18 +1233,18 @@
         </div>
     </div>
 </footer>
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="4062bd69bc14269729b79fbc-text/javascript">var algolia = {"debug":true,"application_id":"W6KM1UDIB3","search_api_key":"d1d7f2c8696e7b36837d5ed337c4a319","powered_by_enabled":false,"query":"","autocomplete":{"sources":[{"index_id":"searchable_posts","index_name":"prod_searchable_posts","label":"All posts","admin_name":"All posts","position":10,"max_suggestions":10,"tmpl_suggestion":"autocomplete-post-suggestion","enabled":true}],"input_selector":"input[name='s']:not('.no-autocomplete')"},"indices":{"searchable_posts":{"name":"prod_searchable_posts","id":"searchable_posts","enabled":true,"replicas":[]}}};</script> <script type="text/html" id="tmpl-autocomplete-header"><div style="height:.25rem"></div></script> <script type="text/html" id="tmpl-autocomplete-post-suggestion"><a class="suggestion-link" href="{{ data.permalink }}" title="{{ data.permalink }}">
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="4062bd69bc14269729b79fbc-text/javascript">var algolia = {"debug":true,"application_id":"W6KM1UDIB3","search_api_key":"d1d7f2c8696e7b36837d5ed337c4a319","powered_by_enabled":false,"query":"","autocomplete":{"sources":[{"index_id":"searchable_posts","index_name":"prod_searchable_posts","label":"All posts","admin_name":"All posts","position":10,"max_suggestions":10,"tmpl_suggestion":"autocomplete-post-suggestion","enabled":true}],"input_selector":"input[name='s']:not('.no-autocomplete')"},"indices":{"searchable_posts":{"name":"prod_searchable_posts","id":"searchable_posts","enabled":true,"replicas":[]}}};</script> <script type="text/html" id="tmpl-autocomplete-header"><div style="height:.25rem"></div></script> <script type="text/html" id="tmpl-autocomplete-post-suggestion"><a class="suggestion-link" href="{{`{{`}} data.permalink {{`}}`}}" title="{{`{{`}} data.permalink {{`}}`}}">
     <# if ( data.images.thumbnail ) { #>
-    <img class="suggestion-post-thumbnail" src="{{ data.images.thumbnail.url }}" alt="">
+    <img class="suggestion-post-thumbnail" src="{{`{{`}} data.images.thumbnail.url {{`}}`}}" alt="">
     <# } #>
     <div class="suggestion-post-attributes">
-        <span class="suggestion-post-title">{{{ data._highlightResult.post_title.value }}}</span>
+        <span class="suggestion-post-title">{{`{{{`}} data._highlightResult.post_title.value {{`}}}`}}</span>
         <# if ( data._snippetResult['content'] ) { #>
-        <span class="suggestion-post-content">{{{ data._snippetResult['content'].value }}}</span>
+        <span class="suggestion-post-content">{{`{{{`}} data._snippetResult['content'].value {{`}}}`}}</span>
         <# } #>
     </div>
 </a>
-</script> <script type="text/html" id="tmpl-autocomplete-term-suggestion"><a class="suggestion-link" href="{{ data.permalink }}" title="{{ data.name }}">
+</script> <script type="text/html" id="tmpl-autocomplete-term-suggestion"><a class="suggestion-link" href="{{`{{`}} data.permalink {{`}}`}}" title="{{`{{`}} data.name {{`}}`}}">
     <svg viewBox="0 0 21 21" width="21" height="21">
         <svg width="21" height="21" viewBox="0 0 21 21">
             <path
@@ -1252,16 +1252,16 @@
                     fill-rule="evenodd"></path>
         </svg>
     </svg>
-    <span class="suggestion-post-title">{{{ data._highlightResult.name.value }}}</span>
+    <span class="suggestion-post-title">{{`{{{`}} data._highlightResult.name.value {{`}}}`}}</span>
 </a>
-</script> <script type="text/html" id="tmpl-autocomplete-user-suggestion"><a class="suggestion-link user-suggestion-link" href="{{ data.posts_url }}" title="{{ data.display_name }}">
+</script> <script type="text/html" id="tmpl-autocomplete-user-suggestion"><a class="suggestion-link user-suggestion-link" href="{{`{{`}} data.posts_url {{`}}`}}" title="{{`{{`}} data.display_name {{`}}`}}">
     <# if ( data.avatar_url ) { #>
-    <img class="suggestion-user-thumbnail" src="{{ data.avatar_url }}" alt="{{ data.display_name }}">
+    <img class="suggestion-user-thumbnail" src="{{`{{`}} data.avatar_url {{`}}`}}" alt="{{`{{`}} data.display_name {{`}}`}}">
     <# } #>
-    <span class="suggestion-post-title">{{{ data._highlightResult.display_name.value }}}</span>
+    <span class="suggestion-post-title">{{`{{{`}} data._highlightResult.display_name.value {{`}}}`}}</span>
 </a>
 </script> <script type="text/html" id="tmpl-autocomplete-empty"><div class="autocomplete-empty">
-    No results matched your query 		<span class="empty-query">"{{ data.query }}"</span>
+    No results matched your query 		<span class="empty-query">"{{`{{`}} data.query {{`}}`}}"</span>
 </div>
 </script> <script type="4062bd69bc14269729b79fbc-text/javascript">jQuery( function () {
          /* Initialize Algolia client */
