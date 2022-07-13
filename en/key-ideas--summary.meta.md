@@ -14,6 +14,7 @@
 <meta property="og:image:width" content="2560"/>
 <meta property="og:image:height" content="1704"/>
 <meta property="og:image:type" content="image/jpeg"/>
+<meta name="author" content="Benjamin Todd"/>
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:site" content="@80000hours"/>
 <meta name="twitter:label1" content="Est. reading time"/>
@@ -53,4 +54,8 @@
           background-image: url(https://80000hours.org/wp-content/uploads/2021/09/noah-cellura-BNK525WM4BA-unsplash-3600x2060.jpg);
         }
       }</style>
+```
+
+```
+page-template-default page page-id-73729 page-child parent-pageid-71809 header-visible url--key-ideas__summary
 ```

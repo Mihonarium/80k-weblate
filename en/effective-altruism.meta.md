@@ -14,6 +14,7 @@
 <meta property="og:image:width" content="3949"/>
 <meta property="og:image:height" content="2178"/>
 <meta property="og:image:type" content="image/png"/>
+<meta name="author" content="Benjamin Todd"/>
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://80000hours.org/wp-content/uploads/2017/03/cost-effectiveness-of-health-interventionsV1-01-e1489184505545.png"/>
 <meta name="twitter:site" content="@80000hours"/>
@@ -27,4 +28,8 @@
 
 ```
 
+```
+
+```
+article-template-default single single-article postid-73608 header-visible url--articles__effective-altruism
 ```

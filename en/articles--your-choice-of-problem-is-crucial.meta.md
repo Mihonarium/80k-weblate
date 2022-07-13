@@ -14,6 +14,7 @@
 <meta property="og:image:width" content="2570"/>
 <meta property="og:image:height" content="1622"/>
 <meta property="og:image:type" content="image/png"/>
+<meta name="author" content="Benjamin Todd"/>
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://80000hours.org/wp-content/uploads/2021/07/Neglectedness-chart-in-brand-colors.png"/>
 <meta name="twitter:site" content="@80000hours"/>
@@ -54,4 +55,8 @@
           background-image: url(https://80000hours.org/wp-content/uploads/2021/10/joshua-earle-87JyMb9ZfU-unsplash-2880x1650.jpg);
         }
       }</style>
+```
+
+```
+article-template-default single single-article postid-73624 sidebar-toc-enabled feature-flag--2021-08__sidebar-toc-on-sm-and-xs-viewports header-visible url--articles__your-choice-of-problem-is-crucial
 ```
