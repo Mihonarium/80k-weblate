@@ -120,7 +120,6 @@
 <![endif]-->
 <div id="fb-root"></div>
 <div id="header" class="navbar-fixed-top">
-    <div id="header" class="navbar-fixed-top">
         <header class="wrap-header banner navbar navbar-default" role="banner">
             <div class="container">
                 <div class="row">
@@ -151,7 +150,7 @@
                                     </button>
                                 </div>
                             </form>
-                            <script type="3412a2d1b65055b435e0155f-text/javascript">
+                            <script type="text/javascript">
                   // Anytime this search input changes, change the other (secondary nav) search input value
                   // so it persists if the user changes their window width so that the other input appears.
                   $('#primarynav-searchinput').keyup(function() {
@@ -1049,7 +1048,7 @@
                                             </ul>
                                         </nav>
                                     </div>
-                                    <script type="3412a2d1b65055b435e0155f-text/javascript">
+                                    <script type="text/javascript">
                       //
                       // Handle top menu item clicks on wide dropdowns
                       //
@@ -1251,7 +1250,7 @@
                         <input value="007036038893981741514:d-war0ad7jy" name="cx" type="hidden"/> <input value="FORID:11" name="cof" type="hidden"/> <label class="sr-only">Search for:</label>
                         <div class="input-group"> <input type="search" value="" id="q" name="q" class="search-field form-control" placeholder="Search" aria-label="Search"> <span class="input-group-btn"> <button type="submit" name="sa" aria-label="Search" class="search-submit btn btn-default"><i class="fas fa-search"></i></button> </span></div>
                     </form>
-                    <div class="hidden-xs hidden-sm tw--overflow-hidden" style="height: 32px;">
+                    <div class="hidden-xs hidden-sm">
                         <nav>
                             <ul id="menu-secondary-navigation-1" class="nav navbar-nav navigation-secondary">
                                 <li class="menu-new-releases"><a href="/latest/">New&nbsp;releases</a></li>
@@ -1295,6 +1294,23 @@
                             </ul>
                         </nav>
                     </div>
+                    <script data-cfasync="false" type="text/javascript">
+                        (function() {
+                            var searchInput = document.querySelector(".col-header-search .input-group input");
+                            var secondaryNav = document.querySelector(".col-header-search .navigation-secondary");
+                            searchInput.addEventListener("focus", event => {
+                                secondaryNav.style.display = "none"
+                            });
+                            searchInput.addEventListener("blur",
+                                // Wait .25 seconds for the shrinking animation of the search input
+                                // to complete (this transition time is set in _header.less), then
+                                // appear. Appearing before the search input has shrunk causes the
+                                // header bar to overflow onto two lines.
+                                event => setTimeout(function() {
+                                    secondaryNav.style.display = "block"
+                                }, 250));
+                        }());
+                    </script>
                 </div>
             </div>
         </div>
