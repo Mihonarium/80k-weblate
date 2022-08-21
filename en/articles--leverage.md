@@ -18,22 +18,6 @@ The idea is not that the more indirect path is always better, but rather that yo
 
 Also, more indirect paths can sometimes allow you to effect change at a greater scale, so it’s _one_ route to having a bigger impact.
 
-<div class="toc_white no_bullets">
-
-Table of Contents
-
-- [<span class="toc_number toc_depth_1">1</span> Ways to increase your leverage](#ways-to-increase-your-leverage)
-  - [<span class="toc_number toc_depth_2">1.1</span> Improving government](#improving-government)
-  - [<span class="toc_number toc_depth_2">1.2</span> Mobilising others](#mobilising-others)
-  - [<span class="toc_number toc_depth_2">1.3</span> Helping other people with leverage](#helping-other-people-with-leverage)
-  - [<span class="toc_number toc_depth_2">1.4</span> Donating money](#donating-money)
-  - [<span class="toc_number toc_depth_2">1.5</span> Through research and technology](#through-research-and-technology)
-  - [<span class="toc_number toc_depth_2">1.6</span> Building your skills](#building-your-skills)
-- [<span class="toc_number toc_depth_1">2</span> Conclusion](#conclusion)
-- [<span class="toc_number toc_depth_1">3</span> So which careers are highest leverage?](#so-which-careers-are-highest-leverage)
-
-</div>
-
 ## Ways to increase your leverage
 
 Once you’ve picked [a problem to focus on](https://80000hours.org/articles/your-choice-of-problem-is-crucial/) and identified [some promising solutions](https://80000hours.org/articles/solutions/), you need to choose a career that will let you make them happen.
@@ -179,7 +163,7 @@ Join our newsletter and we’ll send you a free copy of _The Precipice_ — a bo
 
 </div>
 
-<div class="margin-top-large margin-bottom-large">
+<div class="margin-top-large margin-bottom-large" id="wrap-social-buttons-bottom">
 !social-share
 
 </div>

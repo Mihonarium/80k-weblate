@@ -2,18 +2,6 @@
 ## !empty
 <p class="entry-meta small">By <span class="byline author vcard"><a href="https://80000hours.org/author/benjamin-todd/" rel="author" class="fn">Benjamin Todd</a></span> · Published <time class="published" datetime="2021-09-08T17:33:02+00:00">September 2021</time></p>
 
-<div class="toc_white no_bullets">
-
-Table of Contents
-
-- [<span class="toc_number toc_depth_1">1</span> How important is personal fit compared to other factors?](#how-important-is-personal-fit-compared-to-other-factors)
-- [<span class="toc_number toc_depth_1">2</span> What am I good at?](#what-am-i-good-at)
-  - [<span class="toc_number toc_depth_2">2.1</span> Making predictions](#making-predictions)
-- [<span class="toc_number toc_depth_1">3</span> Investigating your options](#investigating-your-options)
-- [<span class="toc_number toc_depth_1">4</span> Further reading](#further-reading)
-
-</div>
-
 “Find work you’re good at” is a truism, but we think many people still don’t take it seriously enough.
 
 Finding the option where you have the best chance of excelling over the course of your career — where you have your greatest ‘personal fit’ — is one of the key determinants of your career’s impact. In fact, after initially identifying some promising paths, we think it’s often the _most_ important factor.
@@ -158,7 +146,7 @@ Join our newsletter and we’ll send you a free copy of _The Precipice_ — a bo
 
 </div>
 
-<div class="margin-top-large margin-bottom-large">
+<div class="margin-top-large margin-bottom-large" id="wrap-social-buttons-bottom">
 !social-share
 
 </div>

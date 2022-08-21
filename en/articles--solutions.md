@@ -16,21 +16,6 @@ Meanwhile, research finds that among solutions that do have positive effects, th
 
 In this article, we explain what we think the current research implies about how much solutions differ in effectiveness, why this should change how we approach making a difference, and how to find the best solutions within an area of practice.
 
-<div class="toc_white no_bullets">
-
-Table of Contents
-
-- [<span class="toc_number toc_depth_1">1</span> How much do solutions differ in how well they work?](#how-much-do-solutions-differ-in-how-well-they-work)
-  - [<span class="toc_number toc_depth_2">1.1</span> Technical aside: theoretical arguments about how much solutions differ](#technical-aside-theoretical-arguments-about-how-much-solutions-differ)
-- [<span class="toc_number toc_depth_1">2</span> What do these findings imply?](#what-do-these-findings-imply)
-- [<span class="toc_number toc_depth_1">3</span> So, how can we find the most effective solutions in an area?](#so-how-can-we-find-the-most-effective-solutions-in-an-area)
-  - [<span class="toc_number toc_depth_2">3.1</span> Hits-based vs evidence-based approaches](#hits-based-vs-evidence-based-approaches)
-  - [<span class="toc_number toc_depth_2">3.2</span> What does taking a hits-based approach involve in practice?](#what-does-taking-a-hits-based-approach-involve-in-practice)
-- [<span class="toc_number toc_depth_1">4</span> Further reading](#further-reading)
-- [<span class="toc_number toc_depth_1">5</span> You might also be interested in](#you-might-also-be-interested-in)
-
-</div>
-
 ## How much do solutions differ in how well they work?
 
 In recent years there’s been a wave of advocacy to stop the use of plastic bags. However, convincing someone to entirely give up plastic bags _for the rest of their life_ (about 10,000 bags) would avoid about 0.1 tonnes of CO<sub>2</sub> emissions. In contrast, convincing someone to take just _one fewer_ transatlantic flight would reduce CO<sub>2</sub> emissions by over one tonne — more than 10 times as much.[^:`According to the 2020 Founders Pledge [Climate & Lifestyle Report](https://web.archive.org/web/20210531030638/https://founderspledge.com/stories/climate-and-lifestyle-report), just one round trip transatlantic flight contributes 1.6 tonnes of CO<sub>2</sub>. Figure 2 of the same report shows the comparatively negligible effect of reusing plastic bags.`]
@@ -220,7 +205,7 @@ Join our newsletter and we’ll send you a free copy of _The Precipice_ — a bo
 
 </div>
 
-<div class="margin-top-large margin-bottom-large">
+<div class="margin-top-large margin-bottom-large" id="wrap-social-buttons-bottom">
 !social-share
 
 </div>
