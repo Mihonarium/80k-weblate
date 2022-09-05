@@ -2,9 +2,7 @@
 ## !empty
 <p class="entry-meta small">By <span class="byline author vcard"><a href="https://80000hours.org/author/benjamin-todd/" rel="author" class="fn">Benjamin Todd</a></span> · Published <time class="published" datetime="2021-10-01T21:29:44+00:00">October 2021</time> · Last updated <time class="update" datetime="2021-11-23T00:00:00+00:00">November 2021</time></p>
 
-Test change.
-
-Lots of people say they want to “make a difference,” “do good,” “have a social impact,” or “make the world a better place” — but they rarely say what they mean by those terms. Also change.
+Lots of people say they want to “make a difference,” “do good,” “have a social impact,” or “make the world a better place” — but they rarely say what they mean by those terms.
 
 By clarifying your definition, you can better target your efforts, and make a difference more effectively.
 
