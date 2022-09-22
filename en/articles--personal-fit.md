@@ -1,6 +1,6 @@
 # Personal fit: why being good at your job is even more important than people think
 ## !empty
-<p class="entry-meta small">By <span class="byline author vcard"><a href="https://80000hours.org/author/benjamin-todd/" rel="author" class="fn">Benjamin Todd</a></span> · Published <time class="published" datetime="2021-09-08T17:33:02+00:00">September 2021</time></p>
+<p class="entry-meta small">By <span class="byline author vcard"><a href="https://80000hours.org/author/benjamin-todd/" rel="author" class="fn no-visited-styling">Benjamin Todd</a></span> · Published September 2021</p>
 
 “Find work you’re good at” is a truism, but we think many people still don’t take it seriously enough.
 
@@ -114,7 +114,7 @@ Otherwise, when your best guess about which path is best stops changing, then it
 
 <div class="tw--mt-6 tw--p-3 tw--pt-2 tw--bg-gray-lighter tw--rounded-md ">
 
-### <a class="tw--text-off-black hover:tw--text-off-black hover:tw--no-underline focus:tw--text-off-black" href="https://80000hours.org/articles/career-capital/"> <small>Read next: </small> Career capital: how best to invest in yourself </a>
+### <a class="no-visited-styling tw--text-off-black hover:tw--text-off-black hover:tw--no-underline focus:tw--text-off-black" href="https://80000hours.org/articles/career-capital/"> <small>Read next: </small> Career capital: how best to invest in yourself </a>
 
 <div class="tw--grid xs:tw--grid-flow-col tw--gap-3"><div class="xs:tw--order-last tw--pt-1">
 [!img~ width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2021/09/swapnil-dwivedi-w46tRF64qNc-unsplash-720x448.jpg)](https://80000hours.org/articles/career-capital/)
@@ -151,4 +151,4 @@ Join our newsletter and we’ll send you a free copy of _The Precipice_ — a bo
 
 </div>
 
-<footer><div class="margin-top margin-bottom-large"><ul class="post-categories tags"><li class="tags__tag"><a href="https://80000hours.org/topic/planning/personal-fit/ability/" title="View all posts on topic: Ability" rel="category tag">Ability</a></li><li class="tags__tag"><a href="https://80000hours.org/topic/planning/personal-fit/" title="View all posts on topic: Personal fit" rel="category tag">Personal fit</a></li><li class="tags__tag"><a href="https://80000hours.org/topic/planning/rules-of-thumb/" title="View all posts on topic: Rules of Thumb" rel="category tag">Rules of Thumb</a></li></ul></div></footer>
+<footer><div class="margin-top margin-bottom-large"><ul class="post-categories tags"><li class="tags__tag"><a href="https://80000hours.org/topic/planning/personal-fit/ability/" title="View all posts on topic: Ability" rel="category tag" class="no-visited-styling">Ability</a></li><li class="tags__tag"><a href="https://80000hours.org/topic/planning/personal-fit/" title="View all posts on topic: Personal fit" rel="category tag" class="no-visited-styling">Personal fit</a></li><li class="tags__tag"><a href="https://80000hours.org/topic/planning/rules-of-thumb/" title="View all posts on topic: Rules of Thumb" rel="category tag" class="no-visited-styling">Rules of Thumb</a></li></ul></div></footer>
