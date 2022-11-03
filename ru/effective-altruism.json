@@ -62,7 +62,7 @@
     "effective-altruism:140": "Подпишитесь на нашу рассылку, и мы пришлём вам бесплатную копию книги \"_Пропасть_\" философа Тоби Орда — про то, как справиться с главными угрозами, стоящими перед человечеством.",
     "effective-altruism:142": "!newsletter-subscribe",
     "effective-altruism:144": "</div>",
-    "effective-altruism:146": "<div class=\"margin-top-large margin-bottom-large\">\n!social-share",
+    "effective-altruism:146": "<div class=\"margin-top-large margin-bottom-large\" id=\"wrap-social-buttons-bottom\">\n!social-share",
     "effective-altruism:149": "</div>",
-    "effective-altruism:151": "<footer><div class=\"margin-top margin-bottom-large\"><ul class=\"post-categories tags\"><li class=\"tags__tag\"><a href=\"https://80000hours.org/topic/big-picture/\" title=\"View all posts on topic: Big picture\" rel=\"category tag\">Big picture</a></li><li class=\"tags__tag\"><a href=\"https://80000hours.org/topic/other/effective-altruism/\" title=\"View all posts on topic: Effective Altruism\" rel=\"category tag\">Effective Altruism</a></li></ul></div></footer>\n"
+    "effective-altruism:151": "<footer><div class=\"margin-top margin-bottom-large\"><ul class=\"post-categories tags\"><li class=\"tags__tag\"><a href=\"https://80000hours.org/topic/big-picture/\" title=\"View all posts on topic: Big picture\" rel=\"category tag\" class=\"no-visited-styling\">Big picture</a></li><li class=\"tags__tag\"><a href=\"https://80000hours.org/topic/other/effective-altruism/\" title=\"View all posts on topic: Effective Altruism\" rel=\"category tag\" class=\"no-visited-styling\">Effective Altruism</a></li></ul></div></footer>\n"
 }
