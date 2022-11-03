@@ -48,8 +48,7 @@
     "articles--key-career-stages:104": "Подпишитесь на нашу рассылку, и мы пришлём вам бесплатную копию книги \"_Пропасть_\" философа Тоби Орда — про то, как справиться с главными угрозами, стоящими перед человечеством.",
     "articles--key-career-stages:106": "!newsletter-subscribe",
     "articles--key-career-stages:108": "</div>",
-    "articles--key-career-stages:110": "<div class=\"margin-top-large margin-bottom-large\" id=\"wrap-social-buttons-bottom\"><div class=\"social-buttons social-buttons-share no-print\"><div class=\"social-buttons-inner\">",
+    "articles--key-career-stages:110": "<div class=\"margin-top-large margin-bottom-large\" id=\"wrap-social-buttons-bottom\">\n!social-share",
     "articles--key-career-stages:118": "</div>",
-    "articles--key-career-stages:122": "</div>",
     "articles--key-career-stages:124": "<footer><div class=\"margin-top margin-bottom-large\"><ul class=\"post-categories tags\"><li class=\"tags__tag\"><a href=\"https://80000hours.org/topic/big-picture/\" title=\"View all posts on topic: Big picture\" rel=\"category tag\" class=\"no-visited-styling\">Big picture</a></li><li class=\"tags__tag\"><a href=\"https://80000hours.org/topic/planning/\" title=\"View all posts on topic: Frameworks and planning\" rel=\"category tag\" class=\"no-visited-styling\">Frameworks and planning</a></li><li class=\"tags__tag\"><a href=\"https://80000hours.org/topic/planning/rules-of-thumb/\" title=\"View all posts on topic: Rules of Thumb\" rel=\"category tag\" class=\"no-visited-styling\">Rules of Thumb</a></li></ul></div></footer>\n"
 }
