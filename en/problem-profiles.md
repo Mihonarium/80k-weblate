@@ -7,8 +7,7 @@ We aim to list issues where [each additional person can have the most positive i
 It’s also a constant work in progress, doubtless incomplete and mistaken in some ways, and may not align with your worldview — so we also provide a [guide to making your own list](#make-your-own-list). To learn why we listed a specific issue and how you can help tackle it, click the profiles below and see our [FAQ below](#problems-faq).
 
 <div class="well visible-if-not-newsletter-subscriber margin-bottom margin-top padding-top-small padding-bottom-small">
-
-### Get notified when we add new problems to these lists.
+<h3 class="no-toc">Get notified when we add new problems to these lists.</h3>
 
 Join over 150,000 people who get our newsletter — you’ll receive updates twice a month on our latest research into the world’s most pressing problems and how to solve them.
 
@@ -24,222 +23,239 @@ Join over 150,000 people who get our newsletter — you’ll receive updates twi
 
 These areas are ranked roughly by our guess at the expected impact of an additional person working on them, assuming your ability to contribute to solving each is similar. But there’s a lot of variation within each issue, so it could easily be better to pursue a path that’s a great fit or a great opportunity in one ranked lower down.
 
-- <div class="card card--horizontal row "><div class="col-sm-5 col--card-image sm:!tw--pr-0">
-  <a href="https://80000hours.org/problem-profiles/artificial-intelligence/" class="card__anchor no-visited-styling"><div class="card__image bg-gray-light"> <noscript><img src="https://80000hours.org/wp-content/uploads/2022/06/image-84-1-720x448.png" alt="Decorative post preview"                       class="tw--w-full " style=""                      width="720" height="448"></noscript><img src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20720%20448%22%3E%3C/svg%3E" data-src="https://80000hours.org/wp-content/uploads/2022/06/image-84-1-720x448.png" alt="Decorative post preview" class="tw--w-full" style="" width="720" height="448"/></div></a>
+<ul class="list-cards list-no-bullet row display-flex !tw--mb-0 margin-top"><li class="col-sm-12 padding-bottom-small"><div class="card card--horizontal row "><div class="col-sm-5 col--card-image sm:!tw--pr-0">
+<a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/artificial-intelligence/"><div class="card__image bg-gray-light">
 
-  <a href="https://80000hours.org/problem-profiles/artificial-intelligence/" class="card__anchor no-visited-styling"> </a>
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/06/image-84-1-720x448.png)
 
-  </div>
+</div>
 
-  <div class="col-sm-7"><div class="card__title">
+</a>
 
-  ### <a href="https://80000hours.org/problem-profiles/artificial-intelligence/" class="card__anchor no-visited-styling">1. Risks from artificial intelligence</a>
+<a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/artificial-intelligence/"></a>
 
-  </div>
+</div>
 
-  <div class="card__body">
+<div class="col-sm-7"><div class="card__title">
+<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/artificial-intelligence/">1\. Risks from artificial intelligence</a></h3>
+</div>
 
-  The development of AI is likely to greatly influence the course we take as a society. We think that if it goes badly, however, it could pose an existential threat.
+<div class="card__body">
 
-  </div>
+The development of AI is likely to greatly influence the course we take as a society. We think that if it goes badly, however, it could pose an existential threat.
 
-  <div class="card__actions">
-  <a href="https://80000hours.org/problem-profiles/artificial-intelligence/" class="card__action no-visited-styling">Read more</a>
-  </div>
+</div>
 
-  </div>
+<div class="card__actions">
+<a href="https://80000hours.org/problem-profiles/artificial-intelligence/" class="card__action no-visited-styling">Read more</a>
+</div></div></div>
 
-  </div>
+</li>
 
-- <div class="card card--horizontal row "><div class="col-sm-5 col--card-image sm:!tw--pr-0">
-  <a href="https://80000hours.org/problem-profiles/preventing-catastrophic-pandemics/" class="card__anchor no-visited-styling"><div class="card__image bg-gray-light"> <noscript><img src="https://80000hours.org/wp-content/uploads/2020/04/cdc-hGCng7YZLLs-unsplash-720x448.jpg" alt="Decorative post preview"                       class="tw--w-full " style=""                      width="720" height="448"></noscript><img src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20720%20448%22%3E%3C/svg%3E" data-src="https://80000hours.org/wp-content/uploads/2020/04/cdc-hGCng7YZLLs-unsplash-720x448.jpg" alt="Decorative post preview" class="tw--w-full" style="" width="720" height="448"/></div></a>
+<li class="col-sm-12 padding-bottom-small"><div class="card card--horizontal row "><div class="col-sm-5 col--card-image sm:!tw--pr-0">
+<a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/preventing-catastrophic-pandemics/"><div class="card__image bg-gray-light">
 
-  <a href="https://80000hours.org/problem-profiles/preventing-catastrophic-pandemics/" class="card__anchor no-visited-styling"> </a>
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2020/04/cdc-hGCng7YZLLs-unsplash-720x448.jpg)
 
-  </div>
+</div>
 
-  <div class="col-sm-7"><div class="card__title">
+</a>
 
-  ### <a href="https://80000hours.org/problem-profiles/preventing-catastrophic-pandemics/" class="card__anchor no-visited-styling">2. Catastrophic pandemics</a>
+<a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/preventing-catastrophic-pandemics/"></a>
 
-  </div>
+</div>
 
-  <div class="card__body">
+<div class="col-sm-7"><div class="card__title">
+<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/preventing-catastrophic-pandemics/">2\. Catastrophic pandemics</a></h3>
+</div>
 
-  Biotechnological developments threaten to make much deadlier pandemics possible, due to accidental leaks or malicious use of engineered pathogens.
+<div class="card__body">
 
-  </div>
+Biotechnological developments threaten to make much deadlier pandemics possible, due to accidental leaks or malicious use of engineered pathogens.
 
-  <div class="card__actions">
-  <a href="https://80000hours.org/problem-profiles/preventing-catastrophic-pandemics/" class="card__action no-visited-styling">Read more</a>
-  </div>
+</div>
 
-  </div>
+<div class="card__actions">
+<a href="https://80000hours.org/problem-profiles/preventing-catastrophic-pandemics/" class="card__action no-visited-styling">Read more</a>
+</div></div></div>
 
-  </div>
+</li>
 
-- <div class="card card--horizontal row "><div class="col-sm-5 col--card-image sm:!tw--pr-0">
-  <a href="https://80000hours.org/problem-profiles/promoting-effective-altruism/" class="card__anchor no-visited-styling"><div class="card__image bg-gray-light"> <noscript><img src="https://80000hours.org/wp-content/uploads/2017/03/earth-earth-at-night-night-lights-41949-1-720x448.jpeg" alt="Decorative post preview"                       class="tw--w-full " style=""                      width="720" height="448"></noscript><img src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20720%20448%22%3E%3C/svg%3E" data-src="https://80000hours.org/wp-content/uploads/2017/03/earth-earth-at-night-night-lights-41949-1-720x448.jpeg" alt="Decorative post preview" class="tw--w-full" style="" width="720" height="448"/></div></a>
+<li class="col-sm-12 padding-bottom-small"><div class="card card--horizontal row "><div class="col-sm-5 col--card-image sm:!tw--pr-0">
+<a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/promoting-effective-altruism/"><div class="card__image bg-gray-light">
 
-  <a href="https://80000hours.org/problem-profiles/promoting-effective-altruism/" class="card__anchor no-visited-styling"> </a>
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2017/03/earth-earth-at-night-night-lights-41949-1-720x448.jpeg)
 
-  </div>
+</div>
 
-  <div class="col-sm-7"><div class="card__title">
+</a>
 
-  ### <a href="https://80000hours.org/problem-profiles/promoting-effective-altruism/" class="card__anchor no-visited-styling">3. Building effective altruism</a>
+<a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/promoting-effective-altruism/"></a>
 
-  </div>
+</div>
 
-  <div class="card__body">
+<div class="col-sm-7"><div class="card__title">
+<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/promoting-effective-altruism/">3\. Building effective altruism</a></h3>
+</div>
 
-  We are part of effective altruism, so we might be biased — but we think growing and improving this network of people working on solving the world’s most pressing problems is one way to do a lot of good.
+<div class="card__body">
 
-  </div>
+We are part of effective altruism, so we might be biased — but we think growing and improving this network of people working on solving the world’s most pressing problems is one way to do a lot of good.
 
-  <div class="card__actions">
-  <a href="https://80000hours.org/problem-profiles/promoting-effective-altruism/" class="card__action no-visited-styling">Read more</a>
-  </div>
+</div>
 
-  </div>
+<div class="card__actions">
+<a href="https://80000hours.org/problem-profiles/promoting-effective-altruism/" class="card__action no-visited-styling">Read more</a>
+</div></div></div>
 
-  </div>
+</li>
 
-- <div class="card card--horizontal row "><div class="col-sm-5 col--card-image sm:!tw--pr-0">
-  <a href="https://80000hours.org/problem-profiles/global-priorities-research/" class="card__anchor no-visited-styling"><div class="card__image bg-gray-light"> <noscript><img src="https://80000hours.org/wp-content/uploads/2016/04/Caen-120613-165622-e1462541283635-720x448.jpg" alt="Decorative post preview"                       class="tw--w-full " style=""                      width="720" height="448"></noscript><img src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20720%20448%22%3E%3C/svg%3E" data-src="https://80000hours.org/wp-content/uploads/2016/04/Caen-120613-165622-e1462541283635-720x448.jpg" alt="Decorative post preview" class="tw--w-full" style="" width="720" height="448"/></div></a>
+<li class="col-sm-12 padding-bottom-small"><div class="card card--horizontal row "><div class="col-sm-5 col--card-image sm:!tw--pr-0">
+<a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/global-priorities-research/"><div class="card__image bg-gray-light">
 
-  <a href="https://80000hours.org/problem-profiles/global-priorities-research/" class="card__anchor no-visited-styling"> </a>
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2016/04/Caen-120613-165622-e1462541283635-720x448.jpg)
 
-  </div>
+</div>
 
-  <div class="col-sm-7"><div class="card__title">
+</a>
 
-  ### <a href="https://80000hours.org/problem-profiles/global-priorities-research/" class="card__anchor no-visited-styling">4. Global priorities research</a>
+<a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/global-priorities-research/"></a>
 
-  </div>
+</div>
 
-  <div class="card__body">
+<div class="col-sm-7"><div class="card__title">
+<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/global-priorities-research/">4\. Global priorities research</a></h3>
+</div>
 
-  Rigorously investigating how to prioritise global problems and best address them will make the efforts of people aiming to do good more effective.
+<div class="card__body">
 
-  </div>
+Rigorously investigating how to prioritise global problems and best address them will make the efforts of people aiming to do good more effective.
 
-  <div class="card__actions">
-  <a href="https://80000hours.org/problem-profiles/global-priorities-research/" class="card__action no-visited-styling">Read more</a>
-  </div>
+</div>
 
-  </div>
+<div class="card__actions">
+<a href="https://80000hours.org/problem-profiles/global-priorities-research/" class="card__action no-visited-styling">Read more</a>
+</div></div></div>
 
-  </div>
+</li>
 
-- <div class="card card--horizontal row "><div class="col-sm-5 col--card-image sm:!tw--pr-0">
-  <a href="https://80000hours.org/problem-profiles/nuclear-security/" class="card__anchor no-visited-styling"><div class="card__image bg-gray-light"> <noscript><img src="https://80000hours.org/wp-content/uploads/2016/04/kilian-karger-CTkLczb9HeA-unsplash-1-720x448.jpg" alt="Decorative post preview"                       class="tw--w-full " style=""                      width="720" height="448"></noscript><img src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20720%20448%22%3E%3C/svg%3E" data-src="https://80000hours.org/wp-content/uploads/2016/04/kilian-karger-CTkLczb9HeA-unsplash-1-720x448.jpg" alt="Decorative post preview" class="tw--w-full" style="" width="720" height="448"/></div></a>
+<li class="col-sm-12 padding-bottom-small"><div class="card card--horizontal row "><div class="col-sm-5 col--card-image sm:!tw--pr-0">
+<a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/nuclear-security/"><div class="card__image bg-gray-light">
 
-  <a href="https://80000hours.org/problem-profiles/nuclear-security/" class="card__anchor no-visited-styling"> </a>
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2016/04/kilian-karger-CTkLczb9HeA-unsplash-1-720x448.jpg)
 
-  </div>
+</div>
 
-  <div class="col-sm-7"><div class="card__title">
+</a>
 
-  ### <a href="https://80000hours.org/problem-profiles/nuclear-security/" class="card__anchor no-visited-styling">5. Nuclear war</a>
+<a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/nuclear-security/"></a>
 
-  </div>
+</div>
 
-  <div class="card__body">
+<div class="col-sm-7"><div class="card__title">
+<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/nuclear-security/">5\. Nuclear war</a></h3>
+</div>
 
-  Nuclear weapons were the first genuine man-made existential threat. Despite some progress, we have not reduced the threat of nuclear war enough.
+<div class="card__body">
 
-  </div>
+Nuclear weapons were the first genuine man-made existential threat. Despite some progress, we have not reduced the threat of nuclear war enough.
 
-  <div class="card__actions">
-  <a href="https://80000hours.org/problem-profiles/nuclear-security/" class="card__action no-visited-styling">Read more</a>
-  </div>
+</div>
 
-  </div>
+<div class="card__actions">
+<a href="https://80000hours.org/problem-profiles/nuclear-security/" class="card__action no-visited-styling">Read more</a>
+</div></div></div>
 
-  </div>
+</li>
 
-- <div class="card card--horizontal row "><div class="col-sm-5 col--card-image sm:!tw--pr-0">
-  <a href="https://80000hours.org/problem-profiles/improving-institutional-decision-making/" class="card__anchor no-visited-styling"><div class="card__image bg-gray-light"> <noscript><img src="https://80000hours.org/wp-content/uploads/2017/09/AP_17032617229856-720x448.jpg" alt="Decorative post preview"                       class="tw--w-full " style=""                      width="720" height="448"></noscript><img src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20720%20448%22%3E%3C/svg%3E" data-src="https://80000hours.org/wp-content/uploads/2017/09/AP_17032617229856-720x448.jpg" alt="Decorative post preview" class="tw--w-full" style="" width="720" height="448"/></div></a>
+<li class="col-sm-12 padding-bottom-small"><div class="card card--horizontal row "><div class="col-sm-5 col--card-image sm:!tw--pr-0">
+<a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/improving-institutional-decision-making/"><div class="card__image bg-gray-light">
 
-  <a href="https://80000hours.org/problem-profiles/improving-institutional-decision-making/" class="card__anchor no-visited-styling"> </a>
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2017/09/AP_17032617229856-720x448.jpg)
 
-  </div>
+</div>
 
-  <div class="col-sm-7"><div class="card__title">
+</a>
 
-  ### <a href="https://80000hours.org/problem-profiles/improving-institutional-decision-making/" class="card__anchor no-visited-styling">6. Epistemics and institutional decision-making</a>
+<a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/improving-institutional-decision-making/"></a>
 
-  </div>
+</div>
 
-  <div class="card__body">
+<div class="col-sm-7"><div class="card__title">
+<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/improving-institutional-decision-making/">6\. Epistemics and institutional decision-making</a></h3>
+</div>
 
-  Can the decision-making processes of the most powerful institutions be improved to make important decisions better in a range of areas?
+<div class="card__body">
 
-  </div>
+Can the decision-making processes of the most powerful institutions be improved to make important decisions better in a range of areas?
 
-  <div class="card__actions">
-  <a href="https://80000hours.org/problem-profiles/improving-institutional-decision-making/" class="card__action no-visited-styling">Read more</a>
-  </div>
+</div>
 
-  </div>
+<div class="card__actions">
+<a href="https://80000hours.org/problem-profiles/improving-institutional-decision-making/" class="card__action no-visited-styling">Read more</a>
+</div></div></div>
 
-  </div>
+</li>
 
-- <div class="card card--horizontal row "><div class="col-sm-5 col--card-image sm:!tw--pr-0">
-  <a href="https://80000hours.org/problem-profiles/climate-change/" class="card__anchor no-visited-styling"><div class="card__image bg-gray-light"> <noscript><img src="https://80000hours.org/wp-content/uploads/2022/04/nuclear-720x448.jpeg" alt="Decorative post preview"                       class="tw--w-full " style=""                      width="720" height="448"></noscript><img src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20720%20448%22%3E%3C/svg%3E" data-src="https://80000hours.org/wp-content/uploads/2022/04/nuclear-720x448.jpeg" alt="Decorative post preview" class="tw--w-full" style="" width="720" height="448"/></div></a>
+<li class="col-sm-12 padding-bottom-small"><div class="card card--horizontal row "><div class="col-sm-5 col--card-image sm:!tw--pr-0">
+<a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/climate-change/"><div class="card__image bg-gray-light">
 
-  <a href="https://80000hours.org/problem-profiles/climate-change/" class="card__anchor no-visited-styling"> </a>
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/04/nuclear-720x448.jpeg)
 
-  </div>
+</div>
 
-  <div class="col-sm-7"><div class="card__title">
+</a>
 
-  ### <a href="https://80000hours.org/problem-profiles/climate-change/" class="card__anchor no-visited-styling">7. Climate change</a>
+<a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/climate-change/"></a>
 
-  </div>
+</div>
 
-  <div class="card__body">
+<div class="col-sm-7"><div class="card__title">
+<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/climate-change/">7\. Climate change</a></h3>
+</div>
 
-  Beyond the suffering it’s already causing, worse climate change could increase existential risks from other causes and affect standards of living far into the future.
+<div class="card__body">
 
-  </div>
+Beyond the suffering it’s already causing, worse climate change could increase existential risks from other causes and affect standards of living far into the future.
 
-  <div class="card__actions">
-  <a href="https://80000hours.org/problem-profiles/climate-change/" class="card__action no-visited-styling">Read more</a>
-  </div>
+</div>
 
-  </div>
+<div class="card__actions">
+<a href="https://80000hours.org/problem-profiles/climate-change/" class="card__action no-visited-styling">Read more</a>
+</div></div></div>
 
-  </div>
+</li>
 
-- <div class="card card--horizontal row "><div class="col-sm-5 col--card-image sm:!tw--pr-0">
-  <a href="https://80000hours.org/problem-profiles/great-power-conflict/" class="card__anchor no-visited-styling"><div class="card__image bg-gray-light"> <noscript><img src="https://80000hours.org/wp-content/uploads/2022/05/museums-victoria-udKsjyYNDnQ-unsplash-720x448.jpg" alt="Decorative post preview"                       class="tw--w-full " style=""                      width="720" height="448"></noscript><img src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20720%20448%22%3E%3C/svg%3E" data-src="https://80000hours.org/wp-content/uploads/2022/05/museums-victoria-udKsjyYNDnQ-unsplash-720x448.jpg" alt="Decorative post preview" class="tw--w-full" style="" width="720" height="448"/></div></a>
+<li class="col-sm-12 padding-bottom-small"><div class="card card--horizontal row "><div class="col-sm-5 col--card-image sm:!tw--pr-0">
+<a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/great-power-conflict/"><div class="card__image bg-gray-light">
 
-  <a href="https://80000hours.org/problem-profiles/great-power-conflict/" class="card__anchor no-visited-styling"> </a>
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/museums-victoria-udKsjyYNDnQ-unsplash-720x448.jpg)
 
-  </div>
+</div>
 
-  <div class="col-sm-7"><div class="card__title">
+</a>
 
-  ### <a href="https://80000hours.org/problem-profiles/great-power-conflict/" class="card__anchor no-visited-styling">8. Great power conflict</a>
+<a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/great-power-conflict/"></a>
 
-  </div>
+</div>
 
-  <div class="card__body">
+<div class="col-sm-7"><div class="card__title">
+<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/great-power-conflict/">8\. Great power conflict</a></h3>
+</div>
 
-  We haven’t yet fully reviewed this issue, but it seems like one of the biggest [risk factors](https://forum.effectivealtruism.org/topics/existential-risk-factor#:~:text=An%20existential%20risk%20factor%20is,probability%20of%20an%20existential%20catastrophe.) for existential catastrophe. We don’t yet know what individuals can do to help, but plan to investigate.
+<div class="card__body">
 
-  </div>
+We haven’t yet fully reviewed this issue, but it seems like one of the biggest [risk factors](https://forum.effectivealtruism.org/topics/existential-risk-factor#:~:text=An%20existential%20risk%20factor%20is,probability%20of%20an%20existential%20catastrophe.) for existential catastrophe. We don’t yet know what individuals can do to help, but plan to investigate.
 
-  <div class="card__actions">
-  <a href="https://80000hours.org/problem-profiles/great-power-conflict/" class="card__action no-visited-styling">Read more</a>
-  </div>
+</div>
 
-  </div>
+<div class="card__actions">
+<a href="https://80000hours.org/problem-profiles/great-power-conflict/" class="card__action no-visited-styling">Read more</a>
+</div></div></div>
 
-  </div>
+</li>
 
+</ul>
 
 We think these issues present many opportunities to have a big positive impact. If you want to help tackle them, check out our [page on high-impact careers](https://80000hours.org/career-reviews/).
 
@@ -255,236 +271,267 @@ We’d be equally excited to see some of our readers (say, 10–20%) pursue some
 
 There are fewer high-impact opportunities working on these issues — so you need to have especially good [personal fit](https://80000hours.org/articles/personal-fit/) and be more entrepreneurial to make progress.
 
-- <div class="card card--vertical "><div class="card__image">
-  <a href="https://80000hours.org/problem-profiles/civilisation-resilience/" class="card__anchor no-visited-styling"> <noscript><img src="https://80000hours.org/wp-content/uploads/2022/05/charlotte-venema-wx9zhbPZmqc-unsplash-720x448.jpg" alt="Decorative post preview"                       class="tw--w-full " style=""                      width="720" height="448"></noscript><img src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20720%20448%22%3E%3C/svg%3E" data-src="https://80000hours.org/wp-content/uploads/2022/05/charlotte-venema-wx9zhbPZmqc-unsplash-720x448.jpg" alt="Decorative post preview" class="tw--w-full" style="" width="720" height="448"/> </a>
-  </div>
+<ul class="list-cards list-no-bullet row display-flex !tw--mb-0 margin-top"><li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
+<a class="card__anchor no-visited-styling">
 
-  <div class="card__title">
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/charlotte-venema-wx9zhbPZmqc-unsplash-720x448.jpg)
 
-  #### <a href="https://80000hours.org/problem-profiles/civilisation-resilience/" class="card__anchor no-visited-styling">Civilisation resilience</a>
+</a>
+</div>
 
+<div class="card__title">
 
-  </div>
+#### <a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/civilisation-resilience/">Civilisation resilience</a>
 
-  <div class="card__body">
+</div>
 
-  If we make it more likely that the world’s population could eventually recover from a catastrophic collapse, we could save the possibility of a flourishing future even if a catastrophe does occur.
+<div class="card__body">
 
-  </div>
+If we make it more likely that the world’s population could eventually recover from a catastrophic collapse, we could save the possibility of a flourishing future even if a catastrophe does occur.
 
-  <div class="card__actions">
-  <a href="https://80000hours.org/problem-profiles/civilisation-resilience/" class="card__action no-visited-styling">Read more</a>
-  </div>
+</div>
 
-  </div>
+<div class="card__actions">
+<a href="https://80000hours.org/problem-profiles/civilisation-resilience/" class="card__action no-visited-styling">Read more</a>
+</div></div>
 
-- <div class="card card--vertical "><div class="card__image">
-  <a href="https://80000hours.org/problem-profiles/s-risks/" class="card__anchor no-visited-styling"> <noscript><img src="https://80000hours.org/wp-content/uploads/2022/05/redcharlie-HxxmKwvUbgI-unsplash-1-720x448.jpg" alt="Decorative post preview"                       class="tw--w-full " style=""                      width="720" height="448"></noscript><img src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20720%20448%22%3E%3C/svg%3E" data-src="https://80000hours.org/wp-content/uploads/2022/05/redcharlie-HxxmKwvUbgI-unsplash-1-720x448.jpg" alt="Decorative post preview" class="tw--w-full" style="" width="720" height="448"/> </a>
-  </div>
+</li>
 
-  <div class="card__title">
+<li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
+<a class="card__anchor no-visited-styling">
 
-  #### <a href="https://80000hours.org/problem-profiles/s-risks/" class="card__anchor no-visited-styling">&\#39;s-risks&\#39;</a>
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/redcharlie-HxxmKwvUbgI-unsplash-1-720x448.jpg)
 
+</a>
+</div>
 
-  </div>
+<div class="card__title">
 
-  <div class="card__body">
+#### <a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/s-risks/">'s-risks'</a>
 
-  Worse than extinction would be a long future of great suffering. The study of these suffering risks (‘s-risks’) aims to specifically minimise the chance of a terrible outcome.
+</div>
 
-  </div>
+<div class="card__body">
 
-  <div class="card__actions">
-  <a href="https://80000hours.org/problem-profiles/s-risks/" class="card__action no-visited-styling">Read more</a>
-  </div>
+Worse than extinction would be a long future of great suffering. The study of these suffering risks (‘s-risks’) aims to specifically minimise the chance of a terrible outcome.
 
-  </div>
+</div>
 
-- <div class="card card--vertical "><div class="card__image">
-  <a href="https://80000hours.org/problem-profiles/artificial-sentience/" class="card__anchor no-visited-styling"> <noscript><img src="https://80000hours.org/wp-content/uploads/2021/10/brett-jordan-GQCYOS_MH0w-unsplash-720x448.jpg" alt="Decorative post preview"                       class="tw--w-full " style=""                      width="720" height="448"></noscript><img src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20720%20448%22%3E%3C/svg%3E" data-src="https://80000hours.org/wp-content/uploads/2021/10/brett-jordan-GQCYOS_MH0w-unsplash-720x448.jpg" alt="Decorative post preview" class="tw--w-full" style="" width="720" height="448"/> </a>
-  </div>
+<div class="card__actions">
+<a href="https://80000hours.org/problem-profiles/s-risks/" class="card__action no-visited-styling">Read more</a>
+</div></div>
 
-  <div class="card__title">
+</li>
 
-  #### <a href="https://80000hours.org/problem-profiles/artificial-sentience/" class="card__anchor no-visited-styling">Artificial sentience</a>
+<li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
+<a class="card__anchor no-visited-styling">
 
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2021/10/brett-jordan-GQCYOS_MH0w-unsplash-720x448.jpg)
 
-  </div>
+</a>
+</div>
 
-  <div class="card__body">
+<div class="card__title">
 
-  We may soon create machines capable of experiencing happiness and suffering, whose wellbeing will matter just like our own. But our understanding of consciousness is so incomplete, we might not even realise when this becomes possible.
+#### <a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/artificial-sentience/">Artificial sentience</a>
 
-  </div>
+</div>
 
-  <div class="card__actions">
-  <a href="https://80000hours.org/problem-profiles/artificial-sentience/" class="card__action no-visited-styling">Read more</a>
-  </div>
+<div class="card__body">
 
-  </div>
+We may soon create machines capable of experiencing happiness and suffering, whose wellbeing will matter just like our own. But our understanding of consciousness is so incomplete, we might not even realise when this becomes possible.
 
-- <div class="card card--vertical "><div class="card__image">
-  <a href="https://80000hours.org/problem-profiles/promoting-positive-values/" class="card__anchor no-visited-styling"> <noscript><img src="https://80000hours.org/wp-content/uploads/2022/05/nikhil-fHOc-5r6LMg-unsplash-1-720x448.jpg" alt="Decorative post preview"                       class="tw--w-full " style=""                      width="720" height="448"></noscript><img src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20720%20448%22%3E%3C/svg%3E" data-src="https://80000hours.org/wp-content/uploads/2022/05/nikhil-fHOc-5r6LMg-unsplash-1-720x448.jpg" alt="Decorative post preview" class="tw--w-full" style="" width="720" height="448"/> </a>
-  </div>
+</div>
 
-  <div class="card__title">
+<div class="card__actions">
+<a href="https://80000hours.org/problem-profiles/artificial-sentience/" class="card__action no-visited-styling">Read more</a>
+</div></div>
 
-  #### <a href="https://80000hours.org/problem-profiles/promoting-positive-values/" class="card__anchor no-visited-styling">Promoting positive values</a>
+</li>
 
+<li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
+<a class="card__anchor no-visited-styling">
 
-  </div>
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/nikhil-fHOc-5r6LMg-unsplash-1-720x448.jpg)
 
-  <div class="card__body">
+</a>
+</div>
 
-  If we could effectively spread positive values — like (we think!) caring about the wellbeing of all sentient beings impartially — that could be one of the broadest ways to help with a range of problems.
+<div class="card__title">
 
-  </div>
+#### <a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/promoting-positive-values/">Promoting positive values</a>
 
-  <div class="card__actions">
-  <a href="https://80000hours.org/problem-profiles/promoting-positive-values/" class="card__action no-visited-styling">Read more</a>
-  </div>
+</div>
 
-  </div>
+<div class="card__body">
 
-- <div class="card card--vertical "><div class="card__image">
-  <a href="https://80000hours.org/problem-profiles/risks-of-stable-totalitarianism/" class="card__anchor no-visited-styling"> <noscript><img src="https://80000hours.org/wp-content/uploads/2022/05/Featured-image-surveillance-720x448.png" alt="Decorative post preview"                       class="tw--w-full " style=""                      width="720" height="448"></noscript><img src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20720%20448%22%3E%3C/svg%3E" data-src="https://80000hours.org/wp-content/uploads/2022/05/Featured-image-surveillance-720x448.png" alt="Decorative post preview" class="tw--w-full" style="" width="720" height="448"/> </a>
-  </div>
+If we could effectively spread positive values — like (we think!) caring about the wellbeing of all sentient beings impartially — that could be one of the broadest ways to help with a range of problems.
 
-  <div class="card__title">
+</div>
 
-  #### <a href="https://80000hours.org/problem-profiles/risks-of-stable-totalitarianism/" class="card__anchor no-visited-styling">Risks of stable totalitarianism</a>
+<div class="card__actions">
+<a href="https://80000hours.org/problem-profiles/promoting-positive-values/" class="card__action no-visited-styling">Read more</a>
+</div></div>
 
+</li>
 
-  </div>
+<li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
+<a class="card__anchor no-visited-styling">
 
-  <div class="card__body">
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/Featured-image-surveillance-720x448.png)
 
-  If a totalitarian regime ever becomes technologically advanced enough and gains enough global control, might it persist more or less indefinitely?
+</a>
+</div>
 
-  </div>
+<div class="card__title">
 
-  <div class="card__actions">
-  <a href="https://80000hours.org/problem-profiles/risks-of-stable-totalitarianism/" class="card__action no-visited-styling">Read more</a>
-  </div>
+#### <a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/risks-of-stable-totalitarianism/">Risks of stable totalitarianism</a>
 
-  </div>
+</div>
 
-- <div class="card card--vertical "><div class="card__image">
-  <a href="https://80000hours.org/problem-profiles/space-governance/" class="card__anchor no-visited-styling"> <noscript><img src="https://80000hours.org/wp-content/uploads/2022/02/nasa-084iI8XTfN0-unsplash-1-720x448.jpg" alt="Decorative post preview"                       class="tw--w-full " style=""                      width="720" height="448"></noscript><img src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20720%20448%22%3E%3C/svg%3E" data-src="https://80000hours.org/wp-content/uploads/2022/02/nasa-084iI8XTfN0-unsplash-1-720x448.jpg" alt="Decorative post preview" class="tw--w-full" style="" width="720" height="448"/> </a>
-  </div>
+<div class="card__body">
 
-  <div class="card__title">
+If a totalitarian regime ever becomes technologically advanced enough and gains enough global control, might it persist more or less indefinitely?
 
-  #### <a href="https://80000hours.org/problem-profiles/space-governance/" class="card__anchor no-visited-styling">Space governance</a>
+</div>
 
+<div class="card__actions">
+<a href="https://80000hours.org/problem-profiles/risks-of-stable-totalitarianism/" class="card__action no-visited-styling">Read more</a>
+</div></div>
 
-  </div>
+</li>
 
-  <div class="card__body">
+<li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
+<a class="card__anchor no-visited-styling">
 
-  Even as investment in space increases, we have very little plan for how nations, companies, and individuals will interact fairly and peacefully there.
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/02/nasa-084iI8XTfN0-unsplash-1-720x448.jpg)
 
-  </div>
+</a>
+</div>
 
-  <div class="card__actions">
-  <a href="https://80000hours.org/problem-profiles/space-governance/" class="card__action no-visited-styling">Read more</a>
-  </div>
+<div class="card__title">
 
-  </div>
+#### <a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/space-governance/">Space governance</a>
 
-- <div class="card card--vertical "><div class="card__image">
-  <a href="https://80000hours.org/problem-profiles/global-public-goods/" class="card__anchor no-visited-styling"> <noscript><img src="https://80000hours.org/wp-content/uploads/2022/05/dimitry-anikin-i9cuOOXbv4c-unsplash-720x448.jpg" alt="Decorative post preview"                       class="tw--w-full " style=""                      width="720" height="448"></noscript><img src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20720%20448%22%3E%3C/svg%3E" data-src="https://80000hours.org/wp-content/uploads/2022/05/dimitry-anikin-i9cuOOXbv4c-unsplash-720x448.jpg" alt="Decorative post preview" class="tw--w-full" style="" width="720" height="448"/> </a>
-  </div>
+</div>
 
-  <div class="card__title">
+<div class="card__body">
 
-  #### <a href="https://80000hours.org/problem-profiles/global-public-goods/" class="card__anchor no-visited-styling">Improving incentives and governance for global public goods</a>
+Even as investment in space increases, we have very little plan for how nations, companies, and individuals will interact fairly and peacefully there.
 
+</div>
 
-  </div>
+<div class="card__actions">
+<a href="https://80000hours.org/problem-profiles/space-governance/" class="card__action no-visited-styling">Read more</a>
+</div></div>
 
-  <div class="card__body">
+</li>
 
-  There are many ‘public goods’ problems, where no one is incentivised to do what would be best for everyone. Can we design mechanisms and institutions to mitigate this issue?
+<li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
+<a class="card__anchor no-visited-styling">
 
-  </div>
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/dimitry-anikin-i9cuOOXbv4c-unsplash-720x448.jpg)
 
-  <div class="card__actions">
-  <a href="https://80000hours.org/problem-profiles/global-public-goods/" class="card__action no-visited-styling">Read more</a>
-  </div>
+</a>
+</div>
 
-  </div>
+<div class="card__title">
 
-- <div class="card card--vertical "><div class="card__image">
-  <a href="https://80000hours.org/problem-profiles/atomically-precise-manufacturing/" class="card__anchor no-visited-styling"> <noscript><img src="https://80000hours.org/wp-content/uploads/2022/05/testalize-me-0jE8ynV4mis-unsplash-1-720x448.jpg" alt="Decorative post preview"                       class="tw--w-full " style=""                      width="720" height="448"></noscript><img src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20720%20448%22%3E%3C/svg%3E" data-src="https://80000hours.org/wp-content/uploads/2022/05/testalize-me-0jE8ynV4mis-unsplash-1-720x448.jpg" alt="Decorative post preview" class="tw--w-full" style="" width="720" height="448"/> </a>
-  </div>
+#### <a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/global-public-goods/">Improving incentives and governance for global public goods</a>
 
-  <div class="card__title">
+</div>
 
-  #### <a href="https://80000hours.org/problem-profiles/atomically-precise-manufacturing/" class="card__anchor no-visited-styling">Risks from atomically precise manufacturing</a>
+<div class="card__body">
 
+There are many ‘public goods’ problems, where no one is incentivised to do what would be best for everyone. Can we design mechanisms and institutions to mitigate this issue?
 
-  </div>
+</div>
 
-  <div class="card__body">
+<div class="card__actions">
+<a href="https://80000hours.org/problem-profiles/global-public-goods/" class="card__action no-visited-styling">Read more</a>
+</div></div>
 
-  The ability to manipulate the creation of molecules would plausibly have large impacts and could be crucial in many of the worst — and best — case scenarios for advanced AI.
+</li>
 
-  </div>
+<li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
+<a class="card__anchor no-visited-styling">
 
-  <div class="card__actions">
-  <a href="https://80000hours.org/problem-profiles/atomically-precise-manufacturing/" class="card__action no-visited-styling">Read more</a>
-  </div>
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/testalize-me-0jE8ynV4mis-unsplash-1-720x448.jpg)
 
-  </div>
+</a>
+</div>
 
-- <div class="card card--vertical "><div class="card__image">
-  <a href="https://80000hours.org/problem-profiles/risks-from-malevolent-actors/" class="card__anchor no-visited-styling"> <noscript><img src="https://80000hours.org/wp-content/uploads/2022/05/Aum-Shinrikyo-720x448.jpeg" alt="Decorative post preview"                       class="tw--w-full " style=""                      width="720" height="448"></noscript><img src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20720%20448%22%3E%3C/svg%3E" data-src="https://80000hours.org/wp-content/uploads/2022/05/Aum-Shinrikyo-720x448.jpeg" alt="Decorative post preview" class="tw--w-full" style="" width="720" height="448"/> </a>
-  </div>
+<div class="card__title">
 
-  <div class="card__title">
+#### <a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/atomically-precise-manufacturing/">Risks from atomically precise manufacturing</a>
 
-  #### <a href="https://80000hours.org/problem-profiles/risks-from-malevolent-actors/" class="card__anchor no-visited-styling">Risks from malevolent actors</a>
+</div>
 
+<div class="card__body">
 
-  </div>
+The ability to manipulate the creation of molecules would plausibly have large impacts and could be crucial in many of the worst — and best — case scenarios for advanced AI.
 
-  <div class="card__body">
+</div>
 
-  Some of the worst possible futures might be less likely if we better understood why some people intentionally cause great harm (and how that harm could be limited).
+<div class="card__actions">
+<a href="https://80000hours.org/problem-profiles/atomically-precise-manufacturing/" class="card__action no-visited-styling">Read more</a>
+</div></div>
 
-  </div>
+</li>
 
-  <div class="card__actions">
-  <a href="https://80000hours.org/problem-profiles/risks-from-malevolent-actors/" class="card__action no-visited-styling">Read more</a>
-  </div>
+<li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
+<a class="card__anchor no-visited-styling">
 
-  </div>
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/Aum-Shinrikyo-720x448.jpeg)
 
-- <div class="card card--vertical "><div class="card__image">
-  <a href="https://80000hours.org/problem-profiles/improving-individual-reasoning-or-cognition/" class="card__anchor no-visited-styling"> <noscript><img src="https://80000hours.org/wp-content/uploads/2022/05/stephen-kraakmo-uAzUg6_tMCo-unsplash-1-720x448.jpg" alt="Decorative post preview"                       class="tw--w-full " style=""                      width="720" height="448"></noscript><img src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20720%20448%22%3E%3C/svg%3E" data-src="https://80000hours.org/wp-content/uploads/2022/05/stephen-kraakmo-uAzUg6_tMCo-unsplash-1-720x448.jpg" alt="Decorative post preview" class="tw--w-full" style="" width="720" height="448"/> </a>
-  </div>
+</a>
+</div>
 
-  <div class="card__title">
+<div class="card__title">
 
-  #### <a href="https://80000hours.org/problem-profiles/improving-individual-reasoning-or-cognition/" class="card__anchor no-visited-styling">Improving individual reasoning and cognition</a>
+#### <a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/risks-from-malevolent-actors/">Risks from malevolent actors</a>
 
+</div>
 
-  </div>
+<div class="card__body">
 
-  <div class="card__body">
+Some of the worst possible futures might be less likely if we better understood why some people intentionally cause great harm (and how that harm could be limited).
 
-  The world’s most pressing problems pose immense intellectual challenges. Better reasoning by researchers and decision-makers could give us a better shot at solving them.
+</div>
 
-  </div>
+<div class="card__actions">
+<a href="https://80000hours.org/problem-profiles/risks-from-malevolent-actors/" class="card__action no-visited-styling">Read more</a>
+</div></div>
 
-  <div class="card__actions">
-  <a href="https://80000hours.org/problem-profiles/improving-individual-reasoning-or-cognition/" class="card__action no-visited-styling">Read more</a>
-  </div>
+</li>
 
-  </div>
+<li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
+<a class="card__anchor no-visited-styling">
 
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/stephen-kraakmo-uAzUg6_tMCo-unsplash-1-720x448.jpg)
+
+</a>
+</div>
+
+<div class="card__title">
+
+#### <a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/improving-individual-reasoning-or-cognition/">Improving individual reasoning and cognition</a>
+
+</div>
+
+<div class="card__body">
+
+The world’s most pressing problems pose immense intellectual challenges. Better reasoning by researchers and decision-makers could give us a better shot at solving them.
+
+</div>
+
+<div class="card__actions">
+<a href="https://80000hours.org/problem-profiles/improving-individual-reasoning-or-cognition/" class="card__action no-visited-styling">Read more</a>
+</div></div>
+
+</li>
+
+</ul>
 
 </div></div></div>
 
@@ -500,264 +547,299 @@ We’d also love to see more people working on the following issues, even though
 
 Factory farming and global health are common focuses in the [effective altruism community](https://80000hours.org/community/). These are important issues on which we could make a lot more progress.
 
-- <div class="card card--vertical "><div class="card__image">
-  <a href="https://80000hours.org/problem-profiles/factory-farming/" class="card__anchor no-visited-styling"> <noscript><img src="https://80000hours.org/wp-content/uploads/2016/04/nighthawk-shoots-Vd8jXvQtQFI-unsplash-720x448.jpg" alt="Decorative post preview"                       class="tw--w-full " style=""                      width="720" height="448"></noscript><img src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20720%20448%22%3E%3C/svg%3E" data-src="https://80000hours.org/wp-content/uploads/2016/04/nighthawk-shoots-Vd8jXvQtQFI-unsplash-720x448.jpg" alt="Decorative post preview" class="tw--w-full" style="" width="720" height="448"/> </a>
-  </div>
+<ul class="list-cards list-no-bullet row display-flex !tw--mb-0 margin-top"><li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
+<a class="card__anchor no-visited-styling">
 
-  <div class="card__title">
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2016/04/nighthawk-shoots-Vd8jXvQtQFI-unsplash-720x448.jpg)
 
-  #### <a href="https://80000hours.org/problem-profiles/factory-farming/" class="card__anchor no-visited-styling">Factory farming</a>
+</a>
+</div>
 
+<div class="card__title">
 
-  </div>
+#### <a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/factory-farming/">Factory farming</a>
 
-  <div class="card__body">
+</div>
 
-  Every year, billions of animals suffer on factory farms, where standards of humane treatment generally range from low to nonexistent.
+<div class="card__body">
 
-  </div>
+Every year, billions of animals suffer on factory farms, where standards of humane treatment generally range from low to nonexistent.
 
-  <div class="card__actions">
-  <a href="https://80000hours.org/problem-profiles/factory-farming/" class="card__action no-visited-styling">Read more</a>
-  </div>
+</div>
 
-  </div>
+<div class="card__actions">
+<a href="https://80000hours.org/problem-profiles/factory-farming/" class="card__action no-visited-styling">Read more</a>
+</div></div>
 
-- <div class="card card--vertical "><div class="card__image">
-  <a href="https://80000hours.org/problem-profiles/health-in-poor-countries/" class="card__anchor no-visited-styling"> <noscript><img src="https://80000hours.org/wp-content/uploads/2016/04/marek-piwnicki-ATTmw_PT46U-unsplash-1-720x448.jpg" alt="Decorative post preview"                       class="tw--w-full " style=""                      width="720" height="448"></noscript><img src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20720%20448%22%3E%3C/svg%3E" data-src="https://80000hours.org/wp-content/uploads/2016/04/marek-piwnicki-ATTmw_PT46U-unsplash-1-720x448.jpg" alt="Decorative post preview" class="tw--w-full" style="" width="720" height="448"/> </a>
-  </div>
+</li>
 
-  <div class="card__title">
+<li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
+<a class="card__anchor no-visited-styling">
 
-  #### <a href="https://80000hours.org/problem-profiles/health-in-poor-countries/" class="card__anchor no-visited-styling">Easily preventable or treatable illness</a>
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2016/04/marek-piwnicki-ATTmw_PT46U-unsplash-1-720x448.jpg)
 
+</a>
+</div>
 
-  </div>
+<div class="card__title">
 
-  <div class="card__body">
+#### <a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/health-in-poor-countries/">Easily preventable or treatable illness</a>
 
-  Preventable diseases like malaria kill hundreds of thousands of people each year. We can improve global healthcare and reduce extreme poverty with more funding and more effective organisations.
+</div>
 
-  </div>
+<div class="card__body">
 
-  <div class="card__actions">
-  <a href="https://80000hours.org/problem-profiles/health-in-poor-countries/" class="card__action no-visited-styling">Read more</a>
-  </div>
+Preventable diseases like malaria kill hundreds of thousands of people each year. We can improve global healthcare and reduce extreme poverty with more funding and more effective organisations.
 
-  </div>
+</div>
 
+<div class="card__actions">
+<a href="https://80000hours.org/problem-profiles/health-in-poor-countries/" class="card__action no-visited-styling">Read more</a>
+</div></div>
+
+</li>
+
+</ul>
 
 ### Other underrated issues
 
 There are many more issues we think society at large doesn’t prioritise enough, where more initiatives could have a substantial positive impact. But they seem either less neglected and tractable than factory farming or global health, or the expected scale of the impact seems smaller.
 
-- <div class="card card--vertical "><div class="card__image">
-  <a href="https://80000hours.org/problem-profiles/whole-brain-emulation/" class="card__anchor no-visited-styling"> <noscript><img src="https://80000hours.org/wp-content/uploads/2022/05/mo-NKhckz9B78c-unsplash-720x448.jpg" alt="Decorative post preview"                       class="tw--w-full " style=""                      width="720" height="448"></noscript><img src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20720%20448%22%3E%3C/svg%3E" data-src="https://80000hours.org/wp-content/uploads/2022/05/mo-NKhckz9B78c-unsplash-720x448.jpg" alt="Decorative post preview" class="tw--w-full" style="" width="720" height="448"/> </a>
-  </div>
+<ul class="list-cards list-no-bullet row display-flex !tw--mb-0 margin-top"><li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
+<a class="card__anchor no-visited-styling">
 
-  <div class="card__title">
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/mo-NKhckz9B78c-unsplash-720x448.jpg)
 
-  #### <a href="https://80000hours.org/problem-profiles/whole-brain-emulation/" class="card__anchor no-visited-styling">Whole brain emulation</a>
+</a>
+</div>
 
+<div class="card__title">
 
-  </div>
+#### <a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/whole-brain-emulation/">Whole brain emulation</a>
 
-  <div class="card__body">
+</div>
 
-  Digitally running specific human brains — ‘mind uploading’ — might be a safer way to get some of the benefits of artificial intelligence, but might also pose its own risks.
+<div class="card__body">
 
-  </div>
+Digitally running specific human brains — ‘mind uploading’ — might be a safer way to get some of the benefits of artificial intelligence, but might also pose its own risks.
 
-  <div class="card__actions">
-  <a href="https://80000hours.org/problem-profiles/whole-brain-emulation/" class="card__action no-visited-styling">Read more</a>
-  </div>
+</div>
 
-  </div>
+<div class="card__actions">
+<a href="https://80000hours.org/problem-profiles/whole-brain-emulation/" class="card__action no-visited-styling">Read more</a>
+</div></div>
 
-- <div class="card card--vertical "><div class="card__image">
-  <a href="https://80000hours.org/problem-profiles/wild-animal-welfare/" class="card__anchor no-visited-styling"> <noscript><img src="https://80000hours.org/wp-content/uploads/2022/05/42-north-OltnbG88tYg-unsplash-1-720x448.jpg" alt="Decorative post preview"                       class="tw--w-full " style=""                      width="720" height="448"></noscript><img src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20720%20448%22%3E%3C/svg%3E" data-src="https://80000hours.org/wp-content/uploads/2022/05/42-north-OltnbG88tYg-unsplash-1-720x448.jpg" alt="Decorative post preview" class="tw--w-full" style="" width="720" height="448"/> </a>
-  </div>
+</li>
 
-  <div class="card__title">
+<li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
+<a class="card__anchor no-visited-styling">
 
-  #### <a href="https://80000hours.org/problem-profiles/wild-animal-welfare/" class="card__anchor no-visited-styling">Wild animal suffering</a>
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/42-north-OltnbG88tYg-unsplash-1-720x448.jpg)
 
+</a>
+</div>
 
-  </div>
+<div class="card__title">
 
-  <div class="card__body">
+#### <a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/wild-animal-welfare/">Wild animal suffering</a>
 
-  There is an unfathomable number of wild animals. If many of them suffer in their daily lives and _if_ we can find a (safe) way to help them, that would do a lot of good.
+</div>
 
-  </div>
+<div class="card__body">
 
-  <div class="card__actions">
-  <a href="https://80000hours.org/problem-profiles/wild-animal-welfare/" class="card__action no-visited-styling">Read more</a>
-  </div>
+There is an unfathomable number of wild animals. If many of them suffer in their daily lives and _if_ we can find a (safe) way to help them, that would do a lot of good.
 
-  </div>
+</div>
 
-- <div class="card card--vertical "><div class="card__image">
-  <a href="https://80000hours.org/problem-profiles/liberal-democracy/" class="card__anchor no-visited-styling"> <noscript><img src="https://80000hours.org/wp-content/uploads/2022/09/Barack_Obama_at_Parliament_of_India_in_New_Delhi_addressing_Joint_session_of_both_houses_2010-720x448.jpeg" alt="Decorative post preview"                       class="tw--w-full " style=""                      width="720" height="448"></noscript><img src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20720%20448%22%3E%3C/svg%3E" data-src="https://80000hours.org/wp-content/uploads/2022/09/Barack_Obama_at_Parliament_of_India_in_New_Delhi_addressing_Joint_session_of_both_houses_2010-720x448.jpeg" alt="Decorative post preview" class="tw--w-full" style="" width="720" height="448"/> </a>
-  </div>
+<div class="card__actions">
+<a href="https://80000hours.org/problem-profiles/wild-animal-welfare/" class="card__action no-visited-styling">Read more</a>
+</div></div>
 
-  <div class="card__title">
+</li>
 
-  #### <a href="https://80000hours.org/problem-profiles/liberal-democracy/" class="card__anchor no-visited-styling">Safeguarding liberal democracy</a>
+<li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
+<a class="card__anchor no-visited-styling">
 
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/09/Barack_Obama_at_Parliament_of_India_in_New_Delhi_addressing_Joint_session_of_both_houses_2010-720x448.jpeg)
 
-  </div>
+</a>
+</div>
 
-  <div class="card__body">
+<div class="card__title">
 
-  Liberal democracies seem more conducive to innovation, freedom, and possibly peace. There’s a lot of effort already going into this area, but there may be some ways to add more value.
+#### <a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/liberal-democracy/">Safeguarding liberal democracy</a>
 
-  </div>
+</div>
 
-  <div class="card__actions">
-  <a href="https://80000hours.org/problem-profiles/liberal-democracy/" class="card__action no-visited-styling">Read more</a>
-  </div>
+<div class="card__body">
 
-  </div>
+Liberal democracies seem more conducive to innovation, freedom, and possibly peace. There’s a lot of effort already going into this area, but there may be some ways to add more value.
 
-- <div class="card card--vertical "><div class="card__image">
-  <a href="https://80000hours.org/problem-profiles/immigration-restrictions/" class="card__anchor no-visited-styling"> <noscript><img src="https://80000hours.org/wp-content/uploads/2022/05/ali-abdul-rahman-i_GkkR_V3xk-unsplash-720x448.jpg" alt="Decorative post preview"                       class="tw--w-full " style=""                      width="720" height="448"></noscript><img src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20720%20448%22%3E%3C/svg%3E" data-src="https://80000hours.org/wp-content/uploads/2022/05/ali-abdul-rahman-i_GkkR_V3xk-unsplash-720x448.jpg" alt="Decorative post preview" class="tw--w-full" style="" width="720" height="448"/> </a>
-  </div>
+</div>
 
-  <div class="card__title">
+<div class="card__actions">
+<a href="https://80000hours.org/problem-profiles/liberal-democracy/" class="card__action no-visited-styling">Read more</a>
+</div></div>
 
-  #### <a href="https://80000hours.org/problem-profiles/immigration-restrictions/" class="card__anchor no-visited-styling">Immigration restrictions</a>
+</li>
 
+<li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
+<a class="card__anchor no-visited-styling">
 
-  </div>
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/ali-abdul-rahman-i_GkkR_V3xk-unsplash-720x448.jpg)
 
-  <div class="card__body">
+</a>
+</div>
 
-  Keeping people from moving to where they would have better lives and careers can have big negative humanitarian, intellectual, cultural, and economic effects.
+<div class="card__title">
 
-  </div>
+#### <a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/immigration-restrictions/">Immigration restrictions</a>
 
-  <div class="card__actions">
-  <a href="https://80000hours.org/problem-profiles/immigration-restrictions/" class="card__action no-visited-styling">Read more</a>
-  </div>
+</div>
 
-  </div>
+<div class="card__body">
 
-- <div class="card card--vertical "><div class="card__image">
-  <a href="https://80000hours.org/problem-profiles/preventing-the-spread-of-false-ideas-on-social-media/" class="card__anchor no-visited-styling"> <noscript><img src="https://80000hours.org/wp-content/uploads/2022/05/amir-hanna-sweUF7FcyP4-unsplash-1-720x448.jpg" alt="Decorative post preview"                       class="tw--w-full " style=""                      width="720" height="448"></noscript><img src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20720%20448%22%3E%3C/svg%3E" data-src="https://80000hours.org/wp-content/uploads/2022/05/amir-hanna-sweUF7FcyP4-unsplash-1-720x448.jpg" alt="Decorative post preview" class="tw--w-full" style="" width="720" height="448"/> </a>
-  </div>
+Keeping people from moving to where they would have better lives and careers can have big negative humanitarian, intellectual, cultural, and economic effects.
 
-  <div class="card__title">
+</div>
 
-  #### <a href="https://80000hours.org/problem-profiles/preventing-the-spread-of-false-ideas-on-social-media/" class="card__anchor no-visited-styling">Spread of false ideas on social media</a>
+<div class="card__actions">
+<a href="https://80000hours.org/problem-profiles/immigration-restrictions/" class="card__action no-visited-styling">Read more</a>
+</div></div>
 
+</li>
 
-  </div>
+<li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
+<a class="card__anchor no-visited-styling">
 
-  <div class="card__body">
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/amir-hanna-sweUF7FcyP4-unsplash-1-720x448.jpg)
 
-  The algorithms that social media companies employ to curate content may be contributing to harmful instability and erosion of trust in many societies.
+</a>
+</div>
 
-  </div>
+<div class="card__title">
 
-  <div class="card__actions">
-  <a href="https://80000hours.org/problem-profiles/preventing-the-spread-of-false-ideas-on-social-media/" class="card__action no-visited-styling">Read more</a>
-  </div>
+#### <a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/preventing-the-spread-of-false-ideas-on-social-media/">Spread of false ideas on social media</a>
 
-  </div>
+</div>
 
-- <div class="card card--vertical "><div class="card__image">
-  <a href="https://80000hours.org/problem-profiles/science-policy-and-infrastructure/" class="card__anchor no-visited-styling"> <noscript><img src="https://80000hours.org/wp-content/uploads/2022/05/lance-anderson-QdAAasrZhdk-unsplash-720x448.jpg" alt="Decorative post preview"                       class="tw--w-full " style=""                      width="720" height="448"></noscript><img src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20720%20448%22%3E%3C/svg%3E" data-src="https://80000hours.org/wp-content/uploads/2022/05/lance-anderson-QdAAasrZhdk-unsplash-720x448.jpg" alt="Decorative post preview" class="tw--w-full" style="" width="720" height="448"/> </a>
-  </div>
+<div class="card__body">
 
-  <div class="card__title">
+The algorithms that social media companies employ to curate content may be contributing to harmful instability and erosion of trust in many societies.
 
-  #### <a href="https://80000hours.org/problem-profiles/science-policy-and-infrastructure/" class="card__anchor no-visited-styling">Science policy and infrastructure</a>
+</div>
 
+<div class="card__actions">
+<a href="https://80000hours.org/problem-profiles/preventing-the-spread-of-false-ideas-on-social-media/" class="card__action no-visited-styling">Read more</a>
+</div></div>
 
-  </div>
+</li>
 
-  <div class="card__body">
+<li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
+<a class="card__anchor no-visited-styling">
 
-  Incentives shaped by universities and journals affect scientific progress. Can we improve them, e.g. to speed up development of beneficial technologies (and limit the proliferation of risky ones)?
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/lance-anderson-QdAAasrZhdk-unsplash-720x448.jpg)
 
-  </div>
+</a>
+</div>
 
-  <div class="card__actions">
-  <a href="https://80000hours.org/problem-profiles/science-policy-and-infrastructure/" class="card__action no-visited-styling">Read more</a>
-  </div>
+<div class="card__title">
 
-  </div>
+#### <a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/science-policy-and-infrastructure/">Science policy and infrastructure</a>
 
-- <div class="card card--vertical "><div class="card__image">
-  <a href="https://80000hours.org/problem-profiles/high-leverage-economic-growth/" class="card__anchor no-visited-styling"> <noscript><img src="https://80000hours.org/wp-content/uploads/2022/05/jay-wennington-yQl3lBvMdnw-unsplash-720x448.jpg" alt="Decorative post preview"                       class="tw--w-full " style=""                      width="720" height="448"></noscript><img src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20720%20448%22%3E%3C/svg%3E" data-src="https://80000hours.org/wp-content/uploads/2022/05/jay-wennington-yQl3lBvMdnw-unsplash-720x448.jpg" alt="Decorative post preview" class="tw--w-full" style="" width="720" height="448"/> </a>
-  </div>
+</div>
 
-  <div class="card__title">
+<div class="card__body">
 
-  #### <a href="https://80000hours.org/problem-profiles/high-leverage-economic-growth/" class="card__anchor no-visited-styling">High-leverage ways to speed up economic growth</a>
+Incentives shaped by universities and journals affect scientific progress. Can we improve them, e.g. to speed up development of beneficial technologies (and limit the proliferation of risky ones)?
 
+</div>
 
-  </div>
+<div class="card__actions">
+<a href="https://80000hours.org/problem-profiles/science-policy-and-infrastructure/" class="card__action no-visited-styling">Read more</a>
+</div></div>
 
-  <div class="card__body">
+</li>
 
-  Faster economic growth could improve global standards of living and cooperation, and might help future generations flourish.
+<li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
+<a class="card__anchor no-visited-styling">
 
-  </div>
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/jay-wennington-yQl3lBvMdnw-unsplash-720x448.jpg)
 
-  <div class="card__actions">
-  <a href="https://80000hours.org/problem-profiles/high-leverage-economic-growth/" class="card__action no-visited-styling">Read more</a>
-  </div>
+</a>
+</div>
 
-  </div>
+<div class="card__title">
 
-- <div class="card card--vertical "><div class="card__image">
-  <a href="https://80000hours.org/problem-profiles/neglected-mental-health/" class="card__anchor no-visited-styling"> <noscript><img src="https://80000hours.org/wp-content/uploads/2022/05/ashley-batz-betmVWGYcLY-unsplash-720x448.jpg" alt="Decorative post preview"                       class="tw--w-full " style=""                      width="720" height="448"></noscript><img src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20720%20448%22%3E%3C/svg%3E" data-src="https://80000hours.org/wp-content/uploads/2022/05/ashley-batz-betmVWGYcLY-unsplash-720x448.jpg" alt="Decorative post preview" class="tw--w-full" style="" width="720" height="448"/> </a>
-  </div>
+#### <a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/high-leverage-economic-growth/">High-leverage ways to speed up economic growth</a>
 
-  <div class="card__title">
+</div>
 
-  #### <a href="https://80000hours.org/problem-profiles/neglected-mental-health/" class="card__anchor no-visited-styling">Mental health</a>
+<div class="card__body">
 
+Faster economic growth could improve global standards of living and cooperation, and might help future generations flourish.
 
-  </div>
+</div>
 
-  <div class="card__body">
+<div class="card__actions">
+<a href="https://80000hours.org/problem-profiles/high-leverage-economic-growth/" class="card__action no-visited-styling">Read more</a>
+</div></div>
 
-  Depression, anxiety, and other conditions directly affect people’s wellbeing. Finding effective and scalable ways to improve mental health worldwide could deliver large benefits.
+</li>
 
-  </div>
+<li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
+<a class="card__anchor no-visited-styling">
 
-  <div class="card__actions">
-  <a href="https://80000hours.org/problem-profiles/neglected-mental-health/" class="card__action no-visited-styling">Read more</a>
-  </div>
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/ashley-batz-betmVWGYcLY-unsplash-720x448.jpg)
 
-  </div>
+</a>
+</div>
 
-- <div class="card card--vertical "><div class="card__image">
-  <a href="https://80000hours.org/problem-profiles/voting-reform/" class="card__anchor no-visited-styling"> <noscript><img src="https://80000hours.org/wp-content/uploads/2022/05/aditya-joshi-FOhw4A1CR1Q-unsplash-1-720x448.jpg" alt="Decorative post preview"                       class="tw--w-full " style=""                      width="720" height="448"></noscript><img src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20720%20448%22%3E%3C/svg%3E" data-src="https://80000hours.org/wp-content/uploads/2022/05/aditya-joshi-FOhw4A1CR1Q-unsplash-1-720x448.jpg" alt="Decorative post preview" class="tw--w-full" style="" width="720" height="448"/> </a>
-  </div>
+<div class="card__title">
 
-  <div class="card__title">
+#### <a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/neglected-mental-health/">Mental health</a>
 
-  #### <a href="https://80000hours.org/problem-profiles/voting-reform/" class="card__anchor no-visited-styling">Voting reform</a>
+</div>
 
+<div class="card__body">
 
-  </div>
+Depression, anxiety, and other conditions directly affect people’s wellbeing. Finding effective and scalable ways to improve mental health worldwide could deliver large benefits.
 
-  <div class="card__body">
+</div>
 
-  First-past-the-post voting is common in high-stakes elections like for the US president. Everyone who works on voting theory agrees this is one of the worst systems there is.
+<div class="card__actions">
+<a href="https://80000hours.org/problem-profiles/neglected-mental-health/" class="card__action no-visited-styling">Read more</a>
+</div></div>
 
-  </div>
+</li>
 
-  <div class="card__actions">
-  <a href="https://80000hours.org/problem-profiles/voting-reform/" class="card__action no-visited-styling">Read more</a>
-  </div>
+<li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
+<a class="card__anchor no-visited-styling">
 
-  </div>
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/aditya-joshi-FOhw4A1CR1Q-unsplash-1-720x448.jpg)
 
+</a>
+</div>
+
+<div class="card__title">
+
+#### <a class="card__anchor no-visited-styling" href="https://80000hours.org/problem-profiles/voting-reform/">Voting reform</a>
+
+</div>
+
+<div class="card__body">
+
+First-past-the-post voting is common in high-stakes elections like for the US president. Everyone who works on voting theory agrees this is one of the worst systems there is.
+
+</div>
+
+<div class="card__actions">
+<a href="https://80000hours.org/problem-profiles/voting-reform/" class="card__action no-visited-styling">Read more</a>
+</div></div>
+
+</li>
+
+</ul>
 
 </div></div></div>
 
@@ -768,8 +850,7 @@ There are many more issues we think society at large doesn’t prioritise enough
 ## Frequently asked questions
 
 <div class="panel-group" id="custom-collapse-1"><div class="panel panel-default panel-collapse"><div class="panel-heading">
-
-#### <a class="no-visited-styling collapsed" data-toggle="collapse" data-target="\#-11">What are these lists based on?</a>
+<h4 class="panel-title"><a class="no-visited-styling collapsed" data-toggle="collapse" data-target="#-11">What are these lists based on?</a></h4>
 
 </div>
 
@@ -792,8 +873,7 @@ All this has led to a few themes in the issues we tend to prioritise most highly
 </div></div></div>
 
 <div class="panel panel-default panel-collapse"><div class="panel-heading">
-
-#### <a class="no-visited-styling collapsed" data-toggle="collapse" data-target="\#-12">Why did you make this page?</a>
+<h4 class="panel-title"><a class="no-visited-styling collapsed" data-toggle="collapse" data-target="#-12">Why did you make this page?</a></h4>
 
 </div>
 
@@ -810,8 +890,7 @@ For this reason, we think our most important advice for people who want to make 
 </div></div></div>
 
 <div class="panel panel-default panel-collapse"><div class="panel-heading">
-
-#### <a class="no-visited-styling collapsed" data-toggle="collapse" data-target="\#-13">Why don&\#39;t you list more familiar global issues?</a>
+<h4 class="panel-title"><a class="no-visited-styling collapsed" data-toggle="collapse" data-target="#-13">Why don&#39;t you list more familiar global issues?</a></h4>
 
 </div>
 
@@ -830,8 +909,7 @@ Another reason our list might look different from others’ lists is we think it
 </div></div></div>
 
 <div class="panel panel-default panel-collapse"><div class="panel-heading">
-
-#### <a class="no-visited-styling collapsed" data-toggle="collapse" data-target="\#-14">Isn&\#39;t it inappropriate to rank different issues?</a>
+<h4 class="panel-title"><a class="no-visited-styling collapsed" data-toggle="collapse" data-target="#-14">Isn&#39;t it inappropriate to rank different issues?</a></h4>
 
 </div>
 
@@ -850,8 +928,7 @@ Refusing to compare problems to one another doesn’t get you out of prioritisin
 </div></div></div>
 
 <div class="panel panel-default panel-collapse"><div class="panel-heading">
-
-#### <a class="no-visited-styling collapsed" data-toggle="collapse" data-target="\#-15">Should I just take your word for it that these are the most pressing problems in the world?</a>
+<h4 class="panel-title"><a class="no-visited-styling collapsed" data-toggle="collapse" data-target="#-15">Should I just take your word for it that these are the most pressing problems in the world?</a></h4>
 
 </div>
 
@@ -866,8 +943,7 @@ To help you form your own views, below we suggest a [rough process for creating 
 </div></div></div>
 
 <div class="panel panel-default panel-collapse"><div class="panel-heading">
-
-#### <a class="no-visited-styling collapsed" data-toggle="collapse" data-target="\#-16">How do you think your list is most likely to be wrong?</a>
+<h4 class="panel-title"><a class="no-visited-styling collapsed" data-toggle="collapse" data-target="#-16">How do you think your list is most likely to be wrong?</a></h4>
 
 </div>
 
@@ -890,8 +966,7 @@ Finally, we could easily be wrong about any of the particular issues we list —
 </div></div></div>
 
 <div class="panel panel-default panel-collapse"><div class="panel-heading">
-
-#### <a class="no-visited-styling collapsed" data-toggle="collapse" data-target="\#-17">Do you think everyone should work on your top list of world problems?</a>
+<h4 class="panel-title"><a class="no-visited-styling collapsed" data-toggle="collapse" data-target="#-17">Do you think everyone should work on your top list of world problems?</a></h4>
 
 </div>
 
@@ -917,8 +992,7 @@ However, in practice it’s safe to assume that what most of the world will do w
 </div></div></div>
 
 <div class="panel panel-default panel-collapse"><div class="panel-heading">
-
-#### <a class="no-visited-styling collapsed" data-toggle="collapse" data-target="\#-18">I want to help tackle one of these global issues. What should I do?</a>
+<h4 class="panel-title"><a class="no-visited-styling collapsed" data-toggle="collapse" data-target="#-18">I want to help tackle one of these global issues. What should I do?</a></h4>
 
 </div>
 
@@ -947,8 +1021,7 @@ Check out our [full step-by-step career planning process](https://80000hours.org
 </div></div></div>
 
 <div class="panel panel-default panel-collapse"><div class="panel-heading">
-
-#### <a class="no-visited-styling collapsed" data-toggle="collapse" data-target="\#-19">I&\#39;m not motivated to work on any of these issues. What should I do?</a>
+<h4 class="panel-title"><a class="no-visited-styling collapsed" data-toggle="collapse" data-target="#-19">I&#39;m not motivated to work on any of these issues. What should I do?</a></h4>
 
 </div>
 
@@ -967,8 +1040,7 @@ Read more about [how to have a positive impact in any job](https://80000hours.or
 </div></div></div>
 
 <div class="panel panel-default panel-collapse"><div class="panel-heading">
-
-#### <a class="no-visited-styling collapsed" data-toggle="collapse" data-target="\#-20">My values are pretty different — how can I figure out my own list of world problems?</a>
+<h4 class="panel-title"><a class="no-visited-styling collapsed" data-toggle="collapse" data-target="#-20">My values are pretty different — how can I figure out my own list of world problems?</a></h4>
 
 </div>
 
@@ -1007,8 +1079,7 @@ Other lists of pressing global issues, for inspiration:
 </div></div></div>
 
 <div class="panel panel-default panel-collapse"><div class="panel-heading">
-
-#### <a class="no-visited-styling collapsed" data-toggle="collapse" data-target="\#-21">How do I figure out which world problem is the best fit for me to work on?</a>
+<h4 class="panel-title"><a class="no-visited-styling collapsed" data-toggle="collapse" data-target="#-21">How do I figure out which world problem is the best fit for me to work on?</a></h4>
 
 </div>
 
@@ -1031,10 +1102,7 @@ If you already have experience in a particular area, [see our article about how 
 </section>
 
 <div class="container padding-bottom-larger"><div class="row padding-top-larger"><div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 col-content"><div class="tw--mt-6 tw--p-3 tw--pt-2 tw--bg-gray-lighter tw--rounded-md ">
-
-### <a class="no-visited-styling tw--text-off-black hover:tw--text-off-black hover:tw--no-underline focus:tw--text-off-black" href="https://80000hours.org/articles/leverage/"> <small>Read next: </small> In which career can you make the biggest contribution? </a>
-
-<div class="tw--grid xs:tw--grid-flow-col tw--gap-3"><div class="xs:tw--order-last tw--pt-1">
+<h3 class="no-toc"><a class="no-visited-styling tw--text-off-black hover:tw--text-off-black hover:tw--no-underline focus:tw--text-off-black" href="https://80000hours.org/articles/leverage/"> <small>Read next: </small> In which career can you make the biggest contribution? </a></h3><div class="tw--grid xs:tw--grid-flow-col tw--gap-3"><div class="xs:tw--order-last tw--pt-1">
 [!img~ width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2021/09/lever-720x448.jpeg)](https://80000hours.org/articles/leverage/)
 </div>
 
@@ -1049,8 +1117,7 @@ There are many ways to contribute to tackling global problems. Even within caree
 </div></div></div></div>
 
 <div class="well bg-gray-lighter margin-bottom margin-top padding-top-small padding-bottom-small">
-
-### Enter your email and we’ll mail you a book (for free).
+<h3 class="no-toc">Enter your email and we’ll mail you a book (for free).</h3>
 
 Join our newsletter and we’ll send you a free copy of _The Precipice_ — a book by philosopher Toby Ord about how to tackle the greatest threats facing humanity.
 

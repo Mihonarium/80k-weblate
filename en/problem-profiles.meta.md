@@ -59,3 +59,7 @@
 ```
 page-template-default page page-id-42221 sidebar-toc-enabled feature-flag--2021-08__sidebar-toc-on-sm-and-xs-viewports header-visible url--problem-profiles
 ```
+
+```
+post-42221 page type-page status-publish has-post-thumbnail hentry category-artificial-intelligence category-biorisk category-catastrophic-risks category-cause-selection category-climate-change category-global-priorities category-improving-decision-making category-meta-causes category-priority-paths category-causes category-promoting-effective-altruism
+```
