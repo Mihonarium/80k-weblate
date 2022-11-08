@@ -27,7 +27,7 @@ Over [10 years of research](/key-ideas/#what-is-our-advice-based-on) alongside a
 We discovered there are many ways we need to rethink social impact careers. For instance:
 
 - If lots of people already work on an issue, the best opportunities will have already been taken, which makes it harder to contribute. But that means the most popular issues to work on, like health and education in the US or UK, are [probably not where you can do the most good](/articles/your-choice-of-problem-is-crucial/) — to have a big impact, you need to find something unconventional.
-- Our generation faces issues that could affect the entire future of civilisation(!) — such as [existential threats](http://80000hours.org/articles/existential-risks/) or the creation of [smarter-than-human AI](/articles/the-most-important-century/) — but people who want to do good rarely work on these issues.
+- Our generation faces issues that could affect the entire future of civilisation(!) — such as [existential threats](/articles/existential-risks/) or the creation of [smarter-than-human AI](/articles/the-most-important-century/) — but people who want to do good rarely work on these issues.
 - You don’t _have_ to work at a charity to make a difference. Indirect paths to helping — such as communicating ideas, conducting research, or donating to effective organisations — can often be just as (or even more) effective; while at the same time, [many charities don’t have much impact](/articles/solutions/).
 
 These discoveries mean that the question of how best to spend your career is even more important than we first thought.
@@ -85,7 +85,7 @@ If you [join our newsletter](/newsletter/), we’ll also send you a free PDF ver
 
 <a href="/key-ideas/" title="" class="btn btn-primary">Read now</a>
 
-If you’d like to deepen your understanding of these ideas, subscribe to our [podcast](http://80000hours.org/podcast/), which features in-depth conversations with experts about how to best tackle the world’s most pressing problems.
+If you’d like to deepen your understanding of these ideas, subscribe to our [podcast](/podcast/), which features in-depth conversations with experts about how to best tackle the world’s most pressing problems.
 
 <a href="/podcast/" title="" class="btn btn-default">Listen to the podcast</a>
 
