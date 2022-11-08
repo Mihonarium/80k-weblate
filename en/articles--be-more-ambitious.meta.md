@@ -59,3 +59,7 @@
 ```
 article-template-default single single-article postid-74244 sidebar-toc-enabled feature-flag--2021-08__sidebar-toc-on-sm-and-xs-viewports header-visible url--articles__be-more-ambitious
 ```
+
+```
+post-74244 article type-article status-publish has-post-thumbnail hentry category-planning category-rules-of-thumb
+```

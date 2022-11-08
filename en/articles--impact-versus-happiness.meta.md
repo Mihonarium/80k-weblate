@@ -58,3 +58,7 @@
 ```
 article-template-default single single-article postid-73677 header-visible url--articles__impact-versus-happiness
 ```
+
+```
+post-73677 article type-article status-publish has-post-thumbnail hentry category-job-satisfaction category-mental-health category-motivation
+```

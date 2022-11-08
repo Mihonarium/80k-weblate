@@ -61,3 +61,7 @@
 ```
 article-template-default single single-article postid-73668 sidebar-toc-enabled feature-flag--2021-08__sidebar-toc-on-sm-and-xs-viewports header-visible url--articles__exploration
 ```
+
+```
+post-73668 article type-article status-publish has-post-thumbnail hentry category-exploration category-planning category-personal-fit
+```

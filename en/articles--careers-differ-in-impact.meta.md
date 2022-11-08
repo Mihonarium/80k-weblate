@@ -60,3 +60,7 @@ Some career paths let you make 100 times as big a contribution to solving those 
 ```
 article-template-default single single-article postid-73882 header-visible url--articles__careers-differ-in-impact
 ```
+
+```
+post-73882 article type-article status-publish has-post-thumbnail hentry category-big-picture
+```

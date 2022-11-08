@@ -58,3 +58,7 @@
 ```
 article-template-default single single-article postid-73636 sidebar-toc-enabled feature-flag--2021-08__sidebar-toc-on-sm-and-xs-viewports header-visible url--articles__personal-fit
 ```
+
+```
+post-73636 article type-article status-publish has-post-thumbnail hentry category-ability category-personal-fit category-rules-of-thumb
+```
