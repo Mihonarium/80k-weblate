@@ -233,7 +233,7 @@
                                         <nav>
                                             <ul id="menu-primary-navigation" class="nav navbar-nav navigation-primary navigation-primary-menu-items">
                                                 <li class="starthere">
-                                                    <a href="/make-a-difference-with-your-career/?int_campaign=2021-12--primary-navigation__start-here">Start here</a>
+                                                    <a href="/start-here/?int_campaign=2021-12--primary-navigation__start-here">Start here</a>
                                                 </li>
                                                 <li class="guides  navigation-primary-menu-items__wide-dropdown-parent">
                                                     <a href="#" class="link--disable-default-tracking">Guides <b class="caret"></b>
@@ -249,7 +249,7 @@
                                                                             <span class="sub-item__description">Understand what makes for a high-impact career. </span>
                                                                         </a>
                                                                         <div class="visible-xs visible-sm">
-                                                                            <div class="row row--sub-item collapse collapse--keyideas in" id="">
+                                                                            <div class="row row--sub-item collapse collapse--keyideas" id="">
                                                                                 <div class="col-md-6 ml-2 mt-2">
                                                                                     <div class="hidden-md hidden-lg margin-bottom">
                                                                                         <strong>
@@ -656,7 +656,7 @@
                                                                 </ul>
                                                             </div>
                                                             <div class="col-sm-12 col-md-8-5 col-navigation-primary-menu-items__subitem-contents">
-                                                                <div class="row row--sub-item collapse collapse--keyideas in" id="">
+                                                                <div class="row row--sub-item collapse collapse--keyideas" id="">
                                                                     <div class="col-md-6">
                                                                         <div class="hidden-md hidden-lg margin-bottom">
                                                                             <strong>
@@ -699,23 +699,21 @@
                                                                                 <a href="/problem-profiles/">Our current list of pressing problems</a>
                                                                             </li>
                                                                         </ul>
-                                                                        <strong>Solutions</strong>
+                                                                        <strong>Contribution</strong>
                                                                         <ul>
                                                                             <li>
-                                                                                <a href="/articles/solutions">The best solutions are far more effective</a>
+                                                                                <a href="/articles/leverage">Which careers let you contribute most?</a>
                                                                             </li>
-                                                                        </ul>
-                                                                    </div>
-                                                                    <div class="col-md-6">
-                                                                        <strong>Leverage</strong>
-                                                                        <ul>
                                                                             <li>
-                                                                                <a href="/articles/leverage/">What is leverage, and how to get it?</a>
+                                                                                <a href="/articles/solutions/">Some solutions are far more effective than others</a>
                                                                             </li>
                                                                             <li>
                                                                                 <a href="/career-reviews/">Our list of high-impact careers</a>
                                                                             </li>
                                                                         </ul>
+                                                                    </div>
+                                                                    <div class="col-md-6">
+                                                                        <strong>Leverage</strong>
                                                                         <strong>Personal fit</strong>
                                                                         <ul>
                                                                             <li>
@@ -1332,7 +1330,7 @@
 <div id="flash_messages_placeholder" class="bg-off-white"></div>
 <div class="wrap" role="document">
     <main class="wrap" role="main">
-        <article class="post-73130 page type-page status-publish has-post-thumbnail hentry">
+        <article class="{{ .ArticleClass }}">
             {{ .CustomStyle }}
             <header class="clearfix header-featured-image-huge">
                 <div class="container">
@@ -1576,6 +1574,7 @@
                     </div>
                 </div>
             </div>
+            {{ .AdditionalContent }}
             {{if .HasRefs }}<section class="wrap section-full-width padding-bottom-small bg-off-white">
                 <div class="container ">
                     <div class="row margin-top-large">
