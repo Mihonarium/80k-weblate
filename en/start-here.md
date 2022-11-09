@@ -2,6 +2,8 @@
 ## Why we're here and how we can help
 !empty
 
+!toc-container
+
 You have 80,000 hours in your career: 40 hours per week, 50 weeks per year, for 40 years.
 
 That’s a huge amount of time. And it means that your career is not only a major driver of your happiness — it’s probably also your biggest opportunity to have a positive impact on the world.
