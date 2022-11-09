@@ -274,7 +274,9 @@ We’d be equally excited to see some of our readers (say, 10–20%) pursue some
 There are fewer high-impact opportunities working on these issues — so you need to have especially good [personal fit](/articles/personal-fit/) and be more entrepreneurial to make progress.
 
 <ul class="list-cards list-no-bullet row display-flex !tw--mb-0 margin-top"><li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
-<a class="card__anchor no-visited-styling" href="/problem-profiles/civilisation-resilience/">!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/charlotte-venema-wx9zhbPZmqc-unsplash-720x448.jpg)
+<a class="card__anchor no-visited-styling" href="/problem-profiles/civilisation-resilience/">
+
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/charlotte-venema-wx9zhbPZmqc-unsplash-720x448.jpg)
 
 </a>
 </div>
@@ -298,7 +300,9 @@ If we make it more likely that the world’s population could eventually recover
 </li>
 
 <li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
-<a class="card__anchor no-visited-styling" href="/problem-profiles/s-risks/">!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/redcharlie-HxxmKwvUbgI-unsplash-1-720x448.jpg)
+<a class="card__anchor no-visited-styling" href="/problem-profiles/s-risks/">
+
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/redcharlie-HxxmKwvUbgI-unsplash-1-720x448.jpg)
 
 </a>
 </div>
@@ -322,7 +326,9 @@ Worse than extinction would be a long future of great suffering. The study of th
 </li>
 
 <li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
-<a class="card__anchor no-visited-styling" href="/problem-profiles/artificial-sentience/">!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2021/10/brett-jordan-GQCYOS_MH0w-unsplash-720x448.jpg)
+<a class="card__anchor no-visited-styling" href="/problem-profiles/artificial-sentience/">
+
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2021/10/brett-jordan-GQCYOS_MH0w-unsplash-720x448.jpg)
 
 </a>
 </div>
@@ -346,7 +352,9 @@ We may soon create machines capable of experiencing happiness and suffering, who
 </li>
 
 <li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
-<a class="card__anchor no-visited-styling" href="/problem-profiles/promoting-positive-values/">!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/nikhil-fHOc-5r6LMg-unsplash-1-720x448.jpg)
+<a class="card__anchor no-visited-styling" href="/problem-profiles/promoting-positive-values/">
+
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/nikhil-fHOc-5r6LMg-unsplash-1-720x448.jpg)
 
 </a>
 </div>
@@ -370,7 +378,9 @@ If we could effectively spread positive values — like (we think!) caring about
 </li>
 
 <li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
-<a class="card__anchor no-visited-styling" href="/problem-profiles/risks-of-stable-totalitarianism/">!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/Featured-image-surveillance-720x448.png)
+<a class="card__anchor no-visited-styling" href="/problem-profiles/risks-of-stable-totalitarianism/">
+
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/Featured-image-surveillance-720x448.png)
 
 </a>
 </div>
@@ -394,7 +404,9 @@ If a totalitarian regime ever becomes technologically advanced enough and gains 
 </li>
 
 <li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
-<a class="card__anchor no-visited-styling" href="/problem-profiles/space-governance/">!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/02/nasa-084iI8XTfN0-unsplash-1-720x448.jpg)
+<a class="card__anchor no-visited-styling" href="/problem-profiles/space-governance/">
+
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/02/nasa-084iI8XTfN0-unsplash-1-720x448.jpg)
 
 </a>
 </div>
@@ -418,7 +430,9 @@ Even as investment in space increases, we have very little plan for how nations,
 </li>
 
 <li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
-<a class="card__anchor no-visited-styling" href="/problem-profiles/global-public-goods/">!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/dimitry-anikin-i9cuOOXbv4c-unsplash-720x448.jpg)
+<a class="card__anchor no-visited-styling" href="/problem-profiles/global-public-goods/">
+
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/dimitry-anikin-i9cuOOXbv4c-unsplash-720x448.jpg)
 
 </a>
 </div>
@@ -442,7 +456,9 @@ There are many ‘public goods’ problems, where no one is incentivised to do w
 </li>
 
 <li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
-<a class="card__anchor no-visited-styling" href="/problem-profiles/atomically-precise-manufacturing/">!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/testalize-me-0jE8ynV4mis-unsplash-1-720x448.jpg)
+<a class="card__anchor no-visited-styling" href="/problem-profiles/atomically-precise-manufacturing/">
+
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/testalize-me-0jE8ynV4mis-unsplash-1-720x448.jpg)
 
 </a>
 </div>
@@ -466,7 +482,9 @@ The ability to manipulate the creation of molecules would plausibly have large i
 </li>
 
 <li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
-<a class="card__anchor no-visited-styling" href="/problem-profiles/risks-from-malevolent-actors/">!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/Aum-Shinrikyo-720x448.jpeg)
+<a class="card__anchor no-visited-styling" href="/problem-profiles/risks-from-malevolent-actors/">
+
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/Aum-Shinrikyo-720x448.jpeg)
 
 </a>
 </div>
@@ -490,7 +508,9 @@ Some of the worst possible futures might be less likely if we better understood 
 </li>
 
 <li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
-<a class="card__anchor no-visited-styling" href="/problem-profiles/improving-individual-reasoning-or-cognition/">!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/stephen-kraakmo-uAzUg6_tMCo-unsplash-1-720x448.jpg)
+<a class="card__anchor no-visited-styling" href="/problem-profiles/improving-individual-reasoning-or-cognition/">
+
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/stephen-kraakmo-uAzUg6_tMCo-unsplash-1-720x448.jpg)
 
 </a>
 </div>
@@ -530,7 +550,9 @@ We’d also love to see more people working on the following issues, even though
 Factory farming and global health are common focuses in the [effective altruism community](/community/). These are important issues on which we could make a lot more progress.
 
 <ul class="list-cards list-no-bullet row display-flex !tw--mb-0 margin-top"><li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
-<a class="card__anchor no-visited-styling" href="/problem-profiles/factory-farming/">!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2016/04/nighthawk-shoots-Vd8jXvQtQFI-unsplash-720x448.jpg)
+<a class="card__anchor no-visited-styling" href="/problem-profiles/factory-farming/">
+
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2016/04/nighthawk-shoots-Vd8jXvQtQFI-unsplash-720x448.jpg)
 
 </a>
 </div>
@@ -554,7 +576,9 @@ Every year, billions of animals suffer on factory farms, where standards of huma
 </li>
 
 <li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
-<a class="card__anchor no-visited-styling" href="/problem-profiles/health-in-poor-countries/">!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2016/04/marek-piwnicki-ATTmw_PT46U-unsplash-1-720x448.jpg)
+<a class="card__anchor no-visited-styling" href="/problem-profiles/health-in-poor-countries/">
+
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2016/04/marek-piwnicki-ATTmw_PT46U-unsplash-1-720x448.jpg)
 
 </a>
 </div>
@@ -584,7 +608,9 @@ Preventable diseases like malaria kill hundreds of thousands of people each year
 There are many more issues we think society at large doesn’t prioritise enough, where more initiatives could have a substantial positive impact. But they seem either less neglected and tractable than factory farming or global health, or the expected scale of the impact seems smaller.
 
 <ul class="list-cards list-no-bullet row display-flex !tw--mb-0 margin-top"><li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
-<a class="card__anchor no-visited-styling" href="/problem-profiles/whole-brain-emulation/">!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/mo-NKhckz9B78c-unsplash-720x448.jpg)
+<a class="card__anchor no-visited-styling" href="/problem-profiles/whole-brain-emulation/">
+
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/mo-NKhckz9B78c-unsplash-720x448.jpg)
 
 </a>
 </div>
@@ -608,7 +634,9 @@ Digitally running specific human brains — ‘mind uploading’ — might be a 
 </li>
 
 <li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
-<a class="card__anchor no-visited-styling" href="/problem-profiles/wild-animal-welfare/">!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/42-north-OltnbG88tYg-unsplash-1-720x448.jpg)
+<a class="card__anchor no-visited-styling" href="/problem-profiles/wild-animal-welfare/">
+
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/42-north-OltnbG88tYg-unsplash-1-720x448.jpg)
 
 </a>
 </div>
@@ -632,7 +660,9 @@ There is an unfathomable number of wild animals. If many of them suffer in their
 </li>
 
 <li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
-<a class="card__anchor no-visited-styling" href="/problem-profiles/liberal-democracy/">!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/09/Barack_Obama_at_Parliament_of_India_in_New_Delhi_addressing_Joint_session_of_both_houses_2010-720x448.jpeg)
+<a class="card__anchor no-visited-styling" href="/problem-profiles/liberal-democracy/">
+
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/09/Barack_Obama_at_Parliament_of_India_in_New_Delhi_addressing_Joint_session_of_both_houses_2010-720x448.jpeg)
 
 </a>
 </div>
@@ -656,7 +686,9 @@ Liberal democracies seem more conducive to innovation, freedom, and possibly pea
 </li>
 
 <li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
-<a class="card__anchor no-visited-styling" href="/problem-profiles/immigration-restrictions/">!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/ali-abdul-rahman-i_GkkR_V3xk-unsplash-720x448.jpg)
+<a class="card__anchor no-visited-styling" href="/problem-profiles/immigration-restrictions/">
+
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/ali-abdul-rahman-i_GkkR_V3xk-unsplash-720x448.jpg)
 
 </a>
 </div>
@@ -680,7 +712,9 @@ Keeping people from moving to where they would have better lives and careers can
 </li>
 
 <li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
-<a class="card__anchor no-visited-styling" href="/problem-profiles/preventing-the-spread-of-false-ideas-on-social-media/">!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/amir-hanna-sweUF7FcyP4-unsplash-1-720x448.jpg)
+<a class="card__anchor no-visited-styling" href="/problem-profiles/preventing-the-spread-of-false-ideas-on-social-media/">
+
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/amir-hanna-sweUF7FcyP4-unsplash-1-720x448.jpg)
 
 </a>
 </div>
@@ -704,7 +738,9 @@ The algorithms that social media companies employ to curate content may be contr
 </li>
 
 <li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
-<a class="card__anchor no-visited-styling" href="/problem-profiles/science-policy-and-infrastructure/">!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/lance-anderson-QdAAasrZhdk-unsplash-720x448.jpg)
+<a class="card__anchor no-visited-styling" href="/problem-profiles/science-policy-and-infrastructure/">
+
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/lance-anderson-QdAAasrZhdk-unsplash-720x448.jpg)
 
 </a>
 </div>
@@ -728,7 +764,9 @@ Incentives shaped by universities and journals affect scientific progress. Can w
 </li>
 
 <li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
-<a class="card__anchor no-visited-styling" href="/problem-profiles/high-leverage-economic-growth/">!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/jay-wennington-yQl3lBvMdnw-unsplash-720x448.jpg)
+<a class="card__anchor no-visited-styling" href="/problem-profiles/high-leverage-economic-growth/">
+
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/jay-wennington-yQl3lBvMdnw-unsplash-720x448.jpg)
 
 </a>
 </div>
@@ -752,7 +790,9 @@ Faster economic growth could improve global standards of living and cooperation,
 </li>
 
 <li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
-<a class="card__anchor no-visited-styling" href="/problem-profiles/neglected-mental-health/">!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/ashley-batz-betmVWGYcLY-unsplash-720x448.jpg)
+<a class="card__anchor no-visited-styling" href="/problem-profiles/neglected-mental-health/">
+
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/ashley-batz-betmVWGYcLY-unsplash-720x448.jpg)
 
 </a>
 </div>
@@ -776,7 +816,9 @@ Depression, anxiety, and other conditions directly affect people’s wellbeing. 
 </li>
 
 <li class="col-sm-6 padding-bottom-small"><div class="card card--vertical "><div class="card__image">
-<a class="card__anchor no-visited-styling" href="/problem-profiles/voting-reform/">!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/aditya-joshi-FOhw4A1CR1Q-unsplash-1-720x448.jpg)
+<a class="card__anchor no-visited-styling" href="/problem-profiles/voting-reform/">
+
+!img~ class="tw--w-full" width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2022/05/aditya-joshi-FOhw4A1CR1Q-unsplash-1-720x448.jpg)
 
 </a>
 </div>
