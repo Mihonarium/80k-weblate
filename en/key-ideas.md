@@ -2,6 +2,8 @@
 ## !empty
 <p class="entry-meta small">Published March 2021</p>
 
+!toc-container
+
 Your career is your biggest opportunity to make a difference. But how can you make the most of it? We’ve spent the last 10 years searching for the answer to that question.
 
 We’ve found that some of the paths open to you probably have far more impact than others, but they’re often not what people are already focused on. This means we need to rethink social impact careers — and that by applying this new perspective, there’s a chance you can find a career that’s both higher impact and just as satisfying as your current path.
@@ -13,7 +15,8 @@ There are about 20 key articles, which you can read over a weekend. At the end y
 All this might sound like a lot of work, but if you can increase the impact of your career by just 1%, it would be worth spending up to 800 hours learning how to do that. And we think we can increase your impact by much more, and in much less time. So let’s dive in.
 
 <div class="well visible-if-not-newsletter-subscriber margin-bottom margin-top padding-top-small padding-bottom-small">
-<h2 class="no-toc">Get the guide as a PDF in your inbox.</h2>
+
+##~class="no-toc"~ Get the guide as a PDF in your inbox.
 
 Our in-depth guide can help you:
 
@@ -275,7 +278,8 @@ Why some ways of doing good are much more effective than others, and how we unde
 </ul>
 
 <div class="well bg-gray-lighter margin-bottom margin-top padding-top-small padding-bottom-small">
-<h3 class="no-toc">Other articles:</h3>
+
+###~ class="no-toc"~ Other articles:
 
 - [Expected value: how can we know what makes a difference when uncertain?](/articles/expected-value/)
 - [Why good judgement is so crucial to doing good, and how to improve](/2020/09/good-judgement/)
@@ -420,7 +424,8 @@ See the issues we think are most neglected relative to their importance, which c
 </ul>
 
 <div class="well bg-white margin-bottom margin-top padding-top-small padding-bottom-small">
-<h3 class="no-toc">Other articles:</h3>
+
+###~ class="no-toc"~ Other articles:
 
 - [A framework for comparing global problems](/articles/problem-framework/)
 - [The story of how our views about which problems to focus on have changed over time](/career-guide/world-problems/)
@@ -530,7 +535,8 @@ A list of ideas for high-leverage paths in which you can mobilise a lot of resou
 </ul>
 
 <div class="well bg-gray-lighter margin-bottom margin-top padding-top-small padding-bottom-small">
-<h3 class="no-toc">Other articles:</h3>
+
+###~ class="no-toc"~ Other articles:
 
 - [Is it fair to say that most social programmes don’t work?](/articles/effective-social-program/)
 - [How to have a significant impact without changing job](/career-guide/making-a-difference/)
@@ -577,7 +583,8 @@ The productivity of different people within a field varies greatly, so personal 
 </ul>
 
 <div class="well bg-white margin-bottom margin-top padding-top-small padding-bottom-small">
-<h3 class="no-toc">Other articles:</h3>
+
+###~ class="no-toc"~ Other articles:
 
 - [How to identify your personal strengths: collection of the best advice and research we’ve seen](/articles/personal-strengths/)
 
@@ -778,7 +785,8 @@ How to plan a career over time based on all the above points on career strategy.
 </ul>
 
 <div class="well bg-white margin-bottom margin-top padding-top-small padding-bottom-small">
-<h3 class="no-toc">Other articles:</h3>
+
+###~ class="no-toc"~ Other articles:
 
 - [How to be more successful: research-backed ways to invest in your personal development within your current job](/career-guide/how-to-be-successful/#top)
 - [How can you make the most of your time at college?](/articles/advice-for-undergraduates/)

@@ -9,7 +9,8 @@ It’s also a constant work in progress, doubtless incomplete and mistaken in so
 !toc-container
 
 <div class="well visible-if-not-newsletter-subscriber margin-bottom margin-top padding-top-small padding-bottom-small">
-<h3 class="no-toc">Get notified when we add new problems to these lists.</h3>
+
+###~ class="no-toc"~ Get notified when we add new problems to these lists.
 
 Join over 150,000 people who get our newsletter — you’ll receive updates twice a month on our latest research into the world’s most pressing problems and how to solve them.
 
@@ -39,7 +40,9 @@ These areas are ranked roughly by our guess at the expected impact of an additio
 </div>
 
 <div class="col-sm-7"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/problem-profiles/artificial-intelligence/">1\. Risks from artificial intelligence</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/problem-profiles/artificial-intelligence/">1\. Risks from artificial intelligence</a>
+
 </div>
 
 <div class="card__body">
@@ -68,7 +71,9 @@ The development of AI is likely to greatly influence the course we take as a soc
 </div>
 
 <div class="col-sm-7"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/problem-profiles/preventing-catastrophic-pandemics/">2\. Catastrophic pandemics</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/problem-profiles/preventing-catastrophic-pandemics/">2\. Catastrophic pandemics</a>
+
 </div>
 
 <div class="card__body">
@@ -97,7 +102,9 @@ Biotechnological developments threaten to make much deadlier pandemics possible,
 </div>
 
 <div class="col-sm-7"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/problem-profiles/promoting-effective-altruism/">3\. Building effective altruism</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/problem-profiles/promoting-effective-altruism/">3\. Building effective altruism</a>
+
 </div>
 
 <div class="card__body">
@@ -126,7 +133,9 @@ We are part of effective altruism, so we might be biased — but we think growin
 </div>
 
 <div class="col-sm-7"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/problem-profiles/global-priorities-research/">4\. Global priorities research</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/problem-profiles/global-priorities-research/">4\. Global priorities research</a>
+
 </div>
 
 <div class="card__body">
@@ -155,7 +164,9 @@ Rigorously investigating how to prioritise global problems and best address them
 </div>
 
 <div class="col-sm-7"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/problem-profiles/nuclear-security/">5\. Nuclear war</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/problem-profiles/nuclear-security/">5\. Nuclear war</a>
+
 </div>
 
 <div class="card__body">
@@ -184,7 +195,9 @@ Nuclear weapons were the first genuine man-made existential threat. Despite some
 </div>
 
 <div class="col-sm-7"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/problem-profiles/improving-institutional-decision-making/">6\. Epistemics and institutional decision-making</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/problem-profiles/improving-institutional-decision-making/">6\. Epistemics and institutional decision-making</a>
+
 </div>
 
 <div class="card__body">
@@ -213,7 +226,9 @@ Can the decision-making processes of the most powerful institutions be improved 
 </div>
 
 <div class="col-sm-7"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/problem-profiles/climate-change/">7\. Climate change</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/problem-profiles/climate-change/">7\. Climate change</a>
+
 </div>
 
 <div class="card__body">
@@ -242,7 +257,9 @@ Beyond the suffering it’s already causing, worse climate change could increase
 </div>
 
 <div class="col-sm-7"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/problem-profiles/great-power-conflict/">8\. Great power conflict</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/problem-profiles/great-power-conflict/">8\. Great power conflict</a>
+
 </div>
 
 <div class="card__body">
@@ -1104,7 +1121,10 @@ If you already have experience in a particular area, [see our article about how 
 </section>
 
 <div class="container padding-bottom-larger"><div class="row padding-top-larger"><div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 col-content"><div class="tw--mt-6 tw--p-3 tw--pt-2 tw--bg-gray-lighter tw--rounded-md ">
-<h3 class="no-toc"><a class="no-visited-styling tw--text-off-black hover:tw--text-off-black hover:tw--no-underline focus:tw--text-off-black" href="/articles/leverage/"> <small>Read next: </small> In which career can you make the biggest contribution? </a></h3><div class="tw--grid xs:tw--grid-flow-col tw--gap-3"><div class="xs:tw--order-last tw--pt-1">
+
+###~ class="no-toc"~ <a class="no-visited-styling tw--text-off-black hover:tw--text-off-black hover:tw--no-underline focus:tw--text-off-black" href="/articles/leverage/"> <small>Read next: </small> In which career can you make the biggest contribution? </a>
+
+<div class="tw--grid xs:tw--grid-flow-col tw--gap-3"><div class="xs:tw--order-last tw--pt-1">
 [!img~ width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2021/09/lever-720x448.jpeg)](/articles/leverage/)
 </div>
 
@@ -1119,7 +1139,8 @@ There are many ways to contribute to tackling global problems. Even within caree
 </div></div></div></div>
 
 <div class="well bg-gray-lighter margin-bottom margin-top padding-top-small padding-bottom-small">
-<h3 class="no-toc">Enter your email and we’ll mail you a book (for free).</h3>
+
+###~ class="no-toc"~ Enter your email and we’ll mail you a book (for free).
 
 Join our newsletter and we’ll send you a free copy of _The Precipice_ — a book by philosopher Toby Ord about how to tackle the greatest threats facing humanity.
 

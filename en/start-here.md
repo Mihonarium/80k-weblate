@@ -63,7 +63,8 @@ There are three key steps we can help you with:
 The single easiest place to start is our newsletter, which will guide you through the whole process:
 
 <div class="well bg-gray-lighter margin-bottom margin-top padding-top-small padding-bottom-small">
-<h2 class="no-toc">Sign up to our newsletter and get started finding a new career</h2>
+
+##~class="no-toc"~ Sign up to our newsletter and get started finding a new career
 
 We’ll email to guide you through the whole process over a couple of months. Join now, and we’ll also mail you a free book about high-impact careers.
 
@@ -109,7 +110,9 @@ To help you come up with ideas for careers and make sure you haven’t missed a 
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/problem-profiles/">A list of pressing global problems</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/problem-profiles/">A list of pressing global problems</a>
+
 </div>
 
 <div class="card__body">
@@ -138,7 +141,9 @@ The biggest and most neglected global problems we’ve found in our research.
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/career-reviews/">A list of high-impact career paths</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/career-reviews/">A list of high-impact career paths</a>
+
 </div>
 
 <div class="card__body">
@@ -167,7 +172,9 @@ These paths can help you make a bigger contribution to important global problems
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/job-board/">A curated job board</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/job-board/">A curated job board</a>
+
 </div>
 
 <div class="card__body">
@@ -204,7 +211,9 @@ We can support you to make a career plan you feel confident in, and get started 
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/speak-with-us/">Free one-on-one conversations with our team</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/speak-with-us/">Free one-on-one conversations with our team</a>
+
 </div>
 
 <div class="card__body">
@@ -233,7 +242,9 @@ Our advising team can help check your plan, and introduce you to mentors, job op
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/career-planning-landing-page/">Career planning: our eight-week course to help you have a high-impact career</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/career-planning-landing-page/">Career planning: our eight-week course to help you have a high-impact career</a>
+
 </div>
 
 <div class="card__body">
@@ -262,7 +273,9 @@ We lead you through how to apply our ideas to create your own in-depth career pl
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/community/">Get help from our community</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/community/">Get help from our community</a>
+
 </div>
 
 <div class="card__body">
@@ -320,7 +333,8 @@ Brian started reading about the importance of emerging technology like AI in 201
 </aside>
 
 <div class="well bg-gray-lighter margin-bottom margin-top padding-top-small padding-bottom-small">
-<h3 class="no-toc">Enter your email and we’ll mail you a book (for free).</h3>
+
+###~ class="no-toc"~ Enter your email and we’ll mail you a book (for free).
 
 Join our newsletter and we’ll send you a free copy of _The Precipice_ — a book by philosopher Toby Ord about how to tackle the greatest threats facing humanity.
 

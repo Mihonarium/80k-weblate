@@ -9,7 +9,8 @@ You can use the lists on this page to get new ideas for impactful careers and ma
 !toc-container
 
 <div class="well visible-if-not-newsletter-subscriber margin-bottom margin-top padding-top-small padding-bottom-small">
-<h2 class="no-toc">Learn how to get involved in our community.</h2>
+
+##~class="no-toc"~ Learn how to get involved in our community.
 
 Join our newsletter and receive:
 
@@ -43,7 +44,9 @@ Before thinking about specific career paths, we think it’s valuable to conside
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/articles/government-policy/">Government and policy in an area relevant to a top problem</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/articles/government-policy/">Government and policy in an area relevant to a top problem</a>
+
 </div>
 
 <div class="card__body">
@@ -72,7 +75,9 @@ Work out how government policy can help solve the world’s most pressing proble
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/articles/organisation-building/">Organisation-building at effective nonprofits</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/articles/organisation-building/">Organisation-building at effective nonprofits</a>
+
 </div>
 
 <div class="card__body">
@@ -101,7 +106,9 @@ Help build great organisations doing important work via entrepreneurship, operat
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/articles/research-careers/">Research in relevant areas</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/articles/research-careers/">Research in relevant areas</a>
+
 </div>
 
 <div class="card__body">
@@ -130,7 +137,9 @@ Aim to make intellectual advances about how to tackle the world’s most pressin
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/articles/applying-an-unusual-skill-to-a-needed-niche/">Applying an unusual skill to a needed niche</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/articles/applying-an-unusual-skill-to-a-needed-niche/">Applying an unusual skill to a needed niche</a>
+
 </div>
 
 <div class="card__body">
@@ -159,7 +168,9 @@ We mostly focus on more common skills, but a huge variety is needed. If you alre
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/articles/communication/">Communication</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/articles/communication/">Communication</a>
+
 </div>
 
 <div class="card__body">
@@ -188,7 +199,9 @@ Convey important ideas and information in a compelling way, and you can help oth
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/articles/earning-to-give/">Earning to give</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/articles/earning-to-give/">Earning to give</a>
+
 </div>
 
 <div class="card__body">
@@ -231,7 +244,9 @@ We’ve ranked these paths roughly in terms of impact, assuming your personal fi
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/career-reviews/ai-safety-researcher/">1\. AI safety technical research</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/career-reviews/ai-safety-researcher/">1\. AI safety technical research</a>
+
 </div>
 
 <div class="card__body">
@@ -260,7 +275,9 @@ The development of AI could transform society. Help increase the chance it’s p
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/career-reviews/ai-policy-and-strategy/">2\. Shaping future governance of AI</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/career-reviews/ai-policy-and-strategy/">2\. Shaping future governance of AI</a>
+
 </div>
 
 <div class="card__body">
@@ -289,7 +306,9 @@ State regulation and industry governance may determine whether the deployment of
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/career-reviews/biorisk-research/">3\. Biorisk research, strategy, and policy</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/career-reviews/biorisk-research/">3\. Biorisk research, strategy, and policy</a>
+
 </div>
 
 <div class="card__body">
@@ -318,7 +337,9 @@ Help reduce the risk of a global biological catastrophe, like an engineered pand
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/career-reviews/founder-impactful-organisations/">4\. Founder of new projects tackling top problems</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/career-reviews/founder-impactful-organisations/">4\. Founder of new projects tackling top problems</a>
+
 </div>
 
 <div class="card__body">
@@ -347,7 +368,9 @@ Most people can only do great work within a great organisation. Make it possible
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/career-reviews/work-in-effective-altruism-organisations/">5\. Helping build the effective altruism community</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/career-reviews/work-in-effective-altruism-organisations/">5\. Helping build the effective altruism community</a>
+
 </div>
 
 <div class="card__body">
@@ -376,7 +399,9 @@ If you could cause two other, equally talented people to use their skills to tac
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/career-reviews/china-related-ai-safety-and-governance-paths/">6\. China-related AI safety and governance paths</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/career-reviews/china-related-ai-safety-and-governance-paths/">6\. China-related AI safety and governance paths</a>
+
 </div>
 
 <div class="card__body">
@@ -405,7 +430,9 @@ Help Chinese companies and stakeholders involved in building AI make the technol
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/career-reviews/grantmaker/">7\. Grantmaker focused on pressing world problems</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/career-reviews/grantmaker/">7\. Grantmaker focused on pressing world problems</a>
+
 </div>
 
 <div class="card__body">
@@ -434,7 +461,9 @@ Allocate philanthropic funding as effectively as possible by identifying and vet
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/articles/operations-management/">8\. Operations management in high-impact organisations</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/articles/operations-management/">8\. Operations management in high-impact organisations</a>
+
 </div>
 
 <div class="card__body">
@@ -463,7 +492,9 @@ One of the biggest bottlenecks for organisations working on pressing global prob
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/career-reviews/global-priorities-researcher/">9\. Research into global priorities</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/career-reviews/global-priorities-researcher/">9\. Research into global priorities</a>
+
 </div>
 
 <div class="card__body">
@@ -492,7 +523,9 @@ Help identify the most pressing global problems and the most effective ways to s
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/career-reviews/forecasting/">10\. Forecasting and related research and implementation</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/career-reviews/forecasting/">10\. Forecasting and related research and implementation</a>
+
 </div>
 
 <div class="card__body">
@@ -535,7 +568,9 @@ Below we list some other career paths that we don’t recommend as often or as h
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/career-reviews/historian-of-societal-trends/">Historian of large societal trends, inflection points, progress, or collapse</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/career-reviews/historian-of-societal-trends/">Historian of large societal trends, inflection points, progress, or collapse</a>
+
 </div>
 
 <div class="card__body">
@@ -564,7 +599,9 @@ Help anticipate future changes to society and technology by examining the past.
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/career-reviews/public-intellectual/">Public intellectual</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/career-reviews/public-intellectual/">Public intellectual</a>
+
 </div>
 
 <div class="card__body">
@@ -597,7 +634,9 @@ Build a platform and spread important ideas about pressing global problems and h
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/career-reviews/become-an-expert-in-ai-hardware/">Expert in AI hardware</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/career-reviews/become-an-expert-in-ai-hardware/">Expert in AI hardware</a>
+
 </div>
 
 <div class="card__body">
@@ -626,7 +665,9 @@ Shape the course and pace of AI deployment though AI hardware — e.g. by restri
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/career-reviews/information-security/">Information security</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/career-reviews/information-security/">Information security</a>
+
 </div>
 
 <div class="card__body">
@@ -655,7 +696,9 @@ Help prevent emerging technologies like AI and biotech from being misused, stole
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/career-reviews/policy-careers-focused-on-other-pressing-global-issues/">Policy careers focused on other pressing global issues</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/career-reviews/policy-careers-focused-on-other-pressing-global-issues/">Policy careers focused on other pressing global issues</a>
+
 </div>
 
 <div class="card__body">
@@ -684,7 +727,9 @@ Research, promote, or implement policies that address global issues beyond biose
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/career-reviews/emerging-global-power-specialist/">Specialist in emerging global powers</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/career-reviews/emerging-global-power-specialist/">Specialist in emerging global powers</a>
+
 </div>
 
 <div class="card__body">
@@ -713,7 +758,9 @@ Help emerging global powers coordinate with the rest of the world in addressing 
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/career-reviews/managing-philanthropic-funds/">Manager of a long-term philanthropic fund</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/career-reviews/managing-philanthropic-funds/">Manager of a long-term philanthropic fund</a>
+
 </div>
 
 <div class="card__body">
@@ -742,7 +789,9 @@ Help philanthropists invest resources now in order to deploy the returns in the 
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/career-reviews/explore-a-potentially-pressing-global-issue/">Investigate a potentially pressing but unexplored global issue</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/career-reviews/explore-a-potentially-pressing-global-issue/">Investigate a potentially pressing but unexplored global issue</a>
+
 </div>
 
 <div class="card__body">
@@ -771,7 +820,9 @@ See if we can make progress on an under-researched problem that could be even mo
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/career-reviews/alignment-data-expert/">Data collection for AI alignment</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/career-reviews/alignment-data-expert/">Data collection for AI alignment</a>
+
 </div>
 
 <div class="card__body">
@@ -804,7 +855,9 @@ Act like a social scientist to design and build pipelines that collect data from
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/career-reviews/journalism/">Journalism</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/career-reviews/journalism/">Journalism</a>
+
 </div>
 
 <div class="card__body">
@@ -833,7 +886,9 @@ Spread important ideas and help shape public discourse for the better.
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/career-reviews/non-technical-roles-in-ai-labs/">Non-technical roles in leading AI labs</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/career-reviews/non-technical-roles-in-ai-labs/">Non-technical roles in leading AI labs</a>
+
 </div>
 
 <div class="card__body">
@@ -862,7 +917,9 @@ You don’t have to be a technical or policy researcher to help AI labs work tow
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/career-reviews/software-engineering/">Software engineering</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/career-reviews/software-engineering/">Software engineering</a>
+
 </div>
 
 <div class="card__body">
@@ -891,7 +948,9 @@ Use coding skills to help shape the development of AI, prevent pandemics, and su
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/career-reviews/research-management/">Research management</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/career-reviews/research-management/">Research management</a>
+
 </div>
 
 <div class="card__body">
@@ -920,7 +979,9 @@ Multiply the impact of research by guiding, coordinating, and promoting the best
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/career-reviews/organise-an-effective-altruism-group/">Organise an effective altruism local group</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/career-reviews/organise-an-effective-altruism-group/">Organise an effective altruism local group</a>
+
 </div>
 
 <div class="card__body">
@@ -949,7 +1010,9 @@ Grow the effective altruism community by running events, mentoring, and connecti
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/career-reviews/think-tank-research/">Think tank research</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/career-reviews/think-tank-research/">Think tank research</a>
+
 </div>
 
 <div class="card__body">
@@ -978,7 +1041,9 @@ Improve government policies through targeted research and advocacy.
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/career-reviews/tech-entrepreneurship/">Found a tech startup</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/career-reviews/tech-entrepreneurship/">Found a tech startup</a>
+
 </div>
 
 <div class="card__body">
@@ -1007,7 +1072,9 @@ Get great career capital by working at a tech startup — and if it works out, h
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/career-reviews/academic-research/">Academic research</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/career-reviews/academic-research/">Academic research</a>
+
 </div>
 
 <div class="card__body">
@@ -1036,7 +1103,9 @@ Do research in academia, which is home to some of the most far-reaching and cutt
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/career-reviews/effective-altruist-approach-to-climate-change/">Research & advocacy promoting impactful climate solutions</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/career-reviews/effective-altruist-approach-to-climate-change/">Research & advocacy promoting impactful climate solutions</a>
+
 </div>
 
 <div class="card__body">
@@ -1065,7 +1134,9 @@ Identify and implement the most effective solutions to climate change by focusin
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/career-reviews/earning-to-give-in-a-high-paying-role/">Earning to give in a high-paying role, such as quantitative trading</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/career-reviews/earning-to-give-in-a-high-paying-role/">Earning to give in a high-paying role, such as quantitative trading</a>
+
 </div>
 
 <div class="card__body">
@@ -1094,7 +1165,9 @@ Get an extremely high-paying job, then donate some of your salary to the most ef
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/career-reviews/executive-assistant-for-an-impactful-person/">Become an executive assistant for someone doing especially high-impact work</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/career-reviews/executive-assistant-for-an-impactful-person/">Become an executive assistant for someone doing especially high-impact work</a>
+
 </div>
 
 <div class="card__body">
@@ -1123,7 +1196,9 @@ Know of someone doing very valuable work? Multiply their impact by taking time-c
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/career-reviews/china-specialist/">Improving China-Western coordination on global catastrophic risks</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/career-reviews/china-specialist/">Improving China-Western coordination on global catastrophic risks</a>
+
 </div>
 
 <div class="card__body">
@@ -1152,7 +1227,9 @@ The broader version of our top-recommended path on shaping China’s involvement
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/career-reviews/engineering/">Engineering</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/career-reviews/engineering/">Engineering</a>
+
 </div>
 
 <div class="card__body">
@@ -1187,7 +1264,9 @@ These aren’t career paths per se, but they can be great phases in your career 
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/career-reviews/congressional-staffer/">Congressional staffer</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/career-reviews/congressional-staffer/">Congressional staffer</a>
+
 </div>
 
 <div class="card__body">
@@ -1216,7 +1295,9 @@ Learn about policy making and government while having a direct social impact by 
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/career-reviews/economics-phd/">Economics PhDs</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/career-reviews/economics-phd/">Economics PhDs</a>
+
 </div>
 
 <div class="card__body">
@@ -1245,7 +1326,9 @@ Get a valuable credential in a field relevant to most of our priority paths (esp
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/career-reviews/machine-learning-phd/">Machine Learning PhDs</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/career-reviews/machine-learning-phd/">Machine Learning PhDs</a>
+
 </div>
 
 <div class="card__body">
@@ -1274,7 +1357,9 @@ Understand the cutting edge of machine learning in order to contribute to the sa
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/career-reviews/startup-early-employee/">Early-stage startup employee</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/career-reviews/startup-early-employee/">Early-stage startup employee</a>
+
 </div>
 
 <div class="card__body">
@@ -1303,7 +1388,9 @@ Learn about founding a startup while gaining connections and a broad skillset.
 </div>
 
 <div class="col-sm-8"><div class="card__title">
-<h3 class="no-toc"><a class="card__anchor no-visited-styling" href="/career-reviews/should-you-go-to-law-school/">Law school in the US</a></h3>
+
+###~ class="no-toc"~ <a class="card__anchor no-visited-styling" href="/career-reviews/should-you-go-to-law-school/">Law school in the US</a>
+
 </div>
 
 <div class="card__body">
@@ -1378,7 +1465,10 @@ To help you work out which career path is best for you, we’ve created [an eigh
 </section>
 
 <section class="wrap section-full-width bg-alternating-start-off-white padding-top-larger padding-bottom-larger"><div class="container "><div class="row"><div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 col-content"><div class="tw--mt-6 tw--p-3 tw--pt-2 tw--bg-gray-lighter tw--rounded-md ">
-<h3 class="no-toc"><a class="no-visited-styling tw--text-off-black hover:tw--text-off-black hover:tw--no-underline focus:tw--text-off-black" href="/articles/personal-fit/"> <small>Read next: </small> Personal fit: why being good at your job is even more important than people think </a></h3><div class="tw--grid xs:tw--grid-flow-col tw--gap-3"><div class="xs:tw--order-last tw--pt-1">
+
+###~ class="no-toc"~ <a class="no-visited-styling tw--text-off-black hover:tw--text-off-black hover:tw--no-underline focus:tw--text-off-black" href="/articles/personal-fit/"> <small>Read next: </small> Personal fit: why being good at your job is even more important than people think </a>
+
+<div class="tw--grid xs:tw--grid-flow-col tw--gap-3"><div class="xs:tw--order-last tw--pt-1">
 [!img~ width="720" height="448" ~[Decorative post preview](https://80000hours.org/wp-content/uploads/2021/09/simone-biles-720x448.jpeg)](/articles/personal-fit/)
 </div>
 
@@ -1393,7 +1483,8 @@ People’s productivity varies greatly, so personal fit is one of the most impor
 </div></div></div></div>
 
 <div class="well bg-gray-lighter margin-bottom margin-top padding-top-small padding-bottom-small">
-<h3 class="no-toc">Enter your email and we’ll mail you a book (for free)</h3>
+
+###~ class="no-toc"~ Enter your email and we’ll mail you a book (for free)
 
 We believe you can help tackle some of the world’s biggest and most neglected problems, and our only aim is to help you do that.
 
