@@ -28,7 +28,34 @@
 ```
 
 ```
-
+<style type="text/css">@media  {        .header-featured-image-huge .featured-image  {
+          background-image: url(https://80000hours.org/wp-content/uploads/2022/06/image-84-1-1024x476.png);
+        }
+      }@media screen and (min-width: 468px) {        .header-featured-image-huge .featured-image  {
+          background-image: url(https://80000hours.org/wp-content/uploads/2022/06/image-84-1-1440x830.png);
+        }
+      }@media screen and (min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.3),
+        screen and (min-width: 768px) and (-o-min-device-pixel-ratio: 13/10),
+        screen and (min-width: 768px) and (min-resolution: 120dpi) {        .header-featured-image-huge .featured-image  {
+          background-image: url(https://80000hours.org/wp-content/uploads/2022/06/image-84-1-1800x977.png);
+        }
+      }@media screen and (min-width: 1024px) {        .header-featured-image-huge .featured-image  {
+          background-image: url(https://80000hours.org/wp-content/uploads/2022/06/image-84-1-1800x977.png);
+        }
+      }@media screen and (min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.3),
+        screen and (min-width: 1024px) and (-o-min-device-pixel-ratio: 13/10),
+        screen and (min-width: 1024px) and (min-resolution: 120dpi) {        .header-featured-image-huge .featured-image  {
+          background-image: url(https://80000hours.org/wp-content/uploads/2022/06/image-84-1-1800x977.png);
+        }
+      }@media screen and (min-width: 1550px) {        .header-featured-image-huge .featured-image  {
+          background-image: url(https://80000hours.org/wp-content/uploads/2022/06/image-84-1-1800x977.png);
+        }
+      }@media screen and (min-width: 1550px) and (-webkit-min-device-pixel-ratio: 1.3),
+        screen and (min-width: 1550px) and (-o-min-device-pixel-ratio: 13/10),
+        screen and (min-width: 1550px) and (min-resolution: 120dpi) {        .header-featured-image-huge .featured-image  {
+          background-image: url(https://80000hours.org/wp-content/uploads/2022/06/image-84-1-1800x977.png);
+        }
+      }</style>
 ```
 
 ```
