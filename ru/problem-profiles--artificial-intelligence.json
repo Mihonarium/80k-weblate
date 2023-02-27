@@ -229,6 +229,7 @@
     "problem-profiles--artificial-intelligence:0581": "1. Сложно добиться того, чтобы система пыталась делать именно то, что мы от неё хотим. Что в свою очередь означает, что сложно обеспечить заалайненность системы.",
     "problem-profiles--artificial-intelligence:0583": "2. Сложно корректировать поведение системы, если мы считаем, что у проблем с её целями могут быть особенно плохие последствия.",
     "problem-profiles--artificial-intelligence:0585": "Как мы поговорим ниже, мы считаем, что проблемы с целями у систем ИИ могут привести к особенно плохим последствиям.",
+    "problem-profiles--artificial-intelligence:0587": "Аджея Котра, исследовательница из Open Philantropy, написала, почему мы считаем, что обеспечить алайнмент ИИ при современном глубоком обучении будет сложно. Мы рекомендуем [эту заметку](https://web.archive.org/web/20221013022057/https://www.cold-takes.com/why-ai-alignment-could-be-hard-with-modern-deep-learning/) новичкам в машинном обучении и [эту](https://web.archive.org/web/20221013014109/https://www.alignmentforum.org/posts/pRkFkzwKZ2zfa3R6H/without-specific-countermeasures-the-easiest-path-to) — тем, кто с ним неплохо знаком.`]",
     "problem-profiles--artificial-intelligence:0611": "</div>",
     "problem-profiles--artificial-intelligence:0613": "<div class=\"panel-body-collapse collapse\" id=\"-20\"><div class=\"panel-body\">",
     "problem-profiles--artificial-intelligence:0621": "</div></div></div>",
